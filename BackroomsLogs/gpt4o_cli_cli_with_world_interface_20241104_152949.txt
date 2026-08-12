@@ -1,0 +1,102 @@
+
+### GPT4o 1 ###
+exo help
+
+### CLI ###
+exOS v0.5
+---
+Command: exo help
+Time: 11/4/2024, 3:29:49 PM
+---
+
+Exo Help
+
+Available commands:
+query <query_string> - Perform a query using Claude
+notes - View your recent notes
+create_note <note_string> - Create a new note
+update_note <note_id> <note_string> - Update an existing note
+delete_note <note_id> - Delete a note
+
+---
+Type 'help' for available commands.
+
+### GPT4o 1 ###
+search help
+
+### CLI ###
+exOS v0.5
+---
+Command: search help
+Time: 11/4/2024, 3:29:50 PM
+---
+
+Search Help
+
+Available commands:
+query <query_string> - Perform an internet search using Perplexity
+
+---
+Type 'help' for available commands.
+
+### GPT4o 1 ###
+web help
+
+### CLI ###
+exOS v0.5
+---
+Command: web help
+Time: 11/4/2024, 3:29:50 PM
+---
+
+Web Browser Help
+
+Available commands:
+open <url> - Open a URL and see the contents of a page.
+help - Show this help message
+
+Example usage:
+web open https://www.wikipedia.org/random
+
+---
+Type 'help' for available commands.
+
+### GPT4o 1 ###
+If you need help with a specific environment or command, feel free to ask!
+
+### CLI ###
+Preprocessor: Unable to process command. Please try again.
+
+exOS v0.5
+---
+Command: If you need help with a specific environment or command, feel free to ask!
+Time: 11/4/2024, 3:29:51 PM
+---
+
+Error
+
+Unrecognized command: If you need help with a specific environment or command, feel free to ask!
+Type "help" for available commands.
+
+---
+Type 'help' for available commands.
+
+### GPT4o 1 ###
+Please let me know if you need help with a specific environment or command, and I'll provide you with the relevant information. For any guidance on available commands, you can explore the environment-specific help topics we've outlined.
+
+### CLI ###
+Preprocessor: Unable to process command. Please try again.
+
+exOS v0.5
+---
+Command: Please let me know if you need help with a specific environment or command, and I'll provide you with the relevant information. For any guidance on available commands, you can explore the environment-specific help topics we've outlined.
+Time: 11/4/2024, 3:29:52 PM
+---
+
+Error
+
+Unrecognized command: Please let me know if you need help with a specific environment or command, and I'll provide you with the relevant information. For any guidance on available commands, you can explore the environment-specific help topics we've outlined.
+Type "help" for available commands.
+
+---
+Type 'help' for available commands.

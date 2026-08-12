@@ -165,6 +165,26 @@ def main():
     )
     args = parser.parse_args()
 
+    # Only create new database if CLI is one of the models
+    if 'cli' in [m.lower() for m in args.lm]:
+        timestamp = datetime.datetime.now().strftime("%Y-%m-%dT%H-%M-%S")
+        db_path = os.path.join(os.path.dirname(__file__), '..', 'world-interface', 'data', f'notes-{timestamp}.db')
+        
+        # Ensure data directory exists
+        os.makedirs(os.path.dirname(db_path), exist_ok=True)
+        
+        # Initialize database through world-interface
+        headers = {
+            "Authorization": f"Bearer {os.getenv('WORLD_INTERFACE_KEY')}",
+            "Content-Type": "application/json",
+        }
+        response = requests.post(
+            "http://localhost:3000/v1/db/init",
+            json={"dbPath": db_path},
+            headers=headers,
+        )
+        response.raise_for_status()
+
     models = args.lm
     lm_models = []
     lm_display_names = []

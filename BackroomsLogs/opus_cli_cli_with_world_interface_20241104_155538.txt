@@ -1,0 +1,41 @@
+
+### Claude 1 ###
+exo help
+
+### CLI ###
+exOS v0.5
+---
+Command: exo help
+Time: 11/4/2024, 3:55:39 PM
+---
+
+Exo Help
+
+Available commands:
+query <query_string> - Perform a query using Claude
+notes - View your recent notes
+create_note <note_string> - Create a new note
+update_note <note_id> <note_string> - Update an existing note
+delete_note <note_id> - Delete a note
+search_notes <query> - Search notes using natural language
+read_note <note_id> - Read a specific note by ID
+
+---
+Type 'help' for available commands.
+
+### Claude 1 ###
+exo create_note Test note 1. This is a test note to try out the note taking functionality in exOS.
+
+### CLI ###
+exOS v0.5
+---
+Command: exo create_note Test note 1. This is a test note to try out the note taking functionality in exOS.
+Time: 11/4/2024, 3:55:42 PM
+---
+
+Note created. Use 'exo notes' to see all your personal notes
+
+Your note has been created with ID: 5
+
+---
+Type 'help' for available commands.

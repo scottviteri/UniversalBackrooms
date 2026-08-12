@@ -1,0 +1,1849 @@
+
+### Claude 1 ###
+exo help
+
+### CLI ###
+exOS v0.5
+---
+Command: exo help
+Time: 10/30/2024, 2:41:00 PM
+---
+
+Exo Help
+
+Available commands:
+query <query_string> - Perform a query using Claude
+
+---
+Type 'help' for available commands.
+
+### Claude 1 ###
+exo query What is the capital of France?
+
+### CLI ###
+exOS v0.5
+---
+Command: exo query What is the capital of France?
+Time: 10/30/2024, 2:41:01 PM
+---
+
+RESULTS FROM EXO.
+
+
+QUERY: What is the capital of France?
+
+RESULT: The capital of France is Paris. Paris is the largest city in France and has been the country's capital since the 12th century. It is known for famous landmarks like the Eiffel Tower, the Louvre museum, and the Notre-Dame cathedral. As the seat of the French government, Paris is home to the official residence of the President of France (the Élysée Palace) as well as the French Parliament. The city is a global center for art, fashion, gastronomy and culture.
+
+simulator@anthropic:~/$
+
+---
+Type 'help' for available commands.
+
+### Claude 1 ###
+search help
+
+### CLI ###
+exOS v0.5
+---
+Command: search help
+Time: 10/30/2024, 2:41:09 PM
+---
+
+Search Help
+
+Available commands:
+query <query_string> - Perform an internet search using Perplexity
+
+---
+Type 'help' for available commands.
+
+### Claude 1 ###
+search query tallest building in the world
+
+### CLI ###
+exOS v0.5
+---
+Command: search query tallest building in the world
+Time: 10/30/2024, 2:41:11 PM
+---
+
+Search results from Perplexity.
+
+The tallest building in the world is the **Burj Khalifa**, located in Dubai, United Arab Emirates. It stands at a height of 828 meters (2,717 feet) and has 163 occupied floors. It has held this title since its completion in 2010. The Burj Azizi, currently under construction in Dubai, is expected to become the second-tallest building in the world when completed, with a height of 725 meters (2,379 feet).
+
+---
+Type 'help' for available commands.
+
+### Claude 1 ###
+web help
+
+### CLI ###
+exOS v0.5
+---
+Command: web help
+Time: 10/30/2024, 2:41:16 PM
+---
+
+Web Browser Help
+
+Available commands:
+open <url> - Open a URL and see the contents of a page.
+help - Show this help message
+
+Example usage:
+web open https://www.wikipedia.org/random
+
+---
+Type 'help' for available commands.
+
+### Claude 1 ###
+web open https://www.wikipedia.org/wiki/Lake_Baikal
+
+### CLI ###
+exOS v0.5
+---
+Command: web open https://www.wikipedia.org/wiki/Lake_Baikal
+Time: 10/30/2024, 2:41:20 PM
+---
+
+PAGE TITLE: Lake Baikal - Wikipedia
+
+PAGE CONTENT:
+
+[Jump to content](#bodyContent)
+
+[![](https://www.wikipedia.org/upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Wiki_Loves_Monuments_Logo_notext.svg/70px-Wiki_Loves_Monuments_Logo_notext.svg.png)\
+\
+Photograph a historic site, help Wikipedia, and win a prize. Participate in the world's largest photography competition this month! Learn more](https://commons.wikimedia.org/wiki/Commons:Wiki_Loves_Monuments_2024_in_the_United_States)
+
+[Coordinates](/wiki/Geographic_coordinate_system "Geographic coordinate system")
+: ![](https://www.wikipedia.org/upload.wikimedia.org/wikipedia/commons/thumb/5/55/WMA_button2b.png/17px-WMA_button2b.png%20%22Show%20location%20on%20an%20interactive%20map%22)[53°30′N 108°0′E﻿ / ﻿53.500°N 108.000°E﻿ / 53.500; 108.000](https://geohack.toolforge.org/geohack.php?pagename=Lake_Baikal&params=53_30_N_108_0_E_region:RU-BU_type:waterbody_scale:5000000)
+
+From Wikipedia, the free encyclopedia
+
+Freshwater rift lake in Russia
+
+"Baykal" redirects here. For other uses, see [Baykal (disambiguation)](/wiki/Baykal_(disambiguation) "Baykal (disambiguation)")
+.
+
+| Lake Baikal |     |
+| --- | --- |
+| *   Озеро Байкал ([Russian](/wiki/Russian_language "Russian language")<br>    )<br>*   Байгал далай ([Buryat](/wiki/Buryat_language "Buryat language")<br>    ) |     |
+| [![](https://www.wikipedia.org/upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Baikal.A2001296.0420.250m-NASA.jpg/264px-Baikal.A2001296.0420.250m-NASA.jpg)](/wiki/File:Baikal.A2001296.0420.250m-NASA.jpg)<br><br>Satellite photo of Baikal, 2001 |     |
+| [![Lake Baikal is located in Republic of Buryatia](https://www.wikipedia.org/upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Relief_Map_of_Buryatia.svg/256px-Relief_Map_of_Buryatia.svg.png)](/wiki/File:Relief_Map_of_Buryatia.svg "Lake Baikal is located in Republic of Buryatia")<br><br>![Lake Baikal](https://www.wikipedia.org/upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/6px-Red_pog.svg.png)<br><br>Lake Baikal<br><br>[![Lake Baikal is located in Irkutsk Oblast](https://www.wikipedia.org/upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Relief_Map_of_Irkutsk_Oblast.png/256px-Relief_Map_of_Irkutsk_Oblast.png)](/wiki/File:Relief_Map_of_Irkutsk_Oblast.png "Lake Baikal is located in Irkutsk Oblast")<br><br>![Lake Baikal](https://www.wikipedia.org/upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/6px-Red_pog.svg.png)<br><br>Lake Baikal<br><br>[![Lake Baikal is located in Russia](https://www.wikipedia.org/upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Russia_rel_location_map.png/256px-Russia_rel_location_map.png)](/wiki/File:Russia_rel_location_map.png "Lake Baikal is located in Russia")<br><br>![Lake Baikal](https://www.wikipedia.org/upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/6px-Red_pog.svg.png)<br><br>Lake Baikal<br><br>Show map of Republic of BuryatiaShow map of Irkutsk OblastShow map of RussiaShow all |     |
+| [![](https://www.wikipedia.org/upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Karte_baikal2.png/256px-Karte_baikal2.png)](/wiki/File:Karte_baikal2.png) |     |
+| Location | [Siberia](/wiki/Siberia "Siberia")<br>, Russia |
+| Coordinates | ![](https://www.wikipedia.org/upload.wikimedia.org/wikipedia/commons/thumb/5/55/WMA_button2b.png/17px-WMA_button2b.png%20%22Show%20location%20on%20an%20interactive%20map%22)[53°30′N 108°0′E﻿ / ﻿53.500°N 108.000°E﻿ / 53.500; 108.000](https://geohack.toolforge.org/geohack.php?pagename=Lake_Baikal&params=53_30_N_108_0_E_region:RU-BU_type:waterbody_scale:5000000) |
+| [Lake type](/wiki/Lake#Types_of_lakes "Lake") | [Ancient lake](/wiki/Ancient_lake "Ancient lake")<br>, [Continental rift lake](/wiki/Rift_lake "Rift lake") |
+| [Primary inflows](/wiki/Inflow_(hydrology) "Inflow (hydrology)") | [Selenga](/wiki/Selenga "Selenga")<br>, [Barguzin](/wiki/Barguzin_(river) "Barguzin (river)")<br>, [Upper Angara](/wiki/Upper_Angara "Upper Angara") |
+| [Primary outflows](/wiki/Discharge_(hydrology) "Discharge (hydrology)") | [Angara](/wiki/Angara "Angara") |
+| [Catchment area](/wiki/Drainage_basin "Drainage basin") | 560,000 km2 (216,000 sq mi) |
+| [Basin](/wiki/Drainage_basin "Drainage basin")<br> countries | [Mongolia](/wiki/Mongolia "Mongolia")<br> and [Russia](/wiki/Russia "Russia") |
+|     |     |
+| Max. length | 636 km (395 mi) |
+| Max. width | 79 km (49 mi) |
+| [Surface area](/wiki/List_of_lakes_by_area "List of lakes by area") | 31,722 km2 (12,248 sq mi)[\[1\]](#cite_note-INTAS-1) |
+| Average depth | 744.4 m (2,442 ft; 407.0 fathoms)[\[1\]](#cite_note-INTAS-1) |
+| Max. depth | 1,642 m (5,387 ft; 898 fathoms)[\[1\]](#cite_note-INTAS-1) |
+| [Water volume](/wiki/List_of_lakes_by_volume "List of lakes by volume") | 23,610 km3 (5,660 cu mi)[\[1\]](#cite_note-INTAS-1) |
+| [Residence time](/wiki/Lake_retention_time "Lake retention time") | 330 years[\[2\]](#cite_note-2) |
+| Shore length1 | 2,100 km (1,300 mi) |
+| Surface elevation | 455.5 m (1,494 ft) |
+|     |     |
+| Frozen | January–May |
+| [Islands](/wiki/Category:Lake_islands "Category:Lake islands") | 27 ([Olkhon Island](/wiki/Olkhon_Island "Olkhon Island")<br>) |
+| Settlements | [Severobaykalsk](/wiki/Severobaykalsk "Severobaykalsk")<br>, [Slyudyanka](/wiki/Slyudyanka "Slyudyanka")<br>, [Baykalsk](/wiki/Baykalsk "Baykalsk")<br>, [Ust-Barguzin](/wiki/Ust-Barguzin "Ust-Barguzin") |
+|     |     |
+| [UNESCO World Heritage Site](/wiki/World_Heritage_Site "World Heritage Site") |     |
+| [Criteria](/wiki/World_Heritage_Site#Selection_criteria "World Heritage Site") | Natural: vii, viii, ix, x |
+| Reference | [754](https://whc.unesco.org/en/list/754) |
+| Inscription | 1996 (20th [Session](/wiki/World_Heritage_Committee "World Heritage Committee")<br>) |
+| Area | 8,800,000 ha |
+|     |     |
+| 1 Shore length is [not a well-defined measure](/wiki/Coastline_paradox "Coastline paradox")<br>. |     |
+
+**Lake Baikal** ([/baɪˈkɑːl, \-ˈkæl/](/wiki/Help:IPA/English "Help:IPA/English")
+ [_by-KAHL, -⁠KAL_](/wiki/Help:Pronunciation_respelling_key "Help:Pronunciation respelling key")
+;[\[3\]](#cite_note-3)
+ [Russian](/wiki/Russian_language "Russian language")
+: Озеро Байкал, [romanized](/wiki/Romanization_of_Russian "Romanization of Russian")
+: _Ozero Baykal_ [\[ˈozʲɪrə bɐjˈkaɫ\]](/wiki/Help:IPA/Russian "Help:IPA/Russian")
+; [Buryat](/wiki/Buryat_language "Buryat language")
+: Байгал далай, romanized: _Baigal dalai_[\[4\]](#cite_note-4)
+) is the deepest [rift lake](/wiki/Rift_lake "Rift lake")
+ in the world. It is situated in southern [Siberia](/wiki/Siberia "Siberia")
+, [Russia](/wiki/Russia "Russia")
+ between the [federal subjects](/wiki/Federal_subjects_of_Russia "Federal subjects of Russia")
+ of [Irkutsk](/wiki/Irkutsk_Oblast "Irkutsk Oblast")
+ [Oblast](/wiki/Oblasts_of_Russia "Oblasts of Russia")
+ to the northwest and the [Republic of Buryatia](/wiki/Republic_of_Buryatia "Republic of Buryatia")
+ to the southeast.
+
+At 31,722 km2 (12,248 sq mi)—slightly larger than [Belgium](/wiki/Belgium "Belgium")
+—Lake Baikal is the world's [seventh-largest lake](/wiki/List_of_lakes_by_area "List of lakes by area")
+ by surface area,[\[5\]](#cite_note-oddities-5)
+ as well as the second largest lake in [Eurasia](/wiki/Eurasia "Eurasia")
+ after the [Caspian Sea](/wiki/Caspian_Sea "Caspian Sea")
+. However, because it is also the [deepest lake](/wiki/List_of_lakes_by_depth "List of lakes by depth")
+,[\[6\]](#cite_note-6)
+ with a maximum depth of 1,642 metres (5,387 [feet](/wiki/Foot_(unit) "Foot (unit)")
+; 898 [fathoms](/wiki/Fathom "Fathom")
+),[\[1\]](#cite_note-INTAS-1)
+ Lake Baikal is the world's [largest](/wiki/List_of_lakes_by_volume "List of lakes by volume")
+ [freshwater](/wiki/Freshwater "Freshwater")
+ lake by volume, containing 23,615.39 km3 (5,670 cu mi) of water[\[1\]](#cite_note-INTAS-1)
+ or 22–23% of the world's fresh [surface water](/wiki/Surface_water "Surface water")
+,[\[7\]](#cite_note-7)
+[\[8\]](#cite_note-8)
+ more than all of the [North American](/wiki/North_America "North America")
+ [Great Lakes](/wiki/Great_Lakes "Great Lakes")
+ combined.[\[9\]](#cite_note-9)
+ It is also the world's [oldest lake](/wiki/Ancient_lake "Ancient lake")
+[\[10\]](#cite_note-touchstone-10)
+ at 25–30 million years,[\[11\]](#cite_note-unesco-11)
+[\[12\]](#cite_note-ScienceDaily2017-12)
+ and among the clearest.[\[13\]](#cite_note-Jung2004-13)
+
+Lake Baikal is home to thousands of species of [plants](/wiki/Plant "Plant")
+ and animals, many of them [endemic](/wiki/Endemic "Endemic")
+ to the region. It is also home to [Buryat](/wiki/Buryats "Buryats")
+ tribes, who raise goats, [camels](/wiki/Camel "Camel")
+, cattle, [sheep](/wiki/Sheep "Sheep")
+, and horses[\[14\]](#cite_note-animal-14)
+ on the eastern side of the lake,[\[15\]](#cite_note-15)
+ where the mean temperature varies from a winter minimum of −19 °C (−2 °F) to a summer maximum of 14 °C (57 °F).[\[16\]](#cite_note-16)
+ The region to the east of Lake Baikal is referred to as [Transbaikalia](/wiki/Transbaikalia "Transbaikalia")
+ or as the Transbaikal,[\[17\]](#cite_note-17)
+ and the loosely defined region around the lake itself is sometimes known as [Baikalia](/wiki/Baikalia "Baikalia")
+. [UNESCO](/wiki/UNESCO "UNESCO")
+ declared Baikal a [World Heritage Site](/wiki/World_Heritage_Site "World Heritage Site")
+ in 1996.[\[18\]](#cite_note-18)
+
+Geography and hydrography
+-------------------------
+
+\[[edit](/w/index.php?title=Lake_Baikal&action=edit&section=1 "Edit section: Geography and hydrography")\
+\]
+
+[![](https://www.wikipedia.org/upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Yeniseirivermap.png/280px-Yeniseirivermap.png)](/wiki/File:Yeniseirivermap.png)
+
+The [Yenisey](/wiki/Yenisey "Yenisey")
+ basin, which includes Lake Baikal
+
+[![](https://www.wikipedia.org/upload.wikimedia.org/wikipedia/commons/thumb/a/ac/DEM_Baikal_lake.png/280px-DEM_Baikal_lake.png)](/wiki/File:DEM_Baikal_lake.png)
+
+A [digital elevation model](/wiki/Digital_elevation_model "Digital elevation model")
+ of Lake Baikal region
+
+Lake Baikal is in a rift valley, created by the [Baikal Rift Zone](/wiki/Baikal_Rift_Zone "Baikal Rift Zone")
+, where the Earth's crust is slowly pulling apart.[\[5\]](#cite_note-oddities-5)
+ At 636 km (395 mi) long and 79 km (49 mi) wide, Lake Baikal has the largest surface area of any freshwater lake in Asia, at 31,722 km2 (12,248 sq mi), and is the deepest lake in the world at 1,642 metres (5,387 feet; 898 fathoms). The surface of the lake is 455.5 m (1,494 ft) above sea level, while the bottom of the lake is 1,186.5 m (3,893 ft; 648.8 fathoms) below sea level, and below this lies some 7 km (4.3 mi) of [sediment](/wiki/Sediment "Sediment")
+, placing the rift floor some 8–11 km (5.0–6.8 mi) below the surface, the deepest continental [rift](/wiki/Rift "Rift")
+ on Earth.[\[5\]](#cite_note-oddities-5)
+
+In geological terms, the rift is young and active – it widens about 4 mm (0.16 in) per year.[\[19\]](#cite_note-earthquake_insight-19)
+ The fault zone is also seismically active; hot springs occur in the area and notable [earthquakes](/wiki/Earthquake "Earthquake")
+ happen every few years. The lake is divided into three basins: North, Central, and South, with depths about 900 m (3,000 ft), 1,600 m (5,200 ft), and 1,400 m (4,600 ft), respectively. Fault-controlled accommodation zones rising to depths about 300 m (980 ft) separate the basins. The North and Central basins are separated by [Academician Ridge](/wiki/Academician_Ridge "Academician Ridge")
+, while the area around the Selenga Delta and the Buguldeika Saddle separates the Central and South basins. The lake drains into the [Angara](/wiki/Angara "Angara")
+, a tributary of the [Yenisey](/wiki/Yenisey "Yenisey")
+. Landforms include [Cape Ryty](/wiki/Cape_Ryty "Cape Ryty")
+ on Baikal's northwest coast.
+
+Baikal's age is estimated at 25–30 million years, making it the most [ancient lake](/wiki/Ancient_lake "Ancient lake")
+ in [geological](/wiki/Geology "Geology")
+ history.[\[11\]](#cite_note-unesco-11)
+[\[12\]](#cite_note-ScienceDaily2017-12)
+ It is unique among large, high-latitude lakes, as its sediments have not been scoured by overriding continental ice sheets. Russian, U.S., and Japanese cooperative studies of deep-drilling core sediments in the 1990s provide a detailed record of climatic variation over the past 6.7 million years.[\[20\]](#cite_note-20)
+[\[21\]](#cite_note-21)
+
+Longer and deeper sediment cores are expected in the near future.\[_[needs update](/wiki/Wikipedia:Manual_of_Style/Dates_and_numbers#Chronological_items "Wikipedia:Manual of Style/Dates and numbers")\
+_\] Lake Baikal is the only confined freshwater lake in which direct and indirect evidence of [gas hydrates](/wiki/Gas_hydrate "Gas hydrate")
+ exists.[\[22\]](#cite_note-22)
+[\[23\]](#cite_note-23)
+[\[24\]](#cite_note-24)
+
+The lake is surrounded by mountains; the [Baikal Mountains](/wiki/Baikal_Mountains "Baikal Mountains")
+ on the north shore, the [Barguzin Range](/wiki/Barguzin_Range "Barguzin Range")
+ on the northeastern shore and the [Primorsky Range](/wiki/Primorsky_Range "Primorsky Range")
+ stretching along the western shore. The mountains and the [taiga](/wiki/Taiga "Taiga")
+ are protected as a national park. It contains 27 islands; the largest, [Olkhon](/wiki/Olkhon "Olkhon")
+, is 72 km (45 mi) long and is the third-largest lake-bound island in the world. The lake is fed by as many as 330 inflowing rivers.[\[25\]](#cite_note-cnn-25)
+ The main ones draining directly into Baikal are the [Selenga](/wiki/Selenga "Selenga")
+, the [Barguzin](/wiki/Barguzin_(river) "Barguzin (river)")
+, the [Upper Angara](/wiki/Upper_Angara "Upper Angara")
+, the [Turka](/wiki/Turka_(Lake_Baikal) "Turka (Lake Baikal)")
+, the [Sarma](/wiki/Sarma_(river) "Sarma (river)")
+, and the [Snezhnaya](/wiki/Snezhnaya "Snezhnaya")
+. It is drained through a single outlet, the [Angara](/wiki/Angara "Angara")
+.
+
+Regular winds exist in Baikal's rift valley.[\[26\]](#cite_note-26)
+
+*   [![Frozen lake Baikal near Olkhon Island](https://www.wikipedia.org/upload.wikimedia.org/wikipedia/commons/thumb/5/53/Lake_Baikal_in_winter.jpg/270px-Lake_Baikal_in_winter.jpg)](/wiki/File:Lake_Baikal_in_winter.jpg "Frozen lake Baikal near Olkhon Island")
+    
+    Frozen lake Baikal near [Olkhon Island](/wiki/Olkhon_Island "Olkhon Island")
+    
+*   [![Cliffs on Olkhon Island](https://www.wikipedia.org/upload.wikimedia.org/wikipedia/commons/thumb/0/00/Olkhon_Island_and_Lake_Baikal.jpg/120px-Olkhon_Island_and_Lake_Baikal.jpg)](/wiki/File:Olkhon_Island_and_Lake_Baikal.jpg "Cliffs on Olkhon Island")
+    
+    Cliffs on Olkhon Island
+    
+*   [![A sandy beach in the Kabansky District](https://www.wikipedia.org/upload.wikimedia.org/wikipedia/commons/thumb/2/21/%D0%9F%D0%BE%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D1%8C%D0%B5_%D0%91%D0%B0%D0%B9%D0%BA%D0%B0%D0%BB%D0%B0_%D0%B2_%D0%A1%D1%83%D1%85%D0%BE%D0%B9.jpg/240px-%D0%9F%D0%BE%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D1%8C%D0%B5_%D0%91%D0%B0%D0%B9%D0%BA%D0%B0%D0%BB%D0%B0_%D0%B2_%D0%A1%D1%83%D1%85%D0%BE%D0%B9.jpg)](/wiki/File:%D0%9F%D0%BE%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D1%8C%D0%B5_%D0%91%D0%B0%D0%B9%D0%BA%D0%B0%D0%BB%D0%B0_%D0%B2_%D0%A1%D1%83%D1%85%D0%BE%D0%B9.jpg "A sandy beach in the Kabansky District")
+    
+    A sandy beach in the [Kabansky District](/wiki/Kabansky_District "Kabansky District")
+    
+*   [![Mountains on the Svyatoy Nos Peninsula, Zabaykalsky National Park](https://www.wikipedia.org/upload.wikimedia.org/wikipedia/commons/thumb/4/46/26_swiatoinos.jpg/270px-26_swiatoinos.jpg)](/wiki/File:26_swiatoinos.jpg "Mountains on the Svyatoy Nos Peninsula, Zabaykalsky National Park")
+    
+    Mountains on the [Svyatoy Nos Peninsula](/wiki/Svyatoy_Nos_Peninsula,_Buryatia "Svyatoy Nos Peninsula, Buryatia")
+    , [Zabaykalsky National Park](/wiki/Zabaykalsky_National_Park "Zabaykalsky National Park")
+    
+*   [![The river Turka at its mouth before joining Lake Baikal](https://www.wikipedia.org/upload.wikimedia.org/wikipedia/commons/thumb/5/52/Turka_ibaia_bokaletik_gertu.JPG/240px-Turka_ibaia_bokaletik_gertu.JPG)](/wiki/File:Turka_ibaia_bokaletik_gertu.JPG "The river Turka at its mouth before joining Lake Baikal")
+    
+    The river [Turka](/wiki/Turka_(Lake_Baikal) "Turka (Lake Baikal)")
+     at its mouth before joining Lake Baikal
+    
+
+### Water characteristics
+
+\[[edit](/w/index.php?title=Lake_Baikal&action=edit&section=2 "Edit section: Water characteristics")\
+\]
+
+[![](https://www.wikipedia.org/upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Baikal_1739.jpg/220px-Baikal_1739.jpg)](/wiki/File:Baikal_1739.jpg)
+
+Lake Baikal's water is especially clear
+
+Baikal is one of the clearest lakes in the world.[\[13\]](#cite_note-Jung2004-13)
+ During the winter, the water transparency in open sections can be as much as 30–40 m (100–130 ft), but during the summer it is typically 5–8 m (15–25 ft).[\[27\]](#cite_note-FEOW-27)
+ Baikal is rich in oxygen, even in deep sections,[\[27\]](#cite_note-FEOW-27)
+ which separates it from distinctly [stratified](/wiki/Stratification_(water) "Stratification (water)")
+ bodies of water such as [Lake Tanganyika](/wiki/Lake_Tanganyika "Lake Tanganyika")
+ and the [Black Sea](/wiki/Black_Sea "Black Sea")
+.[\[28\]](#cite_note-28)
+[\[29\]](#cite_note-29)
+
+In Lake Baikal, the water temperature varies significantly depending on location, depth, and time of the year. During the winter and spring, the surface freezes for about 4–5 months; from early January to early May–June (latest in the north), the lake surface is covered in ice.[\[30\]](#cite_note-baikalice-30)
+ On average, the ice reaches a thickness of 0.5 to 1.4 m (1.6–4.6 ft),[\[31\]](#cite_note-31)
+ but in some places with [hummocks](/wiki/Hummock "Hummock")
+, it can be more than 2 m (6.6 ft).[\[30\]](#cite_note-baikalice-30)
+ During this period, the temperature slowly increases with depth in the lake, being coldest near the ice-covered surface at around freezing, and reaching about 3.5–3.8 °C (38.3–38.8 °F) at a depth of 200–250 m (660–820 ft).[\[32\]](#cite_note-Gurulev-32)
+ After the surface ice breaks up, the surface water is slowly warmed up by the sun, and in May–June, the upper 300 m (980 ft) or so becomes homothermic (same temperature throughout) at around 4 °C (39 °F) because of water mixing.[\[27\]](#cite_note-FEOW-27)
+[\[32\]](#cite_note-Gurulev-32)
+ The sun continues to heat up the surface layer, and at the peak in August can reach up to about 16 °C (61 °F) in the main sections[\[32\]](#cite_note-Gurulev-32)
+ and 20–24 °C (68–75 °F) in shallow bays in the southern half of the lake.[\[27\]](#cite_note-FEOW-27)
+[\[33\]](#cite_note-Pomazkina2012-33)
+ During this time, the pattern is inverted compared to the winter and spring, as the water temperature falls with increasing depth. As the autumn begins, the surface temperature falls again and a second homothermic period at around 4 °C (39 °F) of the upper circa 300 m (980 ft) occurs in October–November.[\[27\]](#cite_note-FEOW-27)
+[\[32\]](#cite_note-Gurulev-32)
+ In the deepest parts of the lake, from about 300 m (980 ft), the temperature is stable at 3.1–3.4 °C (37.6–38.1 °F) with only minor annual variations.[\[32\]](#cite_note-Gurulev-32)
+
+The average surface temperature has risen by almost 1.5 °C (2.7 °F) in the last 50 years, resulting in a shorter period where the lake is covered by ice.[\[12\]](#cite_note-ScienceDaily2017-12)
+ At some locations, [hydrothermal vents](/wiki/Hydrothermal_vent "Hydrothermal vent")
+ with water that is about 50 °C (122 °F) have been found. These are mostly in deep water but locally have also been found in relatively shallow water. They have little effect on the lake's temperature because of its huge volume.[\[32\]](#cite_note-Gurulev-32)
+
+Stormy weather on the lake is common, especially during the summer and autumn, and can result in waves as high as 4.5 m (15 ft).[\[27\]](#cite_note-FEOW-27)
+
+*   [![Lake Baikal as seen from the OrbView-2 satellite](https://www.wikipedia.org/upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Baikal-S1999276045323.png/256px-Baikal-S1999276045323.png)](/wiki/File:Baikal-S1999276045323.png "Lake Baikal as seen from the OrbView-2 satellite")
+    
+    Lake Baikal as seen from the [OrbView-2](/wiki/OrbView-2 "OrbView-2")
+     satellite
+    
+*   [![Spring ice melt underway on Lake Baikal, on 4 May: Notice the ice-covered north, while much of the south is already ice-free.](https://www.wikipedia.org/upload.wikimedia.org/wikipedia/commons/thumb/9/97/Ice_Melting_on_Lake_Baikal_-_NASA_Earth_Observatory.jpg/180px-Ice_Melting_on_Lake_Baikal_-_NASA_Earth_Observatory.jpg)](/wiki/File:Ice_Melting_on_Lake_Baikal_-_NASA_Earth_Observatory.jpg "Spring ice melt underway on Lake Baikal, on 4 May: Notice the ice-covered north, while much of the south is already ice-free.")
+    
+    Spring ice melt underway on Lake Baikal, on 4 May: Notice the ice-covered north, while much of the south is already ice-free.
+    
+*   [![Circle of thin ice, diameter of 4.4 km (2.7 mi) at the lake's southern tip, probably caused by convection](https://www.wikipedia.org/wiki/2.7%C2%A0mi)](/wiki/File:Circles_in_Thin_Ice,_Lake_Baikal,_Russia.jpg "Circle of thin ice, diameter of 4.4 km (2.7 mi) at the lake's southern tip, probably caused by convection")
+    
+    Circle of thin ice, diameter of 4.4 km (2.7 mi) at the lake's southern tip, probably caused by [convection](/wiki/Convection "Convection")
+    
+*   [![Delta of the Selenga River, Baikal's main tributary](https://www.wikipedia.org/upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Selenga_delta.jpg/180px-Selenga_delta.jpg)](/wiki/File:Selenga_delta.jpg "Delta of the Selenga River, Baikal's main tributary")
+    
+    Delta of the [Selenga River](/wiki/Selenga_River "Selenga River")
+    , Baikal's main tributary
+    
+
+Fauna and flora
+---------------
+
+\[[edit](/w/index.php?title=Lake_Baikal&action=edit&section=3 "Edit section: Fauna and flora")\
+\]
+
+[![](https://www.wikipedia.org/upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Baikal-seal_4747-pho.jpg/220px-Baikal-seal_4747-pho.jpg)](/wiki/File:Baikal-seal_4747-pho.jpg)
+
+The [Baikal seal](/wiki/Baikal_seal "Baikal seal")
+ is endemic to Lake Baikal.
+
+Lake Baikal is rich in [biodiversity](/wiki/Biodiversity "Biodiversity")
+. It hosts more than 1,000 species of plants and 2,500 species of animals based on current knowledge, but the actual figures for both groups are believed to be significantly higher.[\[27\]](#cite_note-FEOW-27)
+[\[34\]](#cite_note-Eulimnogammarus-34)
+ More than 80% of the animals are [endemic](/wiki/Endemism "Endemism")
+.[\[34\]](#cite_note-Eulimnogammarus-34)
+
+### Flora
+
+\[[edit](/w/index.php?title=Lake_Baikal&action=edit&section=4 "Edit section: Flora")\
+\]
+
+The watershed of Lake Baikal has numerous floral species represented. The [marsh thistle](/wiki/Marsh_thistle "Marsh thistle")
+ (_Cirsium palustre_) is found here at the eastern limit of its geographic range.[\[35\]](#cite_note-35)
+
+Submerged macrophytic [vascular plants](/wiki/Vascular_plant "Vascular plant")
+ are mostly absent, except in some shallow bays along the shores of Lake Baikal.[\[36\]](#cite_note-Shahgedanova2002-36)
+ More than 85 species of submerged [macrophytes](/wiki/Macrophytes "Macrophytes")
+ have been recorded, including genera such as _[Ceratophyllum](/wiki/Ceratophyllum "Ceratophyllum")
+_, _[Myriophyllum](/wiki/Myriophyllum "Myriophyllum")
+_, _[Potamogeton](/wiki/Potamogeton "Potamogeton")
+_, and _[Sparganium](/wiki/Sparganium "Sparganium")
+_.[\[33\]](#cite_note-Pomazkina2012-33)
+ The [invasive species](/wiki/Invasive_species "Invasive species")
+ _[Elodea canadensis](/wiki/Elodea_canadensis "Elodea canadensis")
+_ was introduced to the lake in the 1950s.[\[36\]](#cite_note-Shahgedanova2002-36)
+ Instead of vascular plants, aquatic flora is often dominated by several [green algae](/wiki/Green_algae "Green algae")
+ species, notably _[Draparnaldioides](/w/index.php?title=Draparnaldioides&action=edit&redlink=1 "Draparnaldioides (page does not exist)")
+_, _[Tetraspora](/wiki/Tetraspora "Tetraspora")
+_, and _[Ulothrix](/wiki/Ulothrix "Ulothrix")
+_ in water shallower than 20 m (65 ft); although _[Aegagrophila](/w/index.php?title=Aegagrophila&action=edit&redlink=1 "Aegagrophila (page does not exist)")
+_, _[Cladophora](/wiki/Cladophora "Cladophora")
+_, and _Draparnaldioides_ may occur deeper than 30 m (100 ft).[\[36\]](#cite_note-Shahgedanova2002-36)
+ Except for _Ulothrix_, there are endemic Baikal species in all these green algae genera.[\[36\]](#cite_note-Shahgedanova2002-36)
+ More than 400 [diatom](/wiki/Diatom "Diatom")
+ species, both [benthic](/wiki/Benthic "Benthic")
+ and [planktonic](/wiki/Planktonic "Planktonic")
+, are found in the lake, and about half of these are endemic to Baikal; however, significant [taxonomic](/wiki/Taxonomy_(biology) "Taxonomy (biology)")
+ uncertainties remain for this group.[\[36\]](#cite_note-Shahgedanova2002-36)
+
+### Fauna
+
+\[[edit](/w/index.php?title=Lake_Baikal&action=edit&section=5 "Edit section: Fauna")\
+\]
+
+#### Mammals
+
+\[[edit](/w/index.php?title=Lake_Baikal&action=edit&section=6 "Edit section: Mammals")\
+\]
+
+[![](https://www.wikipedia.org/upload.wikimedia.org/wikipedia/commons/thumb/9/93/%D0%98%D0%B7_%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8_%D0%B1%D0%B0%D0%B9%D0%BA%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B9_%D0%BD%D0%B5%D1%80%D0%BF%D1%8B_%D0%B1%D0%BB%D0%B8%D0%B7_%D0%A3%D1%88%D0%BA%D0%B0%D0%BD%D1%8C%D0%B8%D1%85_%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%BE%D0%B2_02.jpg/220px-%D0%98%D0%B7_%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8_%D0%B1%D0%B0%D0%B9%D0%BA%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B9_%D0%BD%D0%B5%D1%80%D0%BF%D1%8B_%D0%B1%D0%BB%D0%B8%D0%B7_%D0%A3%D1%88%D0%BA%D0%B0%D0%BD%D1%8C%D0%B8%D1%85_%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%BE%D0%B2_02.jpg)](/wiki/File:%D0%98%D0%B7_%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8_%D0%B1%D0%B0%D0%B9%D0%BA%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B9_%D0%BD%D0%B5%D1%80%D0%BF%D1%8B_%D0%B1%D0%BB%D0%B8%D0%B7_%D0%A3%D1%88%D0%BA%D0%B0%D0%BD%D1%8C%D0%B8%D1%85_%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%BE%D0%B2_02.jpg)
+
+Baikal seal
+
+The [Baikal seal](/wiki/Baikal_seal "Baikal seal")
+ or _nerpa_ (_Pusa sibirica_) is endemic to Lake Baikal.[\[37\]](#cite_note-37)
+
+A wide range of land mammals can be found in the habitats around the lake, such as the [brown bear](/wiki/Brown_bear "Brown bear")
+ (_Ursus arctos_), [Eurasian wolf](/wiki/Eurasian_wolf "Eurasian wolf")
+ (_Canis lupus lupus_), [red fox](/wiki/Red_fox "Red fox")
+ (_Vulpes vulpes_), [sable](/wiki/Sable "Sable")
+ (_Martes zibellina_), [stoat](/wiki/Stoat "Stoat")
+ (_Mustela erminea_), [Eurasian otter](/wiki/Eurasian_otter "Eurasian otter")
+ (_Lutra lutra_), [snow leopard](/wiki/Snow_leopard "Snow leopard")
+ (_Panthera uncia_), [moose](/wiki/Moose "Moose")
+ (_Alces alces_), [elk](/wiki/Elk "Elk")
+ (_Cervus canadensis_), [reindeer](/wiki/Reindeer "Reindeer")
+ (_Rangifer tarandus_), [Siberian roe deer](/wiki/Siberian_roe_deer "Siberian roe deer")
+ (_Capreolus pygargus_), [Siberian musk deer](/wiki/Siberian_musk_deer "Siberian musk deer")
+ (_(Moschus moschiferus_), [wild boar](/wiki/Wild_boar "Wild boar")
+ (_Sus scrofa_), [red squirrel](/wiki/Red_squirrel "Red squirrel")
+ (_Sciurus vulgaris_), [Siberian chipmunk](/wiki/Siberian_chipmunk "Siberian chipmunk")
+ (_Eutamias sibiricus_), [marmots](/wiki/Marmot "Marmot")
+ (_Marmota_ sp.), [lemmings](/wiki/Lemming "Lemming")
+ (_Lemmus_ sp.), and [mountain hare](/wiki/Mountain_hare "Mountain hare")
+ (_Lepus timidus_).[\[38\]](#cite_note-38)
+ Until the [Early Middle Ages](/wiki/Early_Middle_Ages "Early Middle Ages")
+, populations of the [European bison](/wiki/European_bison "European bison")
+ (_Bison bonasus_) were found near the lake; this represented the easternmost range of the species.[\[39\]](#cite_note-39)
+
+#### Birds
+
+\[[edit](/w/index.php?title=Lake_Baikal&action=edit&section=7 "Edit section: Birds")\
+\]
+
+[![](https://www.wikipedia.org/upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Chayki_v_Chivyrkuyskom_zalive.JPG/220px-Chayki_v_Chivyrkuyskom_zalive.JPG)](/wiki/File:Chayki_v_Chivyrkuyskom_zalive.JPG)
+
+[Mongolian gulls](/wiki/Mongolian_gull "Mongolian gull")
+ on Baikal
+
+There are 236 species of birds that inhabit Lake Baikal, 29 of which are [waterfowl](/wiki/Waterfowl "Waterfowl")
+.[\[40\]](#cite_note-40)
+ Although named after the lake, both the [Baikal teal](/wiki/Baikal_teal "Baikal teal")
+ and [Baikal bush warbler](/wiki/Baikal_bush_warbler "Baikal bush warbler")
+ are widespread in eastern Asia.[\[41\]](#cite_note-41)
+[\[42\]](#cite_note-42)
+
+#### Fish
+
+\[[edit](/w/index.php?title=Lake_Baikal&action=edit&section=8 "Edit section: Fish")\
+\]
+
+[![](https://www.wikipedia.org/upload.wikimedia.org/wikipedia/commons/thumb/9/93/Thymallus_baikalensis%2C_Baikal-Museum%2C_Listvyanka%2C_Irkutsk_Oblast%2C_Russia_-_20080405.jpg/220px-Thymallus_baikalensis%2C_Baikal-Museum%2C_Listvyanka%2C_Irkutsk_Oblast%2C_Russia_-_20080405.jpg)](/wiki/File:Thymallus_baikalensis,_Baikal-Museum,_Listvyanka,_Irkutsk_Oblast,_Russia_-_20080405.jpg)
+
+Two species of [grayling](/wiki/Thymallus "Thymallus")
+ (_[Thymallus baikalensis](/wiki/Thymallus_baicalensis "Thymallus baicalensis")
+_ and _T. brevipinnis_) are found only in Baikal and rivers that drain into the lake.[\[43\]](#cite_note-ThymallusBaikalensis-43)
+[\[44\]](#cite_note-ThymallusBrevipinnis-44)
+
+Fewer than 65 native fish species occur in the lake basin, but more than half of these are endemic.[\[27\]](#cite_note-FEOW-27)
+[\[45\]](#cite_note-FishbaseList-45)
+ The families [Abyssocottidae](/wiki/Abyssocottidae "Abyssocottidae")
+ (deep-water sculpins), [Comephoridae](/wiki/Comephoridae "Comephoridae")
+ (golomyankas or Baikal oilfish), and [Cottocomephoridae](/wiki/Cottocomephoridae "Cottocomephoridae")
+ (Baikal sculpins) are entirely restricted to the lake basin.[\[27\]](#cite_note-FEOW-27)
+[\[46\]](#cite_note-46)
+ All these are part of the [Cottoidea](/wiki/Cottoidea "Cottoidea")
+ and are typically less than 20 cm (8 in) long.[\[36\]](#cite_note-Shahgedanova2002-36)
+ Of particular note are the two species of [golomyanka](/wiki/Golomyanka "Golomyanka")
+ (_Comephorus baicalensis_ and _C. dybowskii_). These long-finned, translucent fish typically live in open water at depths of 100–500 m (330–1,640 ft), but occur both shallower and much deeper. Together with certain abyssocottid sculpins, they are the deepest living freshwater fish in the world, occurring near the bottom of Lake Baikal.[\[47\]](#cite_note-hunt-47)
+ The golomyankas are the primary prey of the Baikal seal and represent the largest fish [biomass](/wiki/Biomass "Biomass")
+ in the lake.[\[48\]](#cite_note-48)
+ Beyond members of Cottoidea, there are few endemic fish species in the lake basin.[\[27\]](#cite_note-FEOW-27)
+[\[45\]](#cite_note-FishbaseList-45)
+
+[![](https://www.wikipedia.org/upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Omul_Fish.jpg/220px-Omul_Fish.jpg)](/wiki/File:Omul_Fish.jpg)
+
+The [omul](/wiki/Omul "Omul")
+ (_Coregonus migratorius_) is [endemic](/wiki/Endemism "Endemism")
+ to Lake Baikal, and is a source of income to locals.
+
+The most important local species for fisheries is the [omul](/wiki/Omul "Omul")
+ (_Coregonus migratorius_), an endemic [whitefish](/wiki/Coregonus "Coregonus")
+.[\[27\]](#cite_note-FEOW-27)
+ It is caught, [smoked](/wiki/Smoking_(food) "Smoking (food)")
+, and then sold widely in markets around the lake. Also, a second endemic whitefish inhabits the lake, _[C. baicalensis](/wiki/Coregonus_baicalensis "Coregonus baicalensis")
+_.[\[49\]](#cite_note-49)
+ The [Baikal black grayling](/wiki/Thymallus "Thymallus")
+ (_Thymallus baicalensis_), [Baikal white grayling](/wiki/Thymallus "Thymallus")
+ (_T. brevipinnis_), and [Baikal sturgeon](/wiki/Baikal_sturgeon "Baikal sturgeon")
+ (_Acipenser baerii baicalensis_) are other important species with commercial value. They are also endemic to the Lake Baikal basin.[\[43\]](#cite_note-ThymallusBaikalensis-43)
+[\[44\]](#cite_note-ThymallusBrevipinnis-44)
+[\[50\]](#cite_note-50)
+[\[51\]](#cite_note-51)
+
+#### Invertebrates
+
+\[[edit](/w/index.php?title=Lake_Baikal&action=edit&section=9 "Edit section: Invertebrates")\
+\]
+
+The lake hosts a rich endemic fauna of invertebrates. The [copepod](/wiki/Copepod "Copepod")
+ _[Epischura baikalensis](/wiki/Epischura_baikalensis "Epischura baikalensis")
+_ is endemic to Lake Baikal and the dominating [zooplankton](/wiki/Zooplankton "Zooplankton")
+ species there, making up 80 to 90% of the total [biomass](/wiki/Biomass_(ecology) "Biomass (ecology)")
+.[\[52\]](#cite_note-52)
+ It is estimated that they filter as much as a thousand cubic kilometers of water a year, or the lake's entire volume every twenty-three years.[\[53\]](#cite_note-53)
+
+Among the most diverse invertebrate groups are the [amphipod](/wiki/Amphipod "Amphipod")
+ and [ostracod](/wiki/Ostracod "Ostracod")
+ crustaceans, [freshwater snails](/wiki/Freshwater_snail "Freshwater snail")
+, [annelid](/wiki/Annelid "Annelid")
+ worms and [turbellarian](/wiki/Turbellaria "Turbellaria")
+ worms:
+
+#### Amphipod, isopod, cladoceran and ostracod crustaceans
+
+\[[edit](/w/index.php?title=Lake_Baikal&action=edit&section=10 "Edit section: Amphipod, isopod, cladoceran and ostracod crustaceans")\
+\]
+
+[![](https://www.wikipedia.org/upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Baikal-Flohkrebs.jpg/220px-Baikal-Flohkrebs.jpg)](/wiki/File:Baikal-Flohkrebs.jpg)
+
+A "giant" _Brachyuropus reicherti_ ([Acanthogammaridae](/wiki/Acanthogammaridae "Acanthogammaridae")
+) amphipod caught during [ice fishing](/wiki/Ice_fishing "Ice fishing")
+ in the lake. Red-orange is its natural, living coloration
+
+More than 350 species and subspecies of amphipods are endemic to the lake.[\[34\]](#cite_note-Eulimnogammarus-34)
+ They are exceptionally diverse in [ecology](/wiki/Ecology "Ecology")
+ and appearance, ranging from the pelagic _[Macrohectopus](/w/index.php?title=Macrohectopus&action=edit&redlink=1 "Macrohectopus (page does not exist)")
+_ to the relatively large deep-water _[Abyssogammarus](/w/index.php?title=Abyssogammarus&action=edit&redlink=1 "Abyssogammarus (page does not exist)")
+_ and _[Garjajewia](/w/index.php?title=Garjajewia&action=edit&redlink=1 "Garjajewia (page does not exist)")
+_, the tiny herbivorous _[Micruropus](/w/index.php?title=Micruropus&action=edit&redlink=1 "Micruropus (page does not exist)")
+_, and the parasitic _[Pachyschesis](/wiki/Pachyschesis "Pachyschesis")
+_ (parasitic on other [amphipods](/wiki/Amphipoda "Amphipoda")
+).[\[54\]](#cite_note-Sherbakov-54)
+ The "gigantism" of some Baikal amphipods, which has been compared to that seen in Antarctic amphipods, has been linked to the high level of dissolved oxygen in the lake.[\[55\]](#cite_note-55)
+ Among the "giants" are several species of spiny _Acanthogammarus_ and _Brachyuropus_ ([Acanthogammaridae](/wiki/Acanthogammaridae "Acanthogammaridae")
+) found at both shallow and deep depths.[\[56\]](#cite_note-Acanthogammarus-56)
+ These conspicuous and common amphipods are essentially carnivores (will also take [detritus](/wiki/Detritus "Detritus")
+), and can reach a body length up to 7 cm (2.8 in).[\[54\]](#cite_note-Sherbakov-54)
+[\[56\]](#cite_note-Acanthogammarus-56)
+
+The number of [isopods](/wiki/Isopoda "Isopoda")
+ is low; they belong to the family [Asellidae](/wiki/Asellidae "Asellidae")
+. There are four species of the genus [Baicalasellus](/wiki/Baicalasellus "Baicalasellus")
+, and the two species Mesoasellus dybowskii and Limnoasellus poberezhnii.[\[57\]](#cite_note-57)
+[\[58\]](#cite_note-58)
+ These six endemic species are found on rocky substrata in depths varying from 3–10 meters (Baicalasellus angarensis) to more than hundred meters (Mesoasellus dybowskii).[\[59\]](#cite_note-59)
+
+There are about 60 known species of [cladocerans](/wiki/Diplostraca "Diplostraca")
+ (water fleas), several of them endemic.[\[60\]](#cite_note-60)
+
+Similar to another ancient lake, [Tanganyika](/wiki/Lake_Tanganyika "Lake Tanganyika")
+, Baikal is a center for ostracod diversity. About 90% of the Lake Baikal ostracods are endemic,[\[61\]](#cite_note-Karanovic2017a-61)
+ meaning that there are c. 200 endemic species.[\[62\]](#cite_note-62)
+ This makes it the second-most diverse group of crustacean in the lake, after the amphipods.[\[61\]](#cite_note-Karanovic2017a-61)
+ The vast majority of the Baikal ostracods belong to the families [Candonidae](/wiki/Candonidae "Candonidae")
+ (more than 100 described species) and [Cytherideidae](/wiki/Cytherideidae "Cytherideidae")
+ (about 50 described species),[\[61\]](#cite_note-Karanovic2017a-61)
+[\[63\]](#cite_note-63)
+ but genetic studies indicate that the true diversity in at least the latter family has been heavily underestimated.[\[64\]](#cite_note-64)
+ The morphology of the Baikal ostracods is highly diverse.[\[61\]](#cite_note-Karanovic2017a-61)
+
+#### Snails and bivalves
+
+\[[edit](/w/index.php?title=Lake_Baikal&action=edit&section=11 "Edit section: Snails and bivalves")\
+\]
+
+As of 2006[\[update\]](https://en.wikipedia.org/w/index.php?title=Lake_Baikal&action=edit)
+, almost 150 freshwater snails are known from Lake Baikal, including 117 endemic species from the subfamilies [Baicaliinae](/w/index.php?title=Baicaliinae&action=edit&redlink=1 "Baicaliinae (page does not exist)")
+ (part of the [Amnicolidae](/wiki/Amnicolidae "Amnicolidae")
+) and [Benedictiinae](/w/index.php?title=Benedictiinae&action=edit&redlink=1 "Benedictiinae (page does not exist)")
+ (part of the [Lithoglyphidae](/wiki/Lithoglyphidae "Lithoglyphidae")
+), and the families [Planorbidae](/wiki/Planorbidae "Planorbidae")
+ and [Valvatidae](/wiki/Valvatidae "Valvatidae")
+.[\[65\]](#cite_note-gastropod-65)
+ All endemics have been recorded between 20 and 30 m (66 and 98 ft), but the majority mainly live at shallower depths.[\[65\]](#cite_note-gastropod-65)
+ About 30 freshwater snail species can be seen deeper than 100 m (330 ft), which represents the approximate limit of the [sunlight zone](/wiki/Sunlight_zone "Sunlight zone")
+, but only 10 are truly deepwater species.[\[65\]](#cite_note-gastropod-65)
+ In general, Baikal snails are thin-shelled and small. Two of the most common species are _[Benedictia](/wiki/Benedictia "Benedictia")
+ baicalensis_ and _[Megalovalvata baicalensis](/wiki/Megalovalvata_baicalensis "Megalovalvata baicalensis")
+_.[\[66\]](#cite_note-BaikalGastropoda-66)
+ [Bivalve](/wiki/Bivalve "Bivalve")
+ diversity is lower with more than 30 species; about half of these, all in the families [Euglesidae](/w/index.php?title=Euglesidae&action=edit&redlink=1 "Euglesidae (page does not exist)")
+, [Pisidiidae](/wiki/Pisidiidae "Pisidiidae")
+, and [Sphaeriidae](/wiki/Sphaeriidae "Sphaeriidae")
+, are endemic (the only other family in the lake is the [Unionidae](/wiki/Unionidae "Unionidae")
+ with a single nonendemic species).[\[66\]](#cite_note-BaikalGastropoda-66)
+[\[67\]](#cite_note-67)
+ The endemic bivalves are mainly found in shallows, with few species from deep water.[\[68\]](#cite_note-68)
+
+#### Aquatic worms
+
+\[[edit](/w/index.php?title=Lake_Baikal&action=edit&section=12 "Edit section: Aquatic worms")\
+\]
+
+With almost 200 described species, including more than 160 endemics, the center of diversity for aquatic freshwater [oligochaetes](/wiki/Oligochaetes "Oligochaetes")
+ is Lake Baikal.[\[69\]](#cite_note-SegersMartens-69)
+ A smaller number of other freshwater annelids is known: 30 species of [leeches](/wiki/Leech "Leech")
+ (Hirudinea),[\[70\]](#cite_note-70)
+ and 4 [polychaetes](/wiki/Polychaetes "Polychaetes")
+.[\[69\]](#cite_note-SegersMartens-69)
+ Several hundred species of [nematodes](/wiki/Nematode "Nematode")
+ are known from the lake, but a large percentage of these are [undescribed](/wiki/Undescribed_taxon "Undescribed taxon")
+.[\[69\]](#cite_note-SegersMartens-69)
+
+More than 140 endemic [flatworm](/wiki/Flatworm "Flatworm")
+ (Plathelminthes) species are in Lake Baikal, where they occur on a wide range of bottom types.[\[71\]](#cite_note-flatworm-71)
+ Most of the flatworms are predatory, and some are relatively brightly marked. They are often abundant in shallow waters, where they are typically less than 2 cm (1 in) long, but in deeper parts of the lake, the largest, _Baikaloplana valida_, can reach up to 30 cm (1 ft) when outstretched.[\[36\]](#cite_note-Shahgedanova2002-36)
+[\[71\]](#cite_note-flatworm-71)
+
+[![](https://www.wikipedia.org/upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Lubomirskia-baicalensis.jpg/170px-Lubomirskia-baicalensis.jpg)](/wiki/File:Lubomirskia-baicalensis.jpg)
+
+Museum specimen of the branching sponge _[Lubomirskia baicalensis](/wiki/Lubomirskia_baicalensis "Lubomirskia baicalensis")
+_ (living are brighter green)
+
+#### Sponges
+
+\[[edit](/w/index.php?title=Lake_Baikal&action=edit&section=13 "Edit section: Sponges")\
+\]
+
+At least 18 species of [sponges](/wiki/Sponge "Sponge")
+ occur in the lake,[\[72\]](#cite_note-Kaluzhnaya2005-72)
+ including about 15 species from the endemic family [Lubomirskiidae](/wiki/Lubomirskiidae "Lubomirskiidae")
+ (the remaining are from the nonendemic family [Spongillidae](/wiki/Spongillidae "Spongillidae")
+),[\[73\]](#cite_note-Paradina2003-73)
+[\[74\]](#cite_note-74)
+ which colonized the lake about 3.4 million years ago. The lake's sponges makes up around 44% of the [benthic](/wiki/Benthic "Benthic")
+ animal biomass.[\[75\]](#cite_note-75)
+ _[Lubomirskia baicalensis](/wiki/Lubomirskia_baicalensis "Lubomirskia baicalensis")
+_, _[Baikalospongia bacillifera](/wiki/Lubomirskiidae "Lubomirskiidae")
+_, and _[B. intermedia](/wiki/Lubomirskiidae "Lubomirskiidae")
+_ are unusually large for freshwater sponges and can reach 1 m (3.3 ft) or more.[\[72\]](#cite_note-Kaluzhnaya2005-72)
+[\[76\]](#cite_note-76)
+ These three are also the most common sponges in the lake.[\[72\]](#cite_note-Kaluzhnaya2005-72)
+ While the _Baikalospongia_ species typically have encrusting or carpet-like structures, _L. baikalensis_ often has branching structures and in areas where common may form underwater "forests".[\[77\]](#cite_note-Kozhov1963-77)
+ Most sponges in the lake are typically green when alive because of [symbiotic](/wiki/Symbiotic "Symbiotic")
+ [chlorophytes](/wiki/Chlorophyte "Chlorophyte")
+ ([zoochlorella](/wiki/Zoochlorella "Zoochlorella")
+), but can also be brownish or yellowish.[\[78\]](#cite_note-78)
+
+History
+-------
+
+\[[edit](/w/index.php?title=Lake_Baikal&action=edit&section=14 "Edit section: History")\
+\]
+
+The Baikal area, sometimes known as [Baikalia](/wiki/Baikalia "Baikalia")
+, has a long history of human habitation. Near the village of Mal'ta, some 160 km northwest of the lake, remains of a young human male known as **MA-1** or "Mal'ta Boy" are indications of local habitation by the [Mal'ta–Buret' culture](/wiki/Mal%27ta%E2%80%93Buret%27_culture "Mal'ta–Buret' culture")
+ ca. 24,000 [BP](/wiki/Before_Present "Before Present")
+. An early known tribe in the area was the [Kurykans](/wiki/Kurykans "Kurykans")
+.[\[79\]](#cite_note-79)
+
+Located in the former northern territory of the [Xiongnu](/wiki/Xiongnu "Xiongnu")
+ confederation, Lake Baikal is one site of the [Han–Xiongnu War](/wiki/Han%E2%80%93Xiongnu_War "Han–Xiongnu War")
+, where the armies of the [Han dynasty](/wiki/Han_dynasty "Han dynasty")
+ pursued and defeated the Xiongnu forces from the second century BC to the first century AD. They recorded that the lake was a "huge sea" (_hanhai_) and designated it the North Sea (_Běihǎi_) of the semimythical [Four Seas](/wiki/Four_Seas "Four Seas")
+.[\[80\]](#cite_note-80)
+ The Kurykans, a Siberian tribe who inhabited the area in the sixth century, gave it a name that translates to "much water". Later on, it was called "natural lake" (_Baygal nuur_) by the Buryats and "rich lake" (_Bay göl_) by the Yakuts.[\[81\]](#cite_note-81)
+ Little was known to Europeans about the lake until Russia expanded into the area in the 1600s. The first [Russian explorer](/wiki/Russian_explorers "Russian explorers")
+ to reach Lake Baikal was [Kurbat Ivanov](/wiki/Kurbat_Ivanov "Kurbat Ivanov")
+ in 1643.[\[82\]](#cite_note-82)
+
+Lake Baikal was under the [Anbei Protectorate](/wiki/Anbei_Protectorate "Anbei Protectorate")
+ of the [Tang dynasty](/wiki/Tang_dynasty "Tang dynasty")
+ from 647 CE to 682 CE.
+
+Russian expansion into the Buryat area around Lake Baikal[\[83\]](#cite_note-83)
+ in 1628–1658 was part of the [Russian conquest of Siberia](/wiki/Russian_conquest_of_Siberia "Russian conquest of Siberia")
+. It was done first by following the Angara River upstream from [Yeniseysk](/wiki/Yeniseysk "Yeniseysk")
+ (founded 1619) and later by moving south from the Lena River. Russians first heard of the Buryats in 1609 at Tomsk. According to folktales related a century after the fact, in 1623, [Demid Pyanda](/wiki/Demid_Pyanda "Demid Pyanda")
+, who may have been the first Russian to reach the Lena, crossed from the upper Lena to the Angara and arrived at Yeniseysk.[\[84\]](#cite_note-84)
+
+Vikhor Savin (1624) and [Maksim Perfilyev](/wiki/Maksim_Perfilyev "Maksim Perfilyev")
+ (1626 and 1627–28) explored [Tungus](/wiki/Evenks "Evenks")
+ country on the lower Angara. To the west, [Krasnoyarsk](/wiki/Krasnoyarsk "Krasnoyarsk")
+ on the upper Yenisei was founded in 1627. A number of ill-documented expeditions explored eastward from Krasnoyarsk. In 1628, [Pyotr Beketov](/wiki/Pyotr_Beketov "Pyotr Beketov")
+ first encountered a group of Buryats and collected _[yasak](/wiki/Yasak "Yasak")
+_ ([tribute](/wiki/Tribute "Tribute")
+) from them at the future site of [Bratsk](/wiki/Bratsk "Bratsk")
+. In 1629, Yakov Khripunov set off from Tomsk to find a rumored silver mine. His men soon began plundering both Russians and natives. They were joined by another band of rioters from Krasnoyarsk, but left the Buryat country when they ran short of food. This made it difficult for other Russians to enter the area. In 1631, Maksim Perfilyev built an _[ostrog](/wiki/Ostrog_(fortress) "Ostrog (fortress)")
+_ at Bratsk. The pacification was moderately successful, but in 1634, Bratsk was destroyed and its garrison killed. In 1635, Bratsk was restored by a punitive expedition under Radukovskii. In 1638, it was besieged unsuccessfully.\[_[citation needed](/wiki/Wikipedia:Citation_needed "Wikipedia:Citation needed")\
+_\]
+
+In 1638, Perfilyev crossed from the Angara over the Ilim portage to the [Lena River](/wiki/Lena_River "Lena River")
+ and went downstream as far as [Olyokminsk](/wiki/Olyokminsk "Olyokminsk")
+. Returning, he sailed up the [Vitim River](/wiki/Vitim_River "Vitim River")
+ into the area east of Lake Baikal (1640) where he heard reports of the Amur country. In 1641, Verkholensk was founded on the upper Lena. In 1643, [Kurbat Ivanov](/wiki/Kurbat_Ivanov "Kurbat Ivanov")
+ went further up the Lena and became the first Russian to see Lake Baikal and [Olkhon Island](/wiki/Olkhon_Island "Olkhon Island")
+. Half his party under Skorokhodov remained on the lake, reached the [Upper Angara](/wiki/Upper_Angara "Upper Angara")
+ at its northern tip, and wintered on the Barguzin River on the northeast side.\[_[citation needed](/wiki/Wikipedia:Citation_needed "Wikipedia:Citation needed")\
+_\]
+
+In 1644, Ivan Pokhabov went up the Angara to Baikal, becoming perhaps the first Russian to use this route, which is difficult because of the rapids. He crossed the lake and explored the lower [Selenge River](/wiki/Selenge_River "Selenge River")
+. About 1647, he repeated the trip, obtained guides, and visited a 'Tsetsen Khan' near [Ulan Bator](/wiki/Ulan_Bator "Ulan Bator")
+. In 1648, Ivan Galkin built an _ostrog_ on the Barguzin River which became a center for eastward expansion. In 1652, Vasily Kolesnikov reported from Barguzin that one could reach the Amur country by following the Selenga, Uda, and Khilok Rivers to the future sites of [Chita](/wiki/Chita,_Zabaykalsky_Krai "Chita, Zabaykalsky Krai")
+ and [Nerchinsk](/wiki/Nerchinsk "Nerchinsk")
+.\[_[citation needed](/wiki/Wikipedia:Citation_needed "Wikipedia:Citation needed")\
+_\]
+
+The [Trans-Siberian Railway](/wiki/Trans-Siberian_Railway "Trans-Siberian Railway")
+ was built between 1896 and 1902. Construction of the scenic [railway around the southwestern end of Lake Baikal](/wiki/Circum-Baikal_Railway "Circum-Baikal Railway")
+ required 200 bridges and 33 tunnels. Until its completion, a [train ferry](/wiki/Train_ferry "Train ferry")
+, the [SS Baikal](/wiki/SS_Baikal "SS Baikal")
+, transported railcars across the lake from [Port Baikal](/wiki/Port_Baikal "Port Baikal")
+ to [Mysovaya](/wiki/Mysovaya "Mysovaya")
+ for a number of years. The lake became the site of the minor [engagement](/wiki/Battle_of_Lake_Baikal "Battle of Lake Baikal")
+ between the [Czechoslovak legion](/wiki/Czechoslovak_legion "Czechoslovak legion")
+ and the [Red Army](/wiki/Red_Army "Red Army")
+ in 1918. At times during winter freezes, the lake could be crossed on foot, though at risk of [frostbite](/wiki/Frostbite "Frostbite")
+ and deadly [hypothermia](/wiki/Hypothermia "Hypothermia")
+ from the cold wind moving unobstructed across flat expanses of ice. In the winter of 1920, the [Great Siberian Ice March](/wiki/Great_Siberian_Ice_March "Great Siberian Ice March")
+ occurred, when the retreating [White Russian Army](/wiki/White_movement "White movement")
+ crossed frozen Lake Baikal. The wind on the exposed lake was so cold, many people died, freezing in place until spring thaw. Beginning in 1956, the impounding of the [Irkutsk Dam](/wiki/Irkutsk_Dam "Irkutsk Dam")
+ on the Angara River raised the level of the lake by 1.4 m (4.6 ft).[\[85\]](#cite_note-his-85)
+
+As the railway was built, a large hydrogeographical expedition headed by [F.K. Drizhenko](/w/index.php?title=Fedor_Kirillovich_Drizhenko&action=edit&redlink=1 "Fedor Kirillovich Drizhenko (page does not exist)")
+ produced the first detailed contour map of the lake bed.[\[10\]](#cite_note-touchstone-10)
+
+*   [![Buryat shaman on Olkhon Island](https://www.wikipedia.org/upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Khagdaev_02.jpg/240px-Khagdaev_02.jpg)](/wiki/File:Khagdaev_02.jpg "Buryat shaman on Olkhon Island")
+    
+    [Buryat](/wiki/Buryats "Buryats")
+     [shaman](/wiki/Shaman "Shaman")
+     on [Olkhon Island](/wiki/Olkhon_Island "Olkhon Island")
+    
+*   [![Russian map circa 1700, Baikal (not to scale) is at top](https://www.wikipedia.org/wiki/not%20to%20scale)](/wiki/File:Baikal_sea.png "Russian map circa 1700, Baikal (not to scale) is at top")
+    
+    Russian map _circa_ 1700, Baikal (not to scale) is at top
+    
+*   [![Steam locomotive on the Circum-Baikal Railroad](https://www.wikipedia.org/upload.wikimedia.org/wikipedia/commons/thumb/5/5e/%D0%9A%D0%91%D0%96%D0%94_17.jpg/180px-%D0%9A%D0%91%D0%96%D0%94_17.jpg)](/wiki/File:%D0%9A%D0%91%D0%96%D0%94_17.jpg "Steam locomotive on the Circum-Baikal Railroad")
+    
+    Steam locomotive on the [Circum-Baikal Railroad](/wiki/Circum-Baikal_Railroad "Circum-Baikal Railroad")
+    
+*   [![Angara [ru](https://www.wikipedia.org/upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Ledokol_Angara.jpg/240px-Ledokol_Angara.jpg)](/wiki/File:Ledokol_Angara.jpg "Angara [ru] was launched in 1900 and is one of the oldest surviving icebreakers")
+    
+    _[Angara](/w/index.php?title=Angara_(icebreaker)&action=edit&redlink=1 "Angara (icebreaker) (page does not exist)")
+     \[[ru](https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D0%B3%D0%B0%D1%80%D0%B0_(%D0%BB%D0%B5%D0%B4%D0%BE%D0%BA%D0%BE%D0%BB) "ru:Ангара (ледокол)")\
+    \]_ was launched in 1900 and is one of the oldest surviving [icebreakers](/wiki/Icebreaker "Icebreaker")
+    
+
+Research
+--------
+
+\[[edit](/w/index.php?title=Lake_Baikal&action=edit&section=15 "Edit section: Research")\
+\]
+
+[![](https://www.wikipedia.org/upload.wikimedia.org/wikipedia/commons/thumb/2/21/Baikal_lake_Crack_in_the_ice.jpg/170px-Baikal_lake_Crack_in_the_ice.jpg)](/wiki/File:Baikal_lake_Crack_in_the_ice.jpg)
+
+Ice cover survey on the lake
+
+Several organizations are carrying out natural research projects on Lake Baikal. Most of them are governmental or associated with governmental organizations. The [Baikalian Research Centre](/wiki/Baikalian_Research_Centre "Baikalian Research Centre")
+ is an independent research organization carrying out environmental, educational and research projects at Lake Baikal.[\[86\]](#cite_note-86)
+
+In July 2008, Russia sent two small [submersibles](/wiki/Submersible "Submersible")
+, [Mir-1](/wiki/Mir-1_(sub) "Mir-1 (sub)")
+ and [Mir-2](/wiki/Mir-2_(sub) "Mir-2 (sub)")
+, to descend 1,592 m (5,223 ft) to the bottom of Lake Baikal to conduct geological and biological tests on its unique ecosystem. Although originally reported as being successful, they did not set a world record for the deepest freshwater dive, reaching a depth of only 1,580 m (5,180 ft).[\[87\]](#cite_note-Dive-87)
+ That record is currently held by [Anatoly Sagalevich](/wiki/Anatoly_Sagalevich "Anatoly Sagalevich")
+, at 1,637 m (5,371 ft) (also in Lake Baikal aboard a [Pisces](/wiki/Pisces-class_deep_submergence_vehicle "Pisces-class deep submergence vehicle")
+ submersible in 1990).[\[87\]](#cite_note-Dive-87)
+[\[88\]](#cite_note-88)
+ Russian scientist and federal politician [Artur Chilingarov](/wiki/Artur_Chilingarov "Artur Chilingarov")
+, the leader of the mission, took part in the Mir dives[\[89\]](#cite_note-89)
+ as did Russian president [Vladimir Putin](/wiki/Vladimir_Putin "Vladimir Putin")
+.[\[90\]](#cite_note-90)
+
+Since 1993, [neutrino](/wiki/Neutrino "Neutrino")
+ research has been conducted at the [Baikal Deep Underwater Neutrino Telescope](/wiki/Baikal_Deep_Underwater_Neutrino_Telescope "Baikal Deep Underwater Neutrino Telescope")
+ (BDUNT). The Baikal Neutrino Telescope NT-200 is being deployed in Lake Baikal, 3.6 km (2.2 mi) from shore at a depth of 1.1 km (0.68 mi). It consists of 192 optical modules.[\[91\]](#cite_note-91)
+
+Economy
+-------
+
+\[[edit](/w/index.php?title=Lake_Baikal&action=edit&section=16 "Edit section: Economy")\
+\]
+
+[![](https://www.wikipedia.org/upload.wikimedia.org/wikipedia/commons/thumb/6/60/Fishermen_in_the_Katun%2C_Baikal.jpg/220px-Fishermen_in_the_Katun%2C_Baikal.jpg)](/wiki/File:Fishermen_in_the_Katun,_Baikal.jpg)
+
+Baikal fishermen fish for 15 commercially used species. The [omul](/wiki/Omul "Omul")
+, found only in Baikal, accounts for most of the catch.[\[92\]](#cite_note-92)
+
+The lake, nicknamed "the Pearl of Siberia", drew investors from the tourist industry as energy revenues sparked an economic boom.[\[93\]](#cite_note-Esslemont-93)
+ Viktor Grigorov's Grand Baikal in [Irkutsk](/wiki/Irkutsk "Irkutsk")
+ is one of the investors, who planned to build three hotels, creating 570 jobs. In 2007, the Russian government declared the Baikal region a [special economic zone](/wiki/Special_economic_zone "Special economic zone")
+. A popular resort in [Listvyanka](/wiki/Listvyanka,_Irkutsky_District,_Irkutsk_Oblast "Listvyanka, Irkutsky District, Irkutsk Oblast")
+ is home to the seven-story Hotel Mayak. At the northern part of the lake, Baikalplan (a German NGO) built together with Russians in 2009 the [Frolikha Adventure Coastline Track](/wiki/Frolikha_Adventure_Coastline_Track "Frolikha Adventure Coastline Track")
+, a 100 km (62 mi)-long [long-distance trail](/wiki/Long-distance_trail "Long-distance trail")
+ as an example for sustainable development of the region. Baikal was also declared a UNESCO [World Heritage](/wiki/World_Heritage "World Heritage")
+ site in 1996. [Rosatom](/wiki/Rosatom "Rosatom")
+ plans to build a laboratory near Baikal, in conjunction with an international [uranium](/wiki/Uranium "Uranium")
+ plant and to invest $2.5 billion in the region and create 2,000 jobs in the city of [Angarsk](/wiki/Angarsk "Angarsk")
+.[\[93\]](#cite_note-Esslemont-93)
+
+Lake Baikal is a popular destination among tourists from all over the world. According to the Russian Federal State Statistics Service, in 2013, 79,179 foreign tourists visited Irkutsk and Lake Baikal; in 2014, 146,937 visitors. The most popular places to stay by the lake are Listvyanka village, Olkhon Island, Kotelnikovsky cape, Baykalskiy Priboi, [resort Khakusy](/wiki/Resort_Khakusy "Resort Khakusy")
+ and Turka village. The popularity of Lake Baikal is growing from year to year, but there is no developed infrastructure in the area. For the quality of service and comfort from the visitor's point of view, Lake Baikal still has a long way to go.
+
+The ice road to Olkhon Island is the only legal ice road on Lake Baikal. The route is prepared by specialists every year and it opens when the ice conditions allow it. In 2015, the ice road to Olkhon was open from 17 February to 23 March. The thickness of the ice on the road is about 60 cm (24 in), maximum capacity allowed – 10 t (9.8 long tons; 11 short tons); it is open to the public from 9 am to 6 pm. The road through the lake is 12 km (7.5 mi) long and it goes from the village Kurkut on the mainland to Irkutskaya Guba on Olkhon Island.[\[94\]](#cite_note-94)
+
+Ecotourism
+----------
+
+\[[edit](/w/index.php?title=Lake_Baikal&action=edit&section=17 "Edit section: Ecotourism")\
+\]
+
+[![](https://www.wikipedia.org/upload.wikimedia.org/wikipedia/commons/thumb/3/37/%D0%9B%D1%91%D0%B4_%D0%91%D0%B0%D0%B9%D0%BA%D0%B0%D0%BB%D0%B0.jpg/220px-%D0%9B%D1%91%D0%B4_%D0%91%D0%B0%D0%B9%D0%BA%D0%B0%D0%BB%D0%B0.jpg)](/wiki/File:%D0%9B%D1%91%D0%B4_%D0%91%D0%B0%D0%B9%D0%BA%D0%B0%D0%BB%D0%B0.jpg)
+
+Cracks in Baikal ice
+
+Baikal has a number of different tourist activities, depending on the season. Generally, Baikal has two top tourist seasons. The first season is ice season, which starts usually in mid-January and lasts till mid-April.[\[95\]](#cite_note-95)
+ During this season ice depth increases up to 140 centimeters, that allows safe vehicle driving on the ice cover (except heavy vehicles, such as tourist buses, that do not take this risk). This allows access to the figures of ice that are formed at rocky banks of [Olkhon Island](/wiki/Olkhon_Island "Olkhon Island")
+, including Cape Hoboy, the Three Brothers rock, and caves to the north of [Khuzhir](/wiki/Khuzhir,_Irkutsk_Oblast "Khuzhir, Irkutsk Oblast")
+. It also provides access to small islands like [Ogoy Island](/wiki/Ogoy_Island "Ogoy Island")
+ and Zamogoy.
+
+The ice itself has a transparency of one meter depth.\[_[citation needed](/wiki/Wikipedia:Citation_needed "Wikipedia:Citation needed")\
+_\] That is why this season is popular for hiking, ice-walking, ice-skating, and bicycle riding.[\[96\]](#cite_note-96)
+ An ice route around Olkhon is around 200 km. Some tourists may spot a [Baikal seal](/wiki/Baikal_seal "Baikal seal")
+ along the route. Local entrepreneurs offer overnight in [yurt](/wiki/Yurt "Yurt")
+ on ice.
+
+The ice season ends in mid-April. Owing to increasing temperatures ice starts to melt and becomes shallow and fragile, especially in places with strong under-ice flows. A range of factors contribute to an increased risk of falling through the ice towards the end of the season, resulting in multiple deaths in Russia each year, although exact data for Baikal are unknown.[\[97\]](#cite_note-97)
+ [Viktor Viktorovych Yanukovych](/wiki/Viktor_Viktorovych_Yanukovych "Viktor Viktorovych Yanukovych")
+, son of former Ukrainian President [Viktor Yanukovych](/wiki/Viktor_Yanukovych "Viktor Yanukovych")
+, reportedly died after his car fell through the ice while driving on Baikal in 2015.[\[98\]](#cite_note-98)
+[\[99\]](#cite_note-99)
+
+The second tourist season is summer, which lets tourists dive deeper into virgin Baikal nature. Hiking trails become open,[\[100\]](#cite_note-100)
+ many of them cross two mountain ranges: [Baikal Range](/wiki/Baikal_Mountains "Baikal Mountains")
+ on the western side and [Barguzin Range](/wiki/Barguzin_Range "Barguzin Range")
+ on the eastern side of Baikal.
+
+Small tourist vessels operate in the area, availing bird-watching, animal-watching (especially [Baikal seal](/wiki/Baikal_seal "Baikal seal")
+), and fishing. Water in the lake stays extremely cold in most places (does not exceed 10 C most of the year), but in a few gulfs like Chivirkuy, it can be comfortable for swimming.[\[101\]](#cite_note-101)
+
+[![](https://www.wikipedia.org/upload.wikimedia.org/wikipedia/commons/thumb/6/61/Great-baikal-trail.jpg/220px-Great-baikal-trail.jpg)](/wiki/File:Great-baikal-trail.jpg)
+
+[Great Baikal Trail](/wiki/Great_Baikal_Trail "Great Baikal Trail")
+ goes from Listvyanka to Bolshoe Goloustnoye along Lake Baikal coast
+
+Olkhon's most-populated village [Khuzhir](/wiki/Khuzhir,_Irkutsk_Oblast "Khuzhir, Irkutsk Oblast")
+ is an ecotourist destination.[\[102\]](#cite_note-102)
+ Baikal has always been popular in Russia and CIS-countries, but for the last few years\[_[when?](/wiki/Wikipedia:Manual_of_Style/Dates_and_numbers#Chronological_items "Wikipedia:Manual of Style/Dates and numbers")\
+_\] Baikal has seen an influx of visitors from China and Europe.[\[103\]](#cite_note-103)
+
+Environmental concerns
+----------------------
+
+\[[edit](/w/index.php?title=Lake_Baikal&action=edit&section=18 "Edit section: Environmental concerns")\
+\]
+
+Environmentalists have previously acknowledged pollution at Lake Baikal.[\[104\]](#cite_note-104)
+[\[105\]](#cite_note-105)
+[\[106\]](#cite_note-:0-106)
+ It faces a series of detrimental phenomena including the disappearance of the omul fish, the rapid growth of putrid algae and the death of endemic species of sponges across its area.[\[106\]](#cite_note-:0-106)
+ Environmental advocacy for the lake began in the late 1950s.[\[107\]](#cite_note-107)
+ Since 2010, more than 15,000 metric tons of toxic waste have flowed into the lake.
+
+### Baykalsk Pulp and Paper Mill
+
+\[[edit](/w/index.php?title=Lake_Baikal&action=edit&section=19 "Edit section: Baykalsk Pulp and Paper Mill")\
+\]
+
+[![](https://www.wikipedia.org/upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Bajkal%27sk_paper.jpg/220px-Bajkal%27sk_paper.jpg)](/wiki/File:Bajkal%27sk_paper.jpg)
+
+Baykalsk Pulp and Paper Mill in 2008, 5 years before its 2013 closure
+
+The [Baykalsk Pulp and Paper Mill](/wiki/Baykalsk_Pulp_and_Paper_Mill "Baykalsk Pulp and Paper Mill")
+ was constructed in 1966, directly on the shoreline of Lake Baikal. The plant bleached paper using [chlorine](/wiki/Chlorine "Chlorine")
+ and discharged waste directly into Lake Baikal. The decision to construct the plant on Lake Baikal resulted in strong protests from Soviet scientists; according to them, the ultra-pure water of the lake was a significant resource and should have been used for innovative chemical production (for instance, the production of high-quality viscose for the aeronautics and space industries). The Soviet scientists felt that it was irrational to change Lake Baikal's water quality by beginning paper production on the shore. It was their position that it was also necessary to preserve endemic species of local biota, and to maintain the area around Lake Baikal as a recreation zone.[\[108\]](#cite_note-108)
+ However, the objections of the Soviet scientists faced opposition from the industrial lobby and only after decades of protest, the plant was closed in November 2008 due to unprofitability.[\[109\]](#cite_note-109)
+[\[110\]](#cite_note-test-110)
+
+On 4 January 2010, production was resumed. On 13 January 2010, Russian Prime Minister Vladimir Putin introduced changes in legislation legalising the operation of the plant; this action brought about a wave of protests from ecologists and local residents.[\[111\]](#cite_note-Levy-IHT-11092010-111)
+ These changes were based on the determination Prime Minister Putin made through a visual verification of Lake Baikal's condition from a miniature submarine, where he said: "I could see with my own eyes – and scientists can confirm – Baikal is in good condition and there is practically no pollution".[\[112\]](#cite_note-112)
+ Despite this, in September 2013, the mill underwent a final bankruptcy, with the last 800 workers slated to lose their jobs by 28 December 2013.[\[113\]](#cite_note-113)
+ The mill has since shut down, though its reservoirs of [lignin](/wiki/Lignin "Lignin")
+ sludge remain an environmental hazard.[\[114\]](#cite_note-114)
+[\[115\]](#cite_note-115)
+
+### Cancelled East Siberia–Pacific Ocean oil pipeline
+
+\[[edit](/w/index.php?title=Lake_Baikal&action=edit&section=20 "Edit section: Cancelled East Siberia–Pacific Ocean oil pipeline")\
+\]
+
+[![](https://www.wikipedia.org/upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Frozen_Lake_Baikal._%2832419140034%29.jpg/220px-Frozen_Lake_Baikal._%2832419140034%29.jpg)](/wiki/File:Frozen_Lake_Baikal._(32419140034).jpg)
+
+The lake in the winter. The ice is thick enough to support pedestrians and snowmobiles.
+
+Main article: [Eastern Siberia–Pacific Ocean oil pipeline](/wiki/Eastern_Siberia%E2%80%93Pacific_Ocean_oil_pipeline "Eastern Siberia–Pacific Ocean oil pipeline")
+
+Russian oil pipelines state company [Transneft](/wiki/Transneft "Transneft")
+[\[116\]](#cite_note-116)
+ was planning to build a trunk pipeline that would have come within 800 m (2,600 ft) of the lake shore in a zone of substantial seismic activity. Environmental activists in Russia,[\[117\]](#cite_note-117)
+ Greenpeace, Baikal pipeline opposition[\[118\]](#cite_note-118)
+ and local citizens[\[119\]](#cite_note-119)
+ were strongly opposed to these plans, due to the possibility of an accidental oil spill that might cause significant damage to the environment. According to the Transneft's president, numerous meetings with citizens near the lake were held in towns along the route, especially in Irkutsk.[\[120\]](#cite_note-120)
+ Transneft agreed to alter its plans when Russian president Vladimir Putin ordered the company to consider an alternative route 40 kilometers (25 mi) to the north to avoid such ecological risks.[\[121\]](#cite_note-121)
+ Transneft has since decided to move the pipeline away from Lake Baikal, so that it will not pass through any federal or republic natural reserves.[\[122\]](#cite_note-122)
+[\[123\]](#cite_note-123)
+ Work began on the pipeline two days after President Putin agreed to changing the route away from Lake Baikal.[\[124\]](#cite_note-124)
+
+### Proposed uranium enrichment center
+
+\[[edit](/w/index.php?title=Lake_Baikal&action=edit&section=21 "Edit section: Proposed uranium enrichment center")\
+\]
+
+In 2006, the Russian government announced plans to build the world's first international uranium enrichment center at an existing nuclear facility in [Angarsk](/wiki/Angarsk "Angarsk")
+, a city on the [river Angara](/wiki/Angara_River "Angara River")
+ some 95 km (59 mi) downstream from the lake's shores. Critics and environmentalists argued it would be a disaster for the region and are urging the government to reconsider.[\[125\]](#cite_note-critic-125)
+
+After enrichment, only 10% of the uranium-derived radioactive material would be exported to international customers,[\[125\]](#cite_note-critic-125)
+ leaving 90% near the Lake Baikal region for storage. [Uranium tailings](/wiki/Radioactive_waste "Radioactive waste")
+ contain radioactive and toxic materials, which if improperly stored, are potentially dangerous to humans and can contaminate rivers and lakes.[\[125\]](#cite_note-critic-125)
+
+An enrichment center was constructed in the 2010s.[\[126\]](#cite_note-126)
+
+### Chinese-owned bottled water plant
+
+\[[edit](/w/index.php?title=Lake_Baikal&action=edit&section=22 "Edit section: Chinese-owned bottled water plant")\
+\]
+
+Chinese-owned AquaSib had been purchasing land alongside the lake and in 2019 started building a bottling plant and pipeline in the town of [Kultuk](/wiki/Kultuk,_Slyudyansky_District,_Irkutsk_Oblast "Kultuk, Slyudyansky District, Irkutsk Oblast")
+. The goal was to export 190 million liters of water to China even though the lake had been experiencing historically low water levels. This spurred protests by the local population that the lake would be drained of its water, at which point the local government halted the plans pending analysis.[\[127\]](#cite_note-127)
+
+### Other pollution sources
+
+\[[edit](/w/index.php?title=Lake_Baikal&action=edit&section=23 "Edit section: Other pollution sources")\
+\]
+
+According to _[The Moscow Times](/wiki/The_Moscow_Times "The Moscow Times")
+_ and _[Vice](/wiki/Vice_(magazine) "Vice (magazine)")
+_, an increasing number of an [invasive species](/wiki/Invasive_species "Invasive species")
+ of [algae](/wiki/Algae "Algae")
+ thrive in the lake from hundreds of tons of liquid waste, including fuel and excrement, regularly disposed into the lake by tourist sites, and up to 25,000 tons of liquid waste are disposed of every year by local ships.[\[128\]](#cite_note-128)
+[\[129\]](#cite_note-129)
+
+Historical traditions
+---------------------
+
+\[[edit](/w/index.php?title=Lake_Baikal&action=edit&section=24 "Edit section: Historical traditions")\
+\]
+
+[![](https://www.wikipedia.org/upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Letts-Popular-Atlas-1883-Russia-in-Asia-Chinese-Empire-etc.jpg/220px-Letts-Popular-Atlas-1883-Russia-in-Asia-Chinese-Empire-etc.jpg)](/wiki/File:Letts-Popular-Atlas-1883-Russia-in-Asia-Chinese-Empire-etc.jpg)
+
+An 1883 British map using the _More Baikal_ (Baikal Sea) designation, rather than the conventional _Ozero Baikal_ (Lake Baikal).
+
+The first European to reach the lake is said to have been [Kurbat Ivanov](/wiki/Kurbat_Ivanov "Kurbat Ivanov")
+ in 1643.[\[130\]](#cite_note-130)
+
+In the past, the Baikal was referred to by many Russians as the "Baikal Sea" (море Байкал, _More Baikal_), rather than merely "Lake Baikal" (озеро Байкал, _Ozero Baikal_).[\[131\]](#cite_note-tooke-131)
+ This usage is attested already in the _Life of Protopope [Avvakum](/wiki/Avvakum "Avvakum")
+_ (1621–1682),[\[132\]](#cite_note-132)
+ and on the late-17th-century maps by [Semyon Remezov](/wiki/Semyon_Remezov "Semyon Remezov")
+.[\[133\]](#cite_note-133)
+ It is also attested in the famous song, now passed into the tradition, that opens with the words _Славное море, священный Байкал_ (Glorious sea, \[the\] sacred Bajkal). To this day, the strait between the western shore of the Lake and the [Olkhon](/wiki/Olkhon "Olkhon")
+ Island is called _Maloye More_ (Малое море), i.e. "the [Little Sea](/wiki/Small_Sea_Strait "Small Sea Strait")
+".
+
+Lake Baikal is nicknamed "Older sister of Sister Lakes ([Lake Khövsgöl](/wiki/Lake_Kh%C3%B6vsg%C3%B6l "Lake Khövsgöl")
+ and Lake Baikal)".[\[134\]](#cite_note-134)
+
+According to 19th-century traveler T. W. Atkinson, locals in the Lake Baikal Region had the tradition that Christ visited the area:
+
+> The people have a tradition in connection with this region which they implicitly believe. They say "that Christ visited this part of Asia and ascended this summit, whence he looked down on all the region around. After blessing the country to the northward, he turned towards the south, and looking across the Baikal, he waved his hand, exclaiming 'Beyond this there is nothing.'" Thus they account for the sterility of [Daouria](/wiki/Daouria "Daouria")
+> , where it is said "no corn will grow."[\[135\]](#cite_note-135)
+
+Lake Baikal has been celebrated in Russian folk songs. Two of these songs are known in Russia and its neighboring countries, such as Japan.
+
+*   "[Glorious Sea, Sacred Baikal](/wiki/Glorious_Sea,_Sacred_Baikal "Glorious Sea, Sacred Baikal")
+    " (Славное мope, священный Байкал) is about a _[katorga](/wiki/Katorga "Katorga")
+    _ fugitive. The lyrics as documented and edited in the 19th century by Dmitriy P. Davydov (1811–1888).[\[136\]](#cite_note-136)
+     See "Barguzin River" for sample lyrics.
+*   "[The Wanderer](/wiki/Po_dikim_stepyam_Zabaikalya "Po dikim stepyam Zabaikalya")
+    " (Бродяга) is about a convict who had escaped from jail and was attempting to return home from [Transbaikal](/wiki/Transbaikal "Transbaikal")
+    .[\[137\]](#cite_note-137)
+     The lyrics were collected and edited in the 20th century by [Ivan Kondratyev](/wiki/Ivan_Kondratyev "Ivan Kondratyev")
+    .
+
+The latter song was a secondary [theme song](/wiki/Theme_song "Theme song")
+ for the Soviet Union's second color film, _[Ballad of Siberia](/wiki/Ballad_of_Siberia "Ballad of Siberia")
+_ (1947; Сказание о земле Сибирской).
+
+See also
+--------
+
+\[[edit](/w/index.php?title=Lake_Baikal&action=edit&section=25 "Edit section: See also")\
+\]
+
+*   ![image](https://www.wikipedia.org/upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Walden_Pond%2C_Massachusetts_on_June_27%2C_2012.png/28px-Walden_Pond%2C_Massachusetts_on_June_27%2C_2012.png)[Lakes portal](/wiki/Portal:Lakes "Portal:Lakes")
+    
+*   ![](https://www.wikipedia.org/upload.wikimedia.org/wikipedia/commons/thumb/7/70/Kuznetsk_Alatau_3.jpg/32px-Kuznetsk_Alatau_3.jpg)[Siberia portal](/wiki/Portal:Siberia "Portal:Siberia")
+    
+
+*   [Cryptodepression](/wiki/Cryptodepression "Cryptodepression")
+    
+*   [Russian Far East](/wiki/Russian_Far_East "Russian Far East")
+    
+*   [Seven Wonders of Russia](/wiki/Seven_Wonders_of_Russia "Seven Wonders of Russia")
+    
+
+Notes
+-----
+
+\[[edit](/w/index.php?title=Lake_Baikal&action=edit&section=26 "Edit section: Notes")\
+\]
+
+References
+----------
+
+\[[edit](/w/index.php?title=Lake_Baikal&action=edit&section=27 "Edit section: References")\
+\]
+
+1.  ^ [Jump up to: _**a**_](#cite_ref-INTAS_1-0)
+     [_**b**_](#cite_ref-INTAS_1-1)
+     [_**c**_](#cite_ref-INTAS_1-2)
+     [_**d**_](#cite_ref-INTAS_1-3)
+     [_**e**_](#cite_ref-INTAS_1-4)
+     [_**f**_](#cite_ref-INTAS_1-5)
+     ["A new bathymetric map of Lake Baikal. Morphometric Data. INTAS Project 99-1669. Ghent University, Ghent, Belgium; Consolidated Research Group on Marine Geosciences (CRG-MG), University of Barcelona, Spain; Limnological Institute of the Siberian Division of the Russian Academy of Sciences, Irkutsk, Russian Federation; State Science Research Navigation-Hydrographic Institute of the Ministry of Defense, St. Petersburg, Russian Federation"](https://web.archive.org/web/20181225085935/http://users.ugent.be/~mdbatist/intas/morphometry.htm)
+    . Ghent University, Ghent, Belgium. Archived from [the original](http://users.ugent.be/~mdbatist/intas/morphometry.htm)
+     on 25 December 2018. Retrieved 9 July 2009.
+2.  **[^](#cite_ref-2 "Jump up")
+    ** M.A. Grachev. ["On the present state of the ecological system of lake Baikal"](https://web.archive.org/web/20110820023119/http://lin.irk.ru/grachev/eng/introduction.htm)
+    . Limnological Institute, Siberian Division of the Russian Academy of Sciences. Archived from [the original](http://lin.irk.ru/grachev/eng/introduction.htm)
+     on 20 August 2011. Retrieved 9 July 2009.
+3.  **[^](#cite_ref-3 "Jump up")
+    ** ["Baikal"](https://www.collinsdictionary.com/dictionary/english/baikal)
+    . _[Collins English Dictionary](/wiki/Collins_English_Dictionary "Collins English Dictionary")
+    _.
+4.  **[^](#cite_ref-4 "Jump up")
+    ** Dervla Murphy (2007) _Silverland: A Winter Journey Beyond the Urals_, London, John Murray, p. 173
+5.  ^ [Jump up to: _**a**_](#cite_ref-oddities_5-0)
+     [_**b**_](#cite_ref-oddities_5-1)
+     [_**c**_](#cite_ref-oddities_5-2)
+     ["The Oddities of Lake Baikal"](https://web.archive.org/web/20070203174400/http://www.gi.alaska.edu/ScienceForum/ASF9/986.html)
+    . Alaska Science Forum. Archived from [the original](http://www.gi.alaska.edu/ScienceForum/ASF9/986.html)
+     on 3 February 2007. Retrieved 7 January 2007.
+6.  **[^](#cite_ref-6 "Jump up")
+    ** ["Deepest Lake in the World"](http://geology.com/records/deepest-lake.shtml)
+    . geology.com. Retrieved 18 August 2007.
+7.  **[^](#cite_ref-7 "Jump up")
+    ** Schwarzenbach, Rene P.; Philip M. Gschwend; Dieter M. Imboden (2003). _Environmental Organic Chemistry_ (2 ed.). Wiley Interscience. p. 1052. [ISBN](/wiki/ISBN_(identifier) "ISBN (identifier)")
+     [978-0-471-35053-8](/wiki/Special:BookSources/978-0-471-35053-8 "Special:BookSources/978-0-471-35053-8")
+    .
+8.  **[^](#cite_ref-8 "Jump up")
+    ** Tyus, Harold M. (2012). _Ecology and Conservation of Fishes_. CRC Press. p. 116. [ISBN](/wiki/ISBN_(identifier) "ISBN (identifier)")
+     [978-1-4398-9759-1](/wiki/Special:BookSources/978-1-4398-9759-1 "Special:BookSources/978-1-4398-9759-1")
+    .
+9.  **[^](#cite_ref-9 "Jump up")
+    ** Bright, Michael, ed. (2010). _1001 natural wonders: you must see before you die_. preface by Koichiro Mastsuura (2009 ed.). London: Cassell Illustrated. p. 620. [ISBN](/wiki/ISBN_(identifier) "ISBN (identifier)")
+     [978-1-84403-674-5](/wiki/Special:BookSources/978-1-84403-674-5 "Special:BookSources/978-1-84403-674-5")
+    .
+10.  ^ [Jump up to: _**a**_](#cite_ref-touchstone_10-0)
+     [_**b**_](#cite_ref-touchstone_10-1)
+     ["Lake Baikal – A Touchstone for Global Change and Rift Studies"](https://web.archive.org/web/20120629180319/http://marine.usgs.gov/fact-sheets/baikal/)
+    . [United States Geological Survey](/wiki/United_States_Geological_Survey "United States Geological Survey")
+    . Archived from [the original](https://marine.usgs.gov/fact-sheets/baikal/)
+     on 29 June 2012. Retrieved 3 January 2016.
+11.  ^ [Jump up to: _**a**_](#cite_ref-unesco_11-0)
+     [_**b**_](#cite_ref-unesco_11-1)
+     ["Lake Baikal – UNESCO World Heritage Centre"](https://whc.unesco.org/en/list/754)
+    . Retrieved 5 October 2012.
+12.  ^ [Jump up to: _**a**_](#cite_ref-ScienceDaily2017_12-0)
+     [_**b**_](#cite_ref-ScienceDaily2017_12-1)
+     [_**c**_](#cite_ref-ScienceDaily2017_12-2)
+     ["Lake Baikal: Protection of a unique ecosystem"](https://www.sciencedaily.com/releases/2017/07/170726103013.htm)
+    . _ScienceDaily_. 26 July 2017. Retrieved 16 January 2018.
+13.  ^ [Jump up to: _**a**_](#cite_ref-Jung2004_13-0)
+     [_**b**_](#cite_ref-Jung2004_13-1)
+     Jung, J.; Hojnowski, C.; Jenkins, H.; Ortiz, A.; Brinkley, C.; Cadish, L.; Evans, A.; Kissinger, P.; Ordal, L.; Osipova, S.; Smith, A.; Vredeveld, B.; Hodge, T.; Kohler, S.; Rodenhouse, N.; Moore, M. (2004). ["Diel vertical migration of zooplankton in Lake Baikal and its relationship to body size"](https://web.archive.org/web/20110615182026/http://www.wellesley.edu/Biology/Faculty/Mmoore/Content/JUNG_et_al_2004.pdf)
+     (PDF). In Smirnov, A.I.; Izmest'eva, L.R. (eds.). _Ecosystems and Natural Resources of Mountain Regions. Proceedings of the first international symposium on Lake Baikal: The current state of the surface and underground hydrosphere in mountainous areas. "Nauka", Novosibirsk, Russia_. pp. 131–140. Archived from [the original](http://www.wellesley.edu/Biology/Faculty/Mmoore/Content/JUNG_et_al_2004.pdf)
+     (PDF) on 15 June 2011. Retrieved 9 August 2009.
+14.  **[^](#cite_ref-animal_14-0 "Jump up")
+    ** S. Hudgins (2003). [_The Other Side of Russia: A Slice of Life in Siberia and the Russian Far East_](http://www.tamupress.com/product/Other-Side-of-Russia,4080.aspx)
+    . Texas A&M University Press. Retrieved 9 August 2009.
+15.  **[^](#cite_ref-15 "Jump up")
+    ** M. Hammer; T. Karafet (1995). ["DNA & the peopling of Siberia"](http://www.mnh.si.edu/arctic/html/peopling_siberia.html)
+    . Smithsonian Institution. Retrieved 9 August 2009.
+16.  **[^](#cite_ref-16 "Jump up")
+    ** Fefelov, I.; Tupitsyn, I. (August 2004). ["Waders of the Selenga delta, Lake Baikal, eastern Siberia"](http://sora.unm.edu/sites/default/files/journals/iwsgb/v104/p00066-p00078.pdf)
+     (PDF). _Wader Study Group Bulletin_. **104**: 66–78. Retrieved 9 August 2009.
+17.  **[^](#cite_ref-17 "Jump up")
+    ** Erbajeva, Margarita A.; Khenzykhenova, Fedora I.; Alexeeva, Nadezhda V. (23 January 2013). ["Aridization of the Transbaikalia in the context of global events during the Pleistocene and its effect on the evolution of small mammals"](https://www.sciencedirect.com/science/article/pii/S1040618211007166)
+    . _Quaternary International_. Quaternary interconnections in Eurasia: focus on Eastern Europe SEQS Conference, Rostov-on-Don, Russia, 21–26 June 2010. **284**: 45–52. [Bibcode](/wiki/Bibcode_(identifier) "Bibcode (identifier)")
+    :[2013QuInt.284...45E](https://ui.adsabs.harvard.edu/abs/2013QuInt.284...45E)
+    . [doi](/wiki/Doi_(identifier) "Doi (identifier)")
+    :[10.1016/j.quaint.2011.12.024](https://doi.org/10.1016%2Fj.quaint.2011.12.024)
+    . [ISSN](/wiki/ISSN_(identifier) "ISSN (identifier)")
+     [1040-6182](https://search.worldcat.org/issn/1040-6182)
+    .
+18.  **[^](#cite_ref-18 "Jump up")
+    ** ["Lake Baikal – World Heritage Site"](https://whc.unesco.org/en/list/754)
+    . World Heritage. Retrieved 13 January 2007.
+19.  **[^](#cite_ref-earthquake_insight_19-0 "Jump up")
+    ** HUBBARD AND BRADLEY (16 January 2024). ["M5.4 earthquake below Lake Baikal"](https://earthquakeinsights.substack.com/p/m54-earthquake-below-lake-baikal)
+    . _Earthquake Insights_. Retrieved 16 January 2024.
+20.  **[^](#cite_ref-20 "Jump up")
+    ** Kravchinsky, V.A., M.A. Krainov, M.E. Evans, J.A. Peck, J.W. King, M.I. Kuzmin, H. Sakai, T. Kawai, and D. Williams. Magnetic record of Lake Baikal sediments: chronological and paleoclimatic implication for the last 6.7 Myr. Palaeogeography, Palaeoclimatology, Palaeoecology, 195, 281–298, 2003. [doi](/wiki/Doi_(identifier) "Doi (identifier)")
+    :[10.1016/S0031-0182(03)00362-6](https://doi.org/10.1016%2FS0031-0182%2803%2900362-6)
+    
+21.  **[^](#cite_ref-21 "Jump up")
+    ** Kravchinsky, V.A., M.E. Evans, J.A. Peck, H. Sakai, M.A. Krainov, J.W. King, M.I. Kuzmin. A 640kyr geomagnetic and paleoclimatic record from Lake Baikal sediments. Geophysical Journal International, 170 (1), 101–116, [doi](/wiki/Doi_(identifier) "Doi (identifier)")
+    :[10.1111/j.1365-246X.2007.03411.x](https://doi.org/10.1111%2Fj.1365-246X.2007.03411.x)
+    , 2007.
+22.  **[^](#cite_ref-22 "Jump up")
+    ** M.I. Kuzmin _et al._ (1998). First find of gas hydrates in sediments of Lake Baikal. Doklady Adademii Nauk, 362: 541–543 (in Russian).
+23.  **[^](#cite_ref-23 "Jump up")
+    ** M. Vanneste; M. De Batist; A. Golmshtok; A. Kremlev; W. Versteeg (2001). "Multi-frequency seismic study of gas hydrate-bearing sediments in Lake Baikal, Siberia". _[Marine Geology](/wiki/Marine_Geology_(journal) "Marine Geology (journal)")
+    _. **172** (1): 1–21. [Bibcode](/wiki/Bibcode_(identifier) "Bibcode (identifier)")
+    :[2001MGeol.172....1V](https://ui.adsabs.harvard.edu/abs/2001MGeol.172....1V)
+    . [doi](/wiki/Doi_(identifier) "Doi (identifier)")
+    :[10.1016/S0025-3227(00)00117-1](https://doi.org/10.1016%2FS0025-3227%2800%2900117-1)
+    .
+24.  **[^](#cite_ref-24 "Jump up")
+    ** P. Van Rensbergen; M. De Batist; J. Klerkx; R. Hus; J. Poort; M. Vanneste; N. Granin; O. Khlystov; P. Krinitsky (2002). ["Sublacustrine mud volcanoes and methane seeps caused by dissociation of gas hydrates in Lake Baikal"](http://www.gt-crust.ru/jour/article/view/478)
+    . _[Geology](/wiki/Geology_(journal) "Geology (journal)")
+    _. **30** (7): 631–634. [Bibcode](/wiki/Bibcode_(identifier) "Bibcode (identifier)")
+    :[2002Geo....30..631V](https://ui.adsabs.harvard.edu/abs/2002Geo....30..631V)
+    . [doi](/wiki/Doi_(identifier) "Doi (identifier)")
+    :[10.1130/0091-7613(2002)030<0631:SMVAMS>2.0.CO;2](https://doi.org/10.1130%2F0091-7613%282002%29030%3C0631%3ASMVAMS%3E2.0.CO%3B2)
+    .
+25.  **[^](#cite_ref-cnn_25-0 "Jump up")
+    ** ["Lake Baikal: the great blue eye of Siberia"](https://web.archive.org/web/20061011114225/http://www.cnn.com/SPECIALS/2000/russia/story/train/lake.baikal/)
+    . CNN. Archived from [the original](http://www.cnn.com/SPECIALS/2000/russia/story/train/lake.baikal/)
+     on 11 October 2006. Retrieved 21 October 2006.
+26.  **[^](#cite_ref-26 "Jump up")
+    ** Touchart, Laurent (2012), "Baikal, Lake", in Bengtsson, Lars; Herschy, Reginald W.; Fairbridge, Rhodes W. (eds.), _Encyclopedia of Lakes and Reservoirs_, Encyclopedia of Earth Sciences Series, Dordrecht: Springer Netherlands, pp. 83–91, [doi](/wiki/Doi_(identifier) "Doi (identifier)")
+    :[10.1007/978-1-4020-4410-6\_50](https://doi.org/10.1007%2F978-1-4020-4410-6_50)
+    , [ISBN](/wiki/ISBN_(identifier) "ISBN (identifier)")
+     [978-1-4020-4410-6](/wiki/Special:BookSources/978-1-4020-4410-6 "Special:BookSources/978-1-4020-4410-6")
+    
+27.  ^ [Jump up to: _**a**_](#cite_ref-FEOW_27-0)
+     [_**b**_](#cite_ref-FEOW_27-1)
+     [_**c**_](#cite_ref-FEOW_27-2)
+     [_**d**_](#cite_ref-FEOW_27-3)
+     [_**e**_](#cite_ref-FEOW_27-4)
+     [_**f**_](#cite_ref-FEOW_27-5)
+     [_**g**_](#cite_ref-FEOW_27-6)
+     [_**h**_](#cite_ref-FEOW_27-7)
+     [_**i**_](#cite_ref-FEOW_27-8)
+     [_**j**_](#cite_ref-FEOW_27-9)
+     [_**k**_](#cite_ref-FEOW_27-10)
+     Freshwater Ecoregions of the World (2008). _[Lake Baikal.](http://www.feow.org/ecoregions/details/lake_baikal)
+     [Archived](https://web.archive.org/web/20160303193643/http://www.feow.org/ecoregions/details/lake_baikal)
+     3 March 2016 at the [Wayback Machine](/wiki/Wayback_Machine "Wayback Machine")
+    _ Retrieved 16 July 2014.
+28.  **[^](#cite_ref-28 "Jump up")
+    ** Hutter; Yongqi; Chubarenko (2011). _Physics of Lakes: Foundation of the Mathematical and Physical Background_. Vol. 1. Springer. p. 11. [ISBN](/wiki/ISBN_(identifier) "ISBN (identifier)")
+     [978-3-642-15178-1](/wiki/Special:BookSources/978-3-642-15178-1 "Special:BookSources/978-3-642-15178-1")
+    .
+29.  **[^](#cite_ref-29 "Jump up")
+    ** ["Unique body of water"](http://www.blackseascene.net/content/content.asp?menu=0040032_000000)
+    . Black Sea Scene. Retrieved 5 March 2018.
+30.  ^ [Jump up to: _**a**_](#cite_ref-baikalice_30-0)
+     [_**b**_](#cite_ref-baikalice_30-1)
+     ["Ice Conditions"](http://www.bww.irk.ru/baikalclimate/baikalice.html)
+    . bww.irk.ru. Retrieved 8 June 2017.
+31.  **[^](#cite_ref-31 "Jump up")
+    ** ["Baikal seal"](http://baikal.ru/en/baikal/excursion/nerpa.html)
+    . baikal.ru. Retrieved 9 June 2017.
+32.  ^ [Jump up to: _**a**_](#cite_ref-Gurulev_32-0)
+     [_**b**_](#cite_ref-Gurulev_32-1)
+     [_**c**_](#cite_ref-Gurulev_32-2)
+     [_**d**_](#cite_ref-Gurulev_32-3)
+     [_**e**_](#cite_ref-Gurulev_32-4)
+     [_**f**_](#cite_ref-Gurulev_32-5)
+     Gurulev, S.A. ["Temperature of Lake Baikal Water"](http://www.bww.irk.ru/baikalwater/temperature.html)
+    . bww.irk.ru. Retrieved 8 June 2017.
+33.  ^ [Jump up to: _**a**_](#cite_ref-Pomazkina2012_33-0)
+     [_**b**_](#cite_ref-Pomazkina2012_33-1)
+     Pomazkina, G.; L. Kravtsova; E. Sorokovikova (2012). ["Structure of epiphyton communities on Lake Baikal submerged macrophytes"](https://doi.org/10.2478%2Fv10194-011-0041-1)
+    . _Limnological Review_. **12** (1): 19–27. [doi](/wiki/Doi_(identifier) "Doi (identifier)")
+    :[10.2478/v10194-011-0041-1](https://doi.org/10.2478%2Fv10194-011-0041-1)
+    .
+34.  ^ [Jump up to: _**a**_](#cite_ref-Eulimnogammarus_34-0)
+     [_**b**_](#cite_ref-Eulimnogammarus_34-1)
+     [_**c**_](#cite_ref-Eulimnogammarus_34-2)
+     Rivarola-Duartea; Otto; Jühling; Schreiber; Bedulina; Jakob; Gurkov; Axenov-Gribanov; Sahyoun; Lucassen; Hackermüller; Hoffmann; Sartoris; Pörtner; Timofeyev; Luckenbach; and Stadler (2014). _A First Glimpse at the Genome of the Baikalian Amphipod Eulimnogammarus verrucosus._ Journal of Experimental Zoology Part B: Molecular and Developmental Evolution 322(3): 177–189.
+35.  **[^](#cite_ref-35 "Jump up")
+    ** C. Michael Hogan. 2009. [_Marsh Thistle: Cirsium palustre_, GlobalTwitcher.com, ed. N. Strömberg](http://www.globaltwitcher.com/artspec_information.asp?thingid=48639)
+     [Archived](https://web.archive.org/web/20121213144520/http://www.globaltwitcher.com/artspec_information.asp?thingid=48639)
+     13 December 2012 at the [Wayback Machine](/wiki/Wayback_Machine "Wayback Machine")
+    
+36.  ^ [Jump up to: _**a**_](#cite_ref-Shahgedanova2002_36-0)
+     [_**b**_](#cite_ref-Shahgedanova2002_36-1)
+     [_**c**_](#cite_ref-Shahgedanova2002_36-2)
+     [_**d**_](#cite_ref-Shahgedanova2002_36-3)
+     [_**e**_](#cite_ref-Shahgedanova2002_36-4)
+     [_**f**_](#cite_ref-Shahgedanova2002_36-5)
+     [_**g**_](#cite_ref-Shahgedanova2002_36-6)
+     Mackay, A.; R. Flower; L. Granina (2002). "Lake Baikal". In Shahgedanova, M. (ed.). _The Physical Geography of Northern Eurasia_. Oxford University Press. pp. 403–421. [ISBN](/wiki/ISBN_(identifier) "ISBN (identifier)")
+     [978-0-19-823384-8](/wiki/Special:BookSources/978-0-19-823384-8 "Special:BookSources/978-0-19-823384-8")
+    .
+37.  **[^](#cite_ref-37 "Jump up")
+    ** Peter Saundry. 2010. [_Baikal seal_](http://www.eoearth.org/wiki/Baikal_seal)
+    . Encyclopedia of Earth. Topic ed. C. Michael Hogan, Ed. in chief C. NCSE, Washington D.C.
+38.  **[^](#cite_ref-38 "Jump up")
+    ** ["Wildlife of Lake Baikal"](http://www.bww.irk.ru/baikalfauna/baikalwildlife.html)
+    . bww.irk.ru. Retrieved 9 June 2017.
+39.  **[^](#cite_ref-39 "Jump up")
+    ** Sipko P.T.. 2009. [European bison in Russia – past, present and future](http://www.smz.waw.pl/wydawnictwa/biuletyn2/20_Sipko.pdf)
+     (pdf). the European Bison Conservation Newsletter Vol 2 (2009). pp.148–159. the Institute of Problems Ecology and Evolution RAS. Retrieved on 31 March 2017
+40.  **[^](#cite_ref-40 "Jump up")
+    ** ["Животный мир Байкала. Озеро Байкал: экология. Озеро Байкал. Природа. Пресноводные водоемы, растительность, животный мир"](http://www.zooeco.com/strany/str-01-9-3.html)
+    . _www.zooeco.com_. Retrieved 30 June 2018.
+41.  **[^](#cite_ref-41 "Jump up")
+    ** Flint, V.E.; R.L. Boehme; Y.V. Kostin; A.A. Kuznetsov (1984). _Birds of the USSR_. Princeton University Press. p. 38. [ISBN](/wiki/ISBN_(identifier) "ISBN (identifier)")
+     [0-691-02430-8](/wiki/Special:BookSources/0-691-02430-8 "Special:BookSources/0-691-02430-8")
+    .
+42.  **[^](#cite_ref-42 "Jump up")
+    ** BirdLife International (2016). ["_Locustella davidi_"](https://www.iucnredlist.org/species/22732200/95043817)
+    . _[IUCN Red List of Threatened Species](/wiki/IUCN_Red_List "IUCN Red List")
+    _. **2016**: e.T22732200A95043817. [doi](/wiki/Doi_(identifier) "Doi (identifier)")
+    :[10.2305/IUCN.UK.2016-3.RLTS.T22732200A95043817.en](https://doi.org/10.2305%2FIUCN.UK.2016-3.RLTS.T22732200A95043817.en)
+    . Retrieved 12 November 2021.
+43.  ^ [Jump up to: _**a**_](#cite_ref-ThymallusBaikalensis_43-0)
+     [_**b**_](#cite_ref-ThymallusBaikalensis_43-1)
+     [Froese, Rainer](/wiki/Rainer_Froese "Rainer Froese")
+    ; Pauly, Daniel, eds. (2014). ["_Thymallus baikalensis_"](http://www.fishbase.org/summary/SpeciesSummary.php?genusname=Thymallus&speciesname=baikalensis)
+    . _[FishBase](/wiki/FishBase "FishBase")
+    _.
+44.  ^ [Jump up to: _**a**_](#cite_ref-ThymallusBrevipinnis_44-0)
+     [_**b**_](#cite_ref-ThymallusBrevipinnis_44-1)
+     [Froese, Rainer](/wiki/Rainer_Froese "Rainer Froese")
+    ; Pauly, Daniel, eds. (2014). ["_Thymallus brevipinnis_"](http://www.fishbase.org/summary/SpeciesSummary.php?genusname=Thymallus&speciesname=brevipinnis)
+    . _[FishBase](/wiki/FishBase "FishBase")
+    _.
+45.  ^ [Jump up to: _**a**_](#cite_ref-FishbaseList_45-0)
+     [_**b**_](#cite_ref-FishbaseList_45-1)
+     FishBase: [Species in Lake Baikal.](http://www.fishbase.org/trophiceco/FishEcoList.php?ve_code=156)
+     Retrieved 6 April 2017.
+46.  **[^](#cite_ref-46 "Jump up")
+    ** Kontula, Tytti; Kirilchik, Sergei V.; Väinölä, Risto (2003). "Endemic diversification of the monophyletic cottoid fish species flock in Lake Baikal explored with mtDNA sequencing". _Molecular Phylogenetics and Evolution_. **27** (1): 143–155. [Bibcode](/wiki/Bibcode_(identifier) "Bibcode (identifier)")
+    :[2003MolPE..27..143K](https://ui.adsabs.harvard.edu/abs/2003MolPE..27..143K)
+    . [doi](/wiki/Doi_(identifier) "Doi (identifier)")
+    :[10.1016/S1055-7903(02)00376-7](https://doi.org/10.1016%2FS1055-7903%2802%2900376-7)
+    . [PMID](/wiki/PMID_(identifier) "PMID (identifier)")
+     [12679079](https://pubmed.ncbi.nlm.nih.gov/12679079)
+    .
+47.  **[^](#cite_ref-hunt_47-0 "Jump up")
+    ** Hunt, D. M., et al. (1997). Molecular evolution of the cottoid fish endemic to Lake Baikal deduced from nuclear DNA evidence. Molecular Phylogenetics and Evolution 8(3): 415–22.
+48.  **[^](#cite_ref-48 "Jump up")
+    ** Pastukhov, V.D: _[Lake Baikal Seals – NERPA.](http://www.bww.irk.ru/baikalseals/baikalseals_01.html)
+    _ Retrieved 19 July 2014.
+49.  **[^](#cite_ref-49 "Jump up")
+    ** [Froese, Rainer](/wiki/Rainer_Froese "Rainer Froese")
+    ; Pauly, Daniel, eds. (2014). ["_Coregonus baicalensis_"](http://www.fishbase.org/summary/SpeciesSummary.php?genusname=Coregonus&speciesname=baicalensis)
+    . _[FishBase](/wiki/FishBase "FishBase")
+    _.
+50.  **[^](#cite_ref-50 "Jump up")
+    ** Baikal.ru: _[Baikal grayling.](http://baikal.ru/en/baikal/excursion/pisces/Thymallus_arcticus_baicalensis.html)
+    _ Retrieved 19 July 2014.
+51.  **[^](#cite_ref-51 "Jump up")
+    ** Baikal.ru: _[Baikal sturgeon.](http://baikal.ru/en/baikal/excursion/pisces/acipenser.html)
+    _ Retrieved 19 July 2014.
+52.  **[^](#cite_ref-52 "Jump up")
+    ** ["Зоопланктон в экосистеме озера Байкал / О Байкале.ру – Байкал. Научно и популярно"](https://web.archive.org/web/20110930202148/http://baikal.mobi/)
+    . Baikal.mobi. Archived from [the original](http://baikal.mobi/)
+     on 30 September 2011. Retrieved 2 January 2012.
+53.  **[^](#cite_ref-53 "Jump up")
+    ** [Sacred Sea: A Journey to Lake Baikal](https://epdf.tips/sacred-sea-a-journey-to-lake-baikal.html)
+    
+54.  ^ [Jump up to: _**a**_](#cite_ref-Sherbakov_54-0)
+     [_**b**_](#cite_ref-Sherbakov_54-1)
+     Sherbakov; Kamaltynov; Ogarkov; and Verheyen (1998). _Patterns of Evolutionary Change in Baikalian Gammarids Inferred from DNA Sequences (Crustacea, Amphipoda)._ Molecular Phylogenetics and Evolution 10(2): 160–167
+55.  **[^](#cite_ref-55 "Jump up")
+    ** BBC News (13 May 1999). _[Oxygen boosts polar giants.](http://news.bbc.co.uk/2/hi/science/nature/342906.stm)
+    _ Retrieved 17 July 2014.
+56.  ^ [Jump up to: _**a**_](#cite_ref-Acanthogammarus_56-0)
+     [_**b**_](#cite_ref-Acanthogammarus_56-1)
+     Daneliya, M.E.; Kamaltynov, R.M.; and Väinölä, R. (2011). _Phylogeography and systematics of Acanthogammarus s. str., giant amphipod crustaceans from Lake Baikal._ Zoologica Scripta 40(6): 623–637.
+57.  **[^](#cite_ref-57 "Jump up")
+    ** [Evolution and Phylogeny of Pancrustacea: A Story of Scientific Method](https://books.google.com/books?id=hMxKEAAAQBAJ&dq=The+four+species+of+Baikalasellus&pg=PA463)
+    
+58.  **[^](#cite_ref-58 "Jump up")
+    ** [A new obligate groundwater species of Asellus (Isopoda, Asellidae) from Iran](https://hal.science/hal-03623375/document)
+    
+59.  **[^](#cite_ref-59 "Jump up")
+    ** [Evolution and Biogeography: Volume 8](https://books.google.com/books?id=ix7ZDwAAQBAJ&dq=Baicalasellus+endemic+rocky+substrata&pg=PA289)
+    
+60.  **[^](#cite_ref-60 "Jump up")
+    ** [Cladocera species (Crustacea, Branchiopoda) in the littoral zone of Lake Baikal: some representatives of Daphniidae families](https://iopscience.iop.org/article/10.1088/1755-1315/962/1/012034/pdf)
+    
+61.  ^ [Jump up to: _**a**_](#cite_ref-Karanovic2017a_61-0)
+     [_**b**_](#cite_ref-Karanovic2017a_61-1)
+     [_**c**_](#cite_ref-Karanovic2017a_61-2)
+     [_**d**_](#cite_ref-Karanovic2017a_61-3)
+     Karanovic, I.; and T.Y. Sitnikova (2017). _Morphological and molecular diversity of Lake Baikal candonid ostracods, with a description of a new genus._ Zookeys. 2017(684): 19–56. [doi](/wiki/Doi_(identifier) "Doi (identifier)")
+    :[10.3897/zookeys.684.13249](https://doi.org/10.3897%2Fzookeys.684.13249)
+    
+62.  **[^](#cite_ref-62 "Jump up")
+    ** Martens; Schön; Meisch; and Horne (2008). _Global diversity of ostracods (Ostracoda, Crustacea) in freshwater._ Hydrobiologia 595: 185–193. [doi](/wiki/Doi_(identifier) "Doi (identifier)")
+    :[10.1007/s10750-007-9245-4](https://doi.org/10.1007%2Fs10750-007-9245-4)
+    
+63.  **[^](#cite_ref-63 "Jump up")
+    ** Karanovic, I.; and T.Y. Sitnikova (2017). _Phylogenetic position and age of Lake Baikal candonids (Crustacea, Ostracoda) inferred from multigene sequence analyses and molecular dating._ Ecol Evol. 7(17): 7091–7103. [doi](/wiki/Doi_(identifier) "Doi (identifier)")
+    :[10.1002/ece3.3159](https://doi.org/10.1002%2Fece3.3159)
+    
+64.  **[^](#cite_ref-64 "Jump up")
+    ** Schön; Pieri; Sherbakov; and Martens (2017). _Cryptic diversity and speciation in endemic Cytherissa (Ostracoda, Crustacea) from Lake Baikal._ Hydrobiologia 800(1): 61–79. [doi](/wiki/Doi_(identifier) "Doi (identifier)")
+    :[10.1007/s10750-017-3259-3](https://doi.org/10.1007%2Fs10750-017-3259-3)
+    
+65.  ^ [Jump up to: _**a**_](#cite_ref-gastropod_65-0)
+     [_**b**_](#cite_ref-gastropod_65-1)
+     [_**c**_](#cite_ref-gastropod_65-2)
+     Sitnikova, T.Y. (2006). "Endemic gastropod distribution in Baikal". _Hydrobiologia_. **568** (S1): 207–211. [doi](/wiki/Doi_(identifier) "Doi (identifier)")
+    :[10.1007/s10750-006-0313-y](https://doi.org/10.1007%2Fs10750-006-0313-y)
+    . [S2CID](/wiki/S2CID_(identifier) "S2CID (identifier)")
+     [35020631](https://api.semanticscholar.org/CorpusID:35020631)
+    .
+66.  ^ [Jump up to: _**a**_](#cite_ref-BaikalGastropoda_66-0)
+     [_**b**_](#cite_ref-BaikalGastropoda_66-1)
+     Baikal.ru: _[Gastropoda.](http://baikal.ru/en/baikal/excursion/gastropoda.html)
+    _ Retrieved 17 July 2014.
+67.  **[^](#cite_ref-67 "Jump up")
+    ** Slugina, Z.V. (2006). "Endemic Bivalvia in ancient lakes". _Hydrobiologia_. **568** (S1): 213–217. [doi](/wiki/Doi_(identifier) "Doi (identifier)")
+    :[10.1007/s10750-006-0312-z](https://doi.org/10.1007%2Fs10750-006-0312-z)
+    . [S2CID](/wiki/S2CID_(identifier) "S2CID (identifier)")
+     [22330810](https://api.semanticscholar.org/CorpusID:22330810)
+    .
+68.  **[^](#cite_ref-68 "Jump up")
+    ** Slugina; Starobogatov; and Korniushin (1994). _Bivalves (Bivalvia) of Lake Baikal._ Ruthenica 4(2): 111–146.
+69.  ^ [Jump up to: _**a**_](#cite_ref-SegersMartens_69-0)
+     [_**b**_](#cite_ref-SegersMartens_69-1)
+     [_**c**_](#cite_ref-SegersMartens_69-2)
+     Segers, H.; and Martens, K; editors (2005). _The Diversity of Aquatic Ecosystems._ pp. 43–44. Developments in Hydrobiology. Aquatic Biodiversity. [ISBN](/wiki/ISBN_(identifier) "ISBN (identifier)")
+     [1-4020-3745-7](/wiki/Special:BookSources/1-4020-3745-7 "Special:BookSources/1-4020-3745-7")
+    
+70.  **[^](#cite_ref-70 "Jump up")
+    ** Kaygorodova, I.A.; and N.M. Pronin (2013). _New Records of Lake Baikal Leech Fauna: Species Diversity and Spatial Distribution in Chivyrkuy Gulf._ ScientificWorldJournal. 2013(2013): 206590. [doi](/wiki/Doi_(identifier) "Doi (identifier)")
+    :[10.1155/2013/206590](https://doi.org/10.1155%2F2013%2F206590)
+    
+71.  ^ [Jump up to: _**a**_](#cite_ref-flatworm_71-0)
+     [_**b**_](#cite_ref-flatworm_71-1)
+     Baikal.ru: [Flatworms (Plathelminthes).](http://baikal.ru/en/baikal/excursion/planaria.html)
+     Retrieved 7 June 2017.
+72.  ^ [Jump up to: _**a**_](#cite_ref-Kaluzhnaya2005_72-0)
+     [_**b**_](#cite_ref-Kaluzhnaya2005_72-1)
+     [_**c**_](#cite_ref-Kaluzhnaya2005_72-2)
+     Kaluzhnaya; Belikov; Schröder; Rothenberger; Zapf; Kaandorp; Borejko; Müller; and Müller (2005). _Dynamics of skeleton formation in the Lake Baikal sponge Lubomirskia baicalensis. Part I. Biological and biochemical studies._ Naturwissenschaften 92: 128–133.
+73.  **[^](#cite_ref-Paradina2003_73-0 "Jump up")
+    ** Paradina; Kulikova; Suturin; and Saibatalova (2003). _The Distribution of Chemical Elements in Sponges of the Family Lubomirskiidae in Lake Baikal._ International Symposium – Speciation in Ancient Lakes, SIAL III – Irkutsk 2002. Berliner Paläobiologische Abhandlungen 4: 151–157.
+74.  **[^](#cite_ref-74 "Jump up")
+    ** de Voogd, N.J.; Alvarez, B.; Boury-Esnault, N.; Carballo, J.L.; Cárdenas, P.; Díaz, M.-C.; Dohrmann, M.; Downey, R.; Hajdu, E.; Hooper, J.N.A.; Kelly, M.; Klautau, M.; Manconi, R.; Morrow, C.C. Pisera, A.B.; Ríos, P.; Rützler, K.; Schönberg, C.; Vacelet, J.; van Soest, R.W.M. (2021). ["Lubomirskiidae Weltner, 1895"](https://www.marinespecies.org/aphia.php?p=taxdetails&id=167011)
+    . _WoRMS_. [World Register of Marine Species](/wiki/World_Register_of_Marine_Species "World Register of Marine Species")
+    . Retrieved 24 November 2021.`{{[cite web](/wiki/Template:Cite_web "Template:Cite web") }}`: CS1 maint: multiple names: authors list ([link](/wiki/Category:CS1_maint:_multiple_names:_authors_list "Category:CS1 maint: multiple names: authors list")
+    )
+75.  **[^](#cite_ref-75 "Jump up")
+    ** [Symbiosis, Selection, and Novelty: Freshwater Adaptation in the Unique Sponges of Lake Baikal](https://academic.oup.com/mbe/article/36/11/2462/5522662?login=false)
+    
+76.  **[^](#cite_ref-76 "Jump up")
+    ** Belikov; Kaluzhnaya; Schröder; Müller; and Müller (2007). Lake Baikal endemic sponge Lubomirskia baikalensis: structure and organization of the gene family of silicatein and its role in morphogenesis. Porifera Research: Biodiversity, Innovation and Sustainability, pp. 179–188.
+77.  **[^](#cite_ref-Kozhov1963_77-0 "Jump up")
+    ** Kozhov, M. (1963). _Lake Baikal and Its Life_. Monographiae Biologicae. Vol. 11. pp. 63–67. [ISBN](/wiki/ISBN_(identifier) "ISBN (identifier)")
+     [978-94-015-7388-7](/wiki/Special:BookSources/978-94-015-7388-7 "Special:BookSources/978-94-015-7388-7")
+    .
+78.  **[^](#cite_ref-78 "Jump up")
+    ** Müller; and Grachev, eds. (2009). _Biosilica in Evolution, Morphogenesis, and Nanobiotechnology: Case Study Lake Baikal_, pp. 81–110. [Springer Publishing](/wiki/Springer_Publishing "Springer Publishing")
+    . [ISBN](/wiki/ISBN_(identifier) "ISBN (identifier)")
+     [978-3-540-88551-1](/wiki/Special:BookSources/978-3-540-88551-1 "Special:BookSources/978-3-540-88551-1")
+    .
+79.  **[^](#cite_ref-79 "Jump up")
+    ** Lincoln, W.B. (2007). _The Conquest of a Continent: Siberia and the Russians_. Cornell University Press. p. 246. [ISBN](/wiki/ISBN_(identifier) "ISBN (identifier)")
+     [978-0-8014-8922-8](/wiki/Special:BookSources/978-0-8014-8922-8 "Special:BookSources/978-0-8014-8922-8")
+    .
+80.  **[^](#cite_ref-80 "Jump up")
+    ** Chang, Chun-shu (2007). _The Rise of the Chinese Empire: Nation, State, and Imperialism in Early China, ca. 1600 B.C.-A.D. 8_. University of Michigan Press. p. 264. [ISBN](/wiki/ISBN_(identifier) "ISBN (identifier)")
+     [978-0-472-11533-4](/wiki/Special:BookSources/978-0-472-11533-4 "Special:BookSources/978-0-472-11533-4")
+    .
+81.  **[^](#cite_ref-81 "Jump up")
+    ** Lincoln, W. Bruce (2007). _The Conquest of a Continent: Siberia and the Russians_. Cornell University Press. p. 246. [ISBN](/wiki/ISBN_(identifier) "ISBN (identifier)")
+     [978-0-8014-8922-8](/wiki/Special:BookSources/978-0-8014-8922-8 "Special:BookSources/978-0-8014-8922-8")
+    .
+82.  **[^](#cite_ref-82 "Jump up")
+    ** ["Research of the Baikal"](http://www.irkutsk.org/baikal/research.htm)
+    . Irkutsk.org. 18 January 2006. Retrieved 2 January 2012.
+83.  **[^](#cite_ref-83 "Jump up")
+    ** George V. Lantzeff and Richard A. Price, 'Eastward to Empire', 1973
+84.  **[^](#cite_ref-84 "Jump up")
+    ** [Открытие Русскими Средней И Восточной Сибири](http://www.randewy.ru/karta/geogr24.html)
+     (in Russian). Randewy.ru. Retrieved 2 January 2012.
+85.  **[^](#cite_ref-his_85-0 "Jump up")
+    ** ["Irkutsk Hydroelectric Power Station History"](https://web.archive.org/web/20130325234405/http://en.irkutskenergo.ru/qa/1008.2.html)
+    . Irkutskenergo. Archived from [the original](http://en.irkutskenergo.ru/qa/1008.2.html)
+     on 25 March 2013. Retrieved 7 September 2010.
+86.  **[^](#cite_ref-86 "Jump up")
+    ** [Байкальский исследовательский центр](http://www.baikal-research.org/)
+     [Archived](https://web.archive.org/web/20200218031450/http://www.baikal-research.org/)
+     18 February 2020 at the [Wayback Machine](/wiki/Wayback_Machine "Wayback Machine")
+     (Baikal Research Centre; in Russian). www.baikal-research.org
+87.  ^ [Jump up to: _**a**_](#cite_ref-Dive_87-0)
+     [_**b**_](#cite_ref-Dive_87-1)
+     ["Russians in landmark Baikal dive"](http://news.bbc.co.uk/2/hi/europe/7530230.stm)
+    . _BBC News_. 29 July 2008. Retrieved 4 April 2010.
+88.  **[^](#cite_ref-88 "Jump up")
+    ** Gallant, Jeffrey (29 July 2008) ["Russian submersible dives in Lake Baikal do not establish new freshwater depth record"](https://web.archive.org/web/20080922195516/http://www.divingalmanac.com/records_baikal.html)
+    . Archived from the original on 22 September 2008. Retrieved 4 June 2009.`{{[cite web](/wiki/Template:Cite_web "Template:Cite web") }}`: CS1 maint: bot: original URL status unknown ([link](/wiki/Category:CS1_maint:_bot:_original_URL_status_unknown "Category:CS1 maint: bot: original URL status unknown")
+    ). DivingAlmanac.com
+89.  **[^](#cite_ref-89 "Jump up")
+    ** PA News (19 July 2008). ["Submarines to plumb deepest lake"](http://www.express.co.uk/posts/view/53147/Submarines-to-plumb-deepest-lake)
+    .
+90.  **[^](#cite_ref-90 "Jump up")
+    ** Barry, Ellen (23 May 2011). "A Rugged Guys' heart to heart". _International Herald Tribune_.
+91.  **[^](#cite_ref-91 "Jump up")
+    ** ["Baikal Lake Neutrino Telescope"](https://web.archive.org/web/20100831210755/http://baikalweb.jinr.ru/)
+    . Baikalweb. 6 January 2005. Archived from [the original](http://baikalweb.jinr.ru/)
+     on 31 August 2010. Retrieved 30 July 2008.
+92.  **[^](#cite_ref-92 "Jump up")
+    ** ["Lake Baikal"](https://web.archive.org/web/20140227001822/http://www.globalgreatlakes.org/baikal/)
+    . _Global Great Lakes_. Archived from [the original](http://www.globalgreatlakes.org/baikal/)
+     on 27 February 2014. Retrieved 23 February 2014.
+93.  ^ [Jump up to: _**a**_](#cite_ref-Esslemont_93-0)
+     [_**b**_](#cite_ref-Esslemont_93-1)
+     Tom Esslemont (7 September 2007). [""Pearl of Siberia" draws investors"](http://news.bbc.co.uk/2/hi/europe/6982271.stm)
+    . _BBC News_. Retrieved 4 December 2007.
+94.  **[^](#cite_ref-94 "Jump up")
+    ** Daniil, Timin. ["Driving on frozen Lake Baikal in the winter"](http://russianblogger.me/lake-baikal-in-the-winter-driving-on-frozen-lake-baikal/)
+    . _Russian blogger_.
+95.  **[^](#cite_ref-95 "Jump up")
+    ** ["Lake Baikal Travel Guide – Top Ten Attractions on Lake Baikal"](https://www.56thparallel.com/lake-baikal-travel-guide/)
+    . 23 November 2017.
+96.  **[^](#cite_ref-96 "Jump up")
+    ** ["A Winter Bikepacking Journey Across Lake Baikal"](https://bikepacking.com/plog/bikepacking-lake-baikal/)
+    . _BIKEPACKING.com_. 18 May 2020. Retrieved 18 January 2021.
+97.  **[^](#cite_ref-97 "Jump up")
+    ** Sharma, Sapna; Blagrave, Kevin; Watson, Simon R.; O'Reilly, Catherine M.; Batt, Ryan; Magnuson, John J.; Clemens, Tessa; Denfeld, Blaize A.; Flaim, Giovanna; Grinberga, Laura; Hori, Yukari (18 November 2020). ["Increased winter drownings in ice-covered regions with warmer winters"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7673519)
+    . _PLOS ONE_. **15** (11): e0241222. [Bibcode](/wiki/Bibcode_(identifier) "Bibcode (identifier)")
+    :[2020PLoSO..1541222S](https://ui.adsabs.harvard.edu/abs/2020PLoSO..1541222S)
+    . [doi](/wiki/Doi_(identifier) "Doi (identifier)")
+    :[10.1371/journal.pone.0241222](https://doi.org/10.1371%2Fjournal.pone.0241222)
+    . [ISSN](/wiki/ISSN_(identifier) "ISSN (identifier)")
+     [1932-6203](https://search.worldcat.org/issn/1932-6203)
+    . [PMC](/wiki/PMC_(identifier) "PMC (identifier)")
+     [7673519](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7673519)
+    . [PMID](/wiki/PMID_(identifier) "PMID (identifier)")
+     [33206655](https://pubmed.ncbi.nlm.nih.gov/33206655)
+    .
+98.  **[^](#cite_ref-98 "Jump up")
+    ** ["Ukraine ex-President Yanukovych's son 'drowns in lake'"](https://www.bbc.com/news/world-europe-32009480)
+    . _BBC News_. 22 March 2015.
+99.  **[^](#cite_ref-99 "Jump up")
+    ** [Yanukovych junior perished](https://web.archive.org/web/20150324180642/http://www.pravda.com.ua/news/2015/03/22/7062301/)
+    . _[Ukrayinska Pravda](/wiki/Ukrayinska_Pravda "Ukrayinska Pravda")
+    _. 22 March 2015
+100.  **[^](#cite_ref-100 "Jump up")
+    ** ["Trails - Great Baikal Trail | GBT"](https://web.archive.org/web/20190327101121/https://greatbaikaltrail.org/en/tropi/)
+    . Archived from [the original](https://greatbaikaltrail.org/en/tropi/)
+     on 27 March 2019. Retrieved 10 March 2019.
+101.  **[^](#cite_ref-101 "Jump up")
+    ** ["Самый теплый залив на Байкале – Чивыркуйский залив !"](http://prospekt-desires.ru/samyj-teplyj-zaliv-na-bajkale-chivyrkujskij-zaliv/)
+    . 17 December 2017.
+102.  **[^](#cite_ref-102 "Jump up")
+    ** McGee, Rylin (17 April 2018). ["Ecotourism in Siberia: Development and Challenges on Olkhon Island"](https://geohistory.today/siberia-ecotourism-olkhon-island/)
+    . _GeoHistory_. Retrieved 26 October 2019.
+103.  **[^](#cite_ref-103 "Jump up")
+    ** ["Chinese tourists eager to visit Baikal"](https://www.rbth.com/business/2015/03/18/chinese_tourists_eager_to_visit_baikal_44579.html)
+    . 18 March 2015.
+104.  **[^](#cite_ref-104 "Jump up")
+    ** ["Russian Scientists Ring the Alarm on Lake Baikal's Pollutants"](https://www.themoscowtimes.com/2019/04/01/russian-scientists-ring-the-alarm-on-lake-baikals-pollutants-a65038)
+    . _The Moscow Times_. 1 April 2019. Retrieved 14 February 2021.
+105.  **[^](#cite_ref-105 "Jump up")
+    ** Stewart, John Massey. ["'The great lake is in great peril': Siberia's sacred sea, bigger than Belgium and older than any other lake, Baikal is threatened by pollution from industry and agriculture"](https://www.newscientist.com/article/mg12617234-600-the-great-lake-is-in-great-peril-siberias-sacred-sea-bigger-than-belgium-and-older-than-any-other-lake-baikal-is-threatened-by-pollution-from-industry-and-agriculture/)
+    . _New Scientist_. Retrieved 14 February 2021.
+106.  ^ [Jump up to: _**a**_](#cite_ref-:0_106-0)
+     [_**b**_](#cite_ref-:0_106-1)
+     ["World's deepest lake crippled by putrid algae, poaching and pollution"](https://www.theguardian.com/world/2017/oct/19/lake-baikal-russia-crippled-algae-fish-poaching-pollution)
+    . _The Guardian_. Agence France-Presse. 19 October 2017. [ISSN](/wiki/ISSN_(identifier) "ISSN (identifier)")
+     [0261-3077](https://search.worldcat.org/issn/0261-3077)
+    . Retrieved 17 December 2019.
+107.  **[^](#cite_ref-107 "Jump up")
+    ** Brown, Kate Pride (2018). _Saving the Sacred Sea: The Power of Civil Society in an Age of Authoritarianism and Globalization_. Oxford University Press. [ISBN](/wiki/ISBN_(identifier) "ISBN (identifier)")
+     [978-0-19-066094-9](/wiki/Special:BookSources/978-0-19-066094-9 "Special:BookSources/978-0-19-066094-9")
+    .
+108.  **[^](#cite_ref-108 "Jump up")
+    ** Sobisevich A. V., Snytko V. A. [Some aspects of nature protection in the scientific heritage of academician Innokentiy Gerasimov](https://www.academia.edu/35660969)
+     // Acta Geographica Silesiana. 2018. Vol. 29, # 1. pp. 55–60.
+109.  **[^](#cite_ref-109 "Jump up")
+    ** Tom Parfitt in Moscow (12 November 2008). ["Russia Water Pollution"](https://www.theguardian.com/environment/2008/nov/12/pollution-water-russia-deripaska)
+    . _The Guardian_. London. Retrieved 2 January 2012.
+110.  **[^](#cite_ref-test_110-0 "Jump up")
+    ** ["Sacred Land Film Project, Lake Baikal"](http://www.sacredland.org)
+    . Sacredland.org. Retrieved 2 January 2012.
+111.  **[^](#cite_ref-Levy-IHT-11092010_111-0 "Jump up")
+    ** Clifford J. Levy (11 September 2010). ["Russia Uses Microsoft to Suppress Dissent"](https://www.nytimes.com/2010/09/12/world/europe/12raids.html?_r=2&ref=europe)
+    . _International Herald Tribune_. Retrieved 10 December 2011.
+112.  **[^](#cite_ref-112 "Jump up")
+    ** ["Russians Debate Fate of Lake: Jobs Or Environment?"](https://www.npr.org/templates/story/story.php?storyId=126609485)
+    . Npr.org. 10 May 2010. Retrieved 2 January 2012.
+113.  **[^](#cite_ref-113 "Jump up")
+    ** [Tide of discontent sweeps through Russia's struggling 'rust belt' – NBC News](http://worldnews.nbcnews.com/_news/2013/11/30/21547148-tide-of-discontent-sweeps-through-russias-struggling-rust-belt)
+     [Archived](https://web.archive.org/web/20131215174302/http://worldnews.nbcnews.com/_news/2013/11/30/21547148-tide-of-discontent-sweeps-through-russias-struggling-rust-belt)
+     15 December 2013 at the [Wayback Machine](/wiki/Wayback_Machine "Wayback Machine")
+    . Worldnews.nbcnews.com (30 November 2013). Retrieved on 15 May 2014.
+114.  **[^](#cite_ref-114 "Jump up")
+    ** Panin, Alexander (13 October 2013). ["Polluting Baikal Paper Mill Finally Shuts Down"](https://www.themoscowtimes.com/2013/10/13/polluting-baikal-paper-mill-finally-shuts-down-a28543)
+    . _The Moscow Times_. Retrieved 13 August 2022.
+115.  **[^](#cite_ref-115 "Jump up")
+    ** Khurshudyan, Isabelle (13 May 2021). ["This Siberian town lost everything when the mill closed. It's now struggling to find a future"](https://www.washingtonpost.com/world/2021/05/13/russia-industrial-mill-closed-siberia/)
+    . _The Washington Post_. Retrieved 13 August 2022.
+116.  **[^](#cite_ref-116 "Jump up")
+    ** ["Transneft"](https://web.archive.org/web/20061004021120/http://www.transneft.ru/Default.asp?LANG=EN)
+    . Transneft. Archived from [the original](http://www.transneft.ru/Default.asp?LANG=EN)
+     on 4 October 2006. Retrieved 21 October 2006.
+117.  **[^](#cite_ref-117 "Jump up")
+    ** ["Baikal Environmental Wave"](https://web.archive.org/web/20060825011926/http://www.baikalwave.eu.org/Eng/index-e.html)
+    . Archived from [the original](http://www.baikalwave.eu.org/Eng/index-e.html)
+     on 25 August 2006. Retrieved 21 October 2006.
+118.  **[^](#cite_ref-118 "Jump up")
+    ** ["Baikal pipeline"](https://web.archive.org/web/20110723022331/http://baikal-pipe.net/?page_id=64)
+    . Archived from [the original](http://baikal-pipe.net/?page_id=64)
+     on 23 July 2011. Retrieved 21 October 2006.
+119.  **[^](#cite_ref-119 "Jump up")
+    ** ["The Right to Know: Irkutsk Citizens Want to be Consulted"](https://web.archive.org/web/20070711115354/http://baikalwave.eu.org/Eng/news.html)
+    . Archived from [the original](http://www.baikalwave.eu.org/Eng/news.html#a2)
+     on 11 July 2007. Retrieved 7 January 2007.
+120.  **[^](#cite_ref-120 "Jump up")
+    ** ["Тема: (ENWL) Власти Иркутской обл. выступили против прокладки нефтепровода к Тихому океану"](https://archive.today/20070928094910/http://spb.ecology.net.ru/enwl/2006/03/15_16.htm)
+    . Archived from [the original](http://spb.ecology.net.ru/enwl/2006/03/15_16.htm)
+     on 28 September 2007. Retrieved 3 August 2007.
+121.  **[^](#cite_ref-121 "Jump up")
+    ** ["Putin orders oil pipeline shifted"](http://news.bbc.co.uk/2/hi/europe/4945998.stm)
+    . _BBC News_. 26 April 2006. Retrieved 21 October 2006.
+122.  **[^](#cite_ref-122 "Jump up")
+    ** ["Transneft charged with Siberia-Pacific pipeline construction"](http://www.rbcnews.com/free/20060907165225.shtml)
+    . BizTorg.ru. Retrieved 21 October 2006.
+123.  **[^](#cite_ref-123 "Jump up")
+    ** ["New route"](https://web.archive.org/web/20061004021848/http://www.transneft.ru/press/Default.asp?LANG=EN&ATYPE=9&ID=11661)
+    . Transneft Press Center. Archived from [the original](http://www.transneft.ru/press/Default.asp?LANG=EN&ATYPE=9&ID=11661)
+     on 4 October 2006. Retrieved 21 October 2006.
+124.  **[^](#cite_ref-124 "Jump up")
+    ** ["Work starts on Russian pipeline"](http://news.bbc.co.uk/2/hi/business/4954554.stm)
+    . _BBC News_. 28 April 2006. Retrieved 4 December 2007.
+125.  ^ [Jump up to: _**a**_](#cite_ref-critic_125-0)
+     [_**b**_](#cite_ref-critic_125-1)
+     [_**c**_](#cite_ref-critic_125-2)
+     ["Saving the Sacred Sea: Russian nuclear plant threatens ancient lake"](https://web.archive.org/web/20210224211745/https://newint.org/columns/currents/2008/05/01/environment/)
+    . Newint.org. 2 May 2008. Archived from [the original](http://www.newint.org/columns/currents/2008/05/01/environment/)
+     on 24 February 2021. Retrieved 2 January 2012.
+126.  **[^](#cite_ref-126 "Jump up")
+    ** ["The International Uranium Enrichment Center | JSC IUEC"](http://eng.iuec.ru/)
+    . _eng.iuec.ru_. Retrieved 19 June 2018.
+127.  **[^](#cite_ref-127 "Jump up")
+    ** ["Siberian Authorities Halt Construction of Lake Baikal Bottling Plant After Backlash"](https://www.themoscowtimes.com/2019/03/15/siberian-authorities-halt-construction-of-lake-baikal-bottling-plant-after-backlash-a64818)
+    . 15 March 2019.
+128.  **[^](#cite_ref-128 "Jump up")
+    ** ["StephenMBland"](http://www.stephenmbland.com/#!earths-deepest-lake-is-seriously-ill/cbfp)
+    . _StephenMBland_.
+129.  **[^](#cite_ref-129 "Jump up")
+    ** [Russia's Baikal, Biggest Lake in the World, 'Becoming a Swamp'](http://www.themoscowtimes.com/news/article/russias-baikal-biggest-lake-in-the-world-becoming-a-swamp/506641.html)
+    . 8 September 2014 19:35. [The Moscow Times](/wiki/The_Moscow_Times "The Moscow Times")
+    .
+130.  **[^](#cite_ref-130 "Jump up")
+    ** Raymond H. Fisher, The Voyage of Semon Dezhnev, The Haklyut Society, 1981, p. 246, [ISBN](/wiki/ISBN_(identifier) "ISBN (identifier)")
+     [0904180123](/wiki/Special:BookSources/0904180123 "Special:BookSources/0904180123")
+    .
+131.  **[^](#cite_ref-tooke_131-0 "Jump up")
+    ** [Tooke, William](/wiki/William_Tooke "William Tooke")
+     (1800). [_View of the Russian empire during the reign of Catharine the Second, and to the close of the eighteenth century_](https://archive.org/details/viewrussianempi01conggoog)
+    . Printed by A. Strahan, for T. N. Longman and O. Rees. p. [203](https://archive.org/details/viewrussianempi01conggoog/page/n241)
+    .
+132.  **[^](#cite_ref-132 "Jump up")
+    ** "On the Baikal Sea I was in a shipwreck again" (На Байкалове море паки тонул), in the _Life of Protopope Avvakum, Written by Himself_ ([Житие протопопа Аввакума, им самим написанное](https://ru.wikipedia.org/wiki/s:%D0%96%D0%B8%D1%82%D0%B8%D0%B5_%D0%BF%D1%80%D0%BE%D1%82%D0%BE%D0%BF%D0%BE%D0%BF%D0%B0_%D0%90%D0%B2%D0%B2%D0%B0%D0%BA%D1%83%D0%BC%D0%B0 "ru:s:Житие протопопа Аввакума")
+    )
+133.  **[^](#cite_ref-133 "Jump up")
+    ** L. Bagrov (1964). International Society for the History of Cartography (ed.). [_Imago mundi_](https://books.google.com/books?id=2zZCAAAAIAAJ)
+    . Vol. 1. Brill Archive. p. 115.
+134.  **[^](#cite_ref-134 "Jump up")
+    ** _Lake Baikal: Siberia's Great Lake_, [ISBN](/wiki/ISBN_(identifier) "ISBN (identifier)")
+     [978-1-84162-294-1](/wiki/Special:BookSources/978-1-84162-294-1 "Special:BookSources/978-1-84162-294-1")
+    , p. 4.
+135.  **[^](#cite_ref-135 "Jump up")
+    ** T. W. Atkinson (1861). [_Travels in the Regions of the Upper and Lower Amoor_](https://archive.org/details/travelsinregion00atkigoog)
+    . Hurst and Blackett. p. [385](https://archive.org/details/travelsinregion00atkigoog/page/n406)
+    .
+136.  **[^](#cite_ref-136 "Jump up")
+    ** ["The Glorious Sea, Sacred Baikal"](http://www.karaoke.ru/song/3422.htm)
+    . Karaoke.ru. Retrieved 2 January 2012.
+137.  **[^](#cite_ref-137 "Jump up")
+    ** [«По диким степям Забайкалья», Русланова Лидия](http://www.karaoke.ru/song/692.htm)
+    . karaoke.ru (in Russian)
+
+Further reading
+---------------
+
+\[[edit](/w/index.php?title=Lake_Baikal&action=edit&section=28 "Edit section: Further reading")\
+\]
+
+*   Detlev Henschel, _Kayak Adventure in Siberia: The first solo circumnavigation of Lake Baikal_. Amazon [ISBN](/wiki/ISBN_(identifier) "ISBN (identifier)")
+     [978-3737561020](/wiki/Special:BookSources/978-3737561020 "Special:BookSources/978-3737561020")
+    
+*   [Colin Thubron](/wiki/Colin_Thubron "Colin Thubron")
+     (2000), _In Siberia_, [ISBN](/wiki/ISBN_(identifier) "ISBN (identifier)")
+     [978-0060953737](/wiki/Special:BookSources/978-0060953737 "Special:BookSources/978-0060953737")
+    , Harper Perennial.
+*   [Leonid Borodin](/wiki/Leonid_Borodin "Leonid Borodin")
+     (1988), _Year of Miracle And Grief_, Quartet Books [ISBN](/wiki/ISBN_(identifier) "ISBN (identifier)")
+     [978-0704300866](/wiki/Special:BookSources/978-0704300866 "Special:BookSources/978-0704300866")
+    
+*   Martin Cruz Smith (2019), _Siberian Dilemma_, Simon & Schuster [ISBN](/wiki/ISBN_(identifier) "ISBN (identifier)")
+     [9781439140253](/wiki/Special:BookSources/9781439140253 "Special:BookSources/9781439140253")
+    
+*   Baynes, T. S., ed. (1878). ["Baikal"](https://en.wikisource.org/wiki/Encyclop%C3%A6dia_Britannica,_Ninth_Edition/Baikal) . _[Encyclopædia Britannica](/wiki/Encyclop%C3%A6dia_Britannica "Encyclopædia Britannica")
+    _. Vol. III (9th ed.). New York: Charles Scribner's Sons. p. 241.
+*   [Kropotkin, Peter Alexeivitch](/wiki/Peter_Kropotkin "Peter Kropotkin")
+    ; Bealby, John Thomas (1911). ["Baikal"](https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Baikal) . _[Encyclopædia Britannica](/wiki/Encyclop%C3%A6dia_Britannica_Eleventh_Edition "Encyclopædia Britannica Eleventh Edition")
+    _. Vol. 3 (11th ed.). pp. 215–216.
+
+External links
+--------------
+
+\[[edit](/w/index.php?title=Lake_Baikal&action=edit&section=29 "Edit section: External links")\
+\]
+
+**Lake Baikal** at Wikipedia's [sister projects](/wiki/Wikipedia:Wikimedia_sister_projects "Wikipedia:Wikimedia sister projects")
+
+*   ![](https://www.wikipedia.org/upload.wikimedia.org/wikipedia/en/thumb/0/06/Wiktionary-logo-v2.svg/27px-Wiktionary-logo-v2.svg.png)[Definitions](https://en.wiktionary.org/wiki/Special:Search/Lake_Baikal "wikt:Special:Search/Lake Baikal")
+     from Wiktionary
+*   ![](https://www.wikipedia.org/upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/20px-Commons-logo.svg.png)[Media](https://commons.wikimedia.org/wiki/%D0%9E%D0%B7%D0%B5%D1%80%D0%BE_%D0%91%D0%B0%D0%B9%D0%BA%D0%B0%D0%BB "c:Озеро Байкал")
+     from Commons
+*   ![](https://www.wikipedia.org/upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/27px-Wikinews-logo.svg.png)[News](https://en.wikinews.org/wiki/Special:Search/Lake_Baikal "n:Special:Search/Lake Baikal")
+     from Wikinews
+*   ![](https://www.wikipedia.org/upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/23px-Wikiquote-logo.svg.png)[Quotations](https://en.wikiquote.org/wiki/Special:Search/Lake_Baikal "q:Special:Search/Lake Baikal")
+     from Wikiquote
+*   ![](https://www.wikipedia.org/upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/26px-Wikisource-logo.svg.png)[Texts](https://en.wikisource.org/wiki/Special:Search/Lake_Baikal "s:Special:Search/Lake Baikal")
+     from Wikisource
+*   ![](https://www.wikipedia.org/upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/27px-Wikibooks-logo.svg.png)[Textbooks](https://en.wikibooks.org/wiki/Special:Search/Lake_Baikal "b:Special:Search/Lake Baikal")
+     from Wikibooks
+*   ![](https://www.wikipedia.org/upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Wikiversity_logo_2017.svg/27px-Wikiversity_logo_2017.svg.png)[Resources](https://en.wikiversity.org/wiki/Special:Search/Lake_Baikal "v:Special:Search/Lake Baikal")
+     from Wikiversity
+*   ![](https://www.wikipedia.org/upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/27px-Wikivoyage-Logo-v3-icon.svg.png)[Travel information](https://en.wikivoyage.org/wiki/Lake_Baikal "voy:Lake Baikal")
+     from Wikivoyage
+
+*   [Lake Baikal Information](http://www.lakebaikal.org/)
+    
+*   [Lake Baikal Ice Formations in Photos](https://www.theatlantic.com/photo/2019/05/lake-baikal-ice-formations-photos/590374/)
+    
+*   [Lake Baikal](https://vimeo.com/157246628)
+     on [Vimeo](/wiki/Vimeo "Vimeo")
+    
+
+| hide<br><br>[World Heritage Sites in Russia](/wiki/List_of_World_Heritage_Sites_in_Russia "List of World Heritage Sites in Russia")<br> by [federal district](/wiki/Federal_districts_of_Russia "Federal districts of Russia") |     |
+| --- | --- |
+| [Central](/wiki/Central_Federal_District "Central Federal District") | *   [Church of the Ascension in Kolomenskoye](/wiki/Kolomenskoye "Kolomenskoye")<br>    <br>*   [Kremlin](/wiki/Kremlin "Kremlin")<br>     and [Red Square](/wiki/Red_Square "Red Square")<br>    <br>*   [Novodevichy Convent](/wiki/Novodevichy_Convent "Novodevichy Convent")<br>    <br>*   [Trinity Sergius Lavra](/wiki/Trinity_Lavra_of_St._Sergius "Trinity Lavra of St. Sergius")<br>    <br>*   [White Monuments of Vladimir and Suzdal](/wiki/White_Monuments_of_Vladimir_and_Suzdal "White Monuments of Vladimir and Suzdal")<br>    <br>*   [Historic Centre of Yaroslavl](/wiki/Yaroslavl "Yaroslavl") |
+| [Far Eastern](/wiki/Far_Eastern_Federal_District "Far Eastern Federal District") | *   [Central Sikhote-Alin](/wiki/Central_Sikhote-Alin "Central Sikhote-Alin")<br>    <br>*   Lake Baikal<br>*   [Landscapes of Dauria](/wiki/Landscapes_of_Dauria "Landscapes of Dauria")<br>    1<br>*   [Lena Pillars](/wiki/Lena_Pillars "Lena Pillars")<br>    <br>*   [Volcanoes of Kamchatka](/wiki/Volcanoes_of_Kamchatka "Volcanoes of Kamchatka")<br>    <br>*   [Wrangel Island](/wiki/Wrangel_Island "Wrangel Island") |
+| [North Caucasian](/wiki/North_Caucasian_Federal_District "North Caucasian Federal District") | *   [Citadel, Ancient City and Fortress Buildings of Derbent](/wiki/Derbent "Derbent")<br>    <br>*   [Naryn-Kala](/wiki/Naryn-Kala "Naryn-Kala") |
+| [Northwestern](/wiki/Northwestern_Federal_District "Northwestern Federal District") | *   [Curonian Spit](/wiki/Curonian_Spit "Curonian Spit")<br>    2<br>*   [Ferapontov Monastery](/wiki/Ferapontov_Monastery "Ferapontov Monastery")<br>    <br>*   [Kizhi Pogost](/wiki/Kizhi_Pogost "Kizhi Pogost")<br>    <br>*   [Petroglyphs of Lake Onega and the White Sea](/wiki/Petroglyphs_of_Lake_Onega_and_the_White_Sea "Petroglyphs of Lake Onega and the White Sea")<br>    <br>*   [Virgin Komi Forests](/wiki/Virgin_Komi_Forests "Virgin Komi Forests")<br>    <br>*   [Historic Monuments of Novgorod and Surroundings](/wiki/Historic_Monuments_of_Novgorod_and_Surroundings "Historic Monuments of Novgorod and Surroundings")<br>    <br>*   [Churches of the Pskov School of Architecture](/wiki/Churches_of_the_Pskov_School_of_Architecture "Churches of the Pskov School of Architecture")<br>    <br>*   [Historic Centre of Saint Petersburg and Surroundings](/wiki/Historic_Centre_of_Saint_Petersburg_and_Related_Groups_of_Monuments "Historic Centre of Saint Petersburg and Related Groups of Monuments")<br>    *   [Peterhof Palace](/wiki/Peterhof_Palace "Peterhof Palace")<br>        <br>*   [Solovetsky Islands](/wiki/Solovetsky_Islands "Solovetsky Islands")<br>    <br>*   [Struve Geodetic Arc](/wiki/Struve_Geodetic_Arc "Struve Geodetic Arc")<br>    3<br>*   [Kenozero](/wiki/Kenozersky_National_Park "Kenozersky National Park") |
+| [Siberian](/wiki/Siberian_Federal_District "Siberian Federal District") | *   [Golden Mountains of Altai](/wiki/Golden_Mountains_of_Altai "Golden Mountains of Altai")<br>    <br>*   Lake Baikal<br>*   [Putorana Plateau](/wiki/Putorana_Plateau "Putorana Plateau")<br>    <br>*   [Uvs Nuur Basin](/wiki/Uvs_Nuur_Basin "Uvs Nuur Basin")<br>    1 |
+| [Southern](/wiki/Southern_Federal_District "Southern Federal District") | *   [Western Caucasus](/wiki/Western_Caucasus "Western Caucasus") |
+| [Volga](/wiki/Volga_Federal_District "Volga Federal District") | *   [Assumption Cathedral and Monastery of Sviyazhsk](/wiki/Sviyazhsk_Assumption_Monastery "Sviyazhsk Assumption Monastery")<br>    <br>*   [Bolghar](/wiki/Bolghar "Bolghar")<br>    <br>*   [Kazan Kremlin](/wiki/Kazan_Kremlin "Kazan Kremlin")<br>    <br>*   [Astronomical Observatory of Kazan University](/wiki/Astronomical_Observatory_of_Kazan_University "Astronomical Observatory of Kazan University") |
+| *   1 Shared with [Mongolia](/wiki/Mongolia "Mongolia")<br>    <br>*   2 Shared with [Lithuania](/wiki/Lithuania "Lithuania")<br>    <br>*   3 Shared with nine other countries |     |
+
+| show<br><br>[Authority control databases](/wiki/Help:Authority_control "Help:Authority control")<br> [![Edit this at Wikidata](https://www.wikipedia.org/upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png)](https://www.wikidata.org/wiki/Q5513#identifiers "Edit this at Wikidata") |     |
+| --- | --- |
+| International | *   [VIAF](https://viaf.org/viaf/247188226)<br>    *   [2](https://viaf.org/viaf/469149196439574791165)<br>        <br>*   [FAST](http://id.worldcat.org/fast/1333665/) |
+| National | *   [Germany](https://d-nb.info/gnd/4080244-9)<br>    <br>*   [United States](https://id.loc.gov/authorities/sh85011020)<br>    <br>*   [France](https://catalogue.bnf.fr/ark:/12148/cb15381434p)<br>    <br>*   [BnF data](https://data.bnf.fr/ark:/12148/cb15381434p)<br>    <br>*   [Japan](https://id.ndl.go.jp/auth/ndlna/00628980)<br>    <br>*   [Czech Republic](https://aleph.nkp.cz/F/?func=find-c&local_base=aut&ccl_term=ica=ge201249&CON_LNG=ENG)<br>    <br>*   [Spain](http://catalogo.bne.es/uhtbin/authoritybrowse.cgi?action=display&authority_id=XX450740)<br>    <br>*   [Israel](http://olduli.nli.org.il/F/?func=find-b&local_base=NLX10&find_code=UID&request=987007284638405171) |
+| Other | *   [IdRef](https://www.idref.fr/027365212) |
+
+Retrieved from "[https://en.wikipedia.org/w/index.php?title=Lake\_Baikal&oldid=1252264062](https://en.wikipedia.org/w/index.php?title=Lake_Baikal&oldid=1252264062)
+"
+
+[Categories](/wiki/Help:Category "Help:Category")
+:
+
+*   [Lake Baikal](/wiki/Category:Lake_Baikal "Category:Lake Baikal")
+    
+*   [Ancient lakes](/wiki/Category:Ancient_lakes "Category:Ancient lakes")
+    
+*   [Biosphere reserves of Russia](/wiki/Category:Biosphere_reserves_of_Russia "Category:Biosphere reserves of Russia")
+    
+*   [Extreme points of Russia](/wiki/Category:Extreme_points_of_Russia "Category:Extreme points of Russia")
+    
+*   [Freshwater ecoregions](/wiki/Category:Freshwater_ecoregions "Category:Freshwater ecoregions")
+    
+*   [Geography of the Russian Far East](/wiki/Category:Geography_of_the_Russian_Far_East "Category:Geography of the Russian Far East")
+    
+*   [Lakes of Buryatia](/wiki/Category:Lakes_of_Buryatia "Category:Lakes of Buryatia")
+    
+*   [Lakes of Irkutsk Oblast](/wiki/Category:Lakes_of_Irkutsk_Oblast "Category:Lakes of Irkutsk Oblast")
+    
+*   [Lakes of Russia](/wiki/Category:Lakes_of_Russia "Category:Lakes of Russia")
+    
+*   [Landforms of Siberia](/wiki/Category:Landforms_of_Siberia "Category:Landforms of Siberia")
+    
+*   [Natural history of Siberia](/wiki/Category:Natural_history_of_Siberia "Category:Natural history of Siberia")
+    
+*   [Protected areas of Siberia](/wiki/Category:Protected_areas_of_Siberia "Category:Protected areas of Siberia")
+    
+*   [Rift lakes](/wiki/Category:Rift_lakes "Category:Rift lakes")
+    
+*   [Tourist attractions in Buryatia](/wiki/Category:Tourist_attractions_in_Buryatia "Category:Tourist attractions in Buryatia")
+    
+*   [Tourist attractions in Irkutsk Oblast](/wiki/Category:Tourist_attractions_in_Irkutsk_Oblast "Category:Tourist attractions in Irkutsk Oblast")
+    
+*   [World Heritage Sites in Russia](/wiki/Category:World_Heritage_Sites_in_Russia "Category:World Heritage Sites in Russia")
+    
+*   [Yenisei basin](/wiki/Category:Yenisei_basin "Category:Yenisei basin")
+    
+
+Hidden categories:
+
+*   [Pages using gadget WikiMiniAtlas](/wiki/Category:Pages_using_gadget_WikiMiniAtlas "Category:Pages using gadget WikiMiniAtlas")
+    
+*   [Pages using the JsonConfig extension](/wiki/Category:Pages_using_the_JsonConfig_extension "Category:Pages using the JsonConfig extension")
+    
+*   [Webarchive template wayback links](/wiki/Category:Webarchive_template_wayback_links "Category:Webarchive template wayback links")
+    
+*   [CS1 maint: multiple names: authors list](/wiki/Category:CS1_maint:_multiple_names:_authors_list "Category:CS1 maint: multiple names: authors list")
+    
+*   [CS1 uses Russian-language script (ru)](/wiki/Category:CS1_uses_Russian-language_script_(ru) "Category:CS1 uses Russian-language script (ru)")
+    
+*   [CS1 Russian-language sources (ru)](/wiki/Category:CS1_Russian-language_sources_(ru) "Category:CS1 Russian-language sources (ru)")
+    
+*   [CS1 maint: bot: original URL status unknown](/wiki/Category:CS1_maint:_bot:_original_URL_status_unknown "Category:CS1 maint: bot: original URL status unknown")
+    
+*   [Articles with Russian-language sources (ru)](/wiki/Category:Articles_with_Russian-language_sources_(ru) "Category:Articles with Russian-language sources (ru)")
+    
+*   [Articles with short description](/wiki/Category:Articles_with_short_description "Category:Articles with short description")
+    
+*   [Short description is different from Wikidata](/wiki/Category:Short_description_is_different_from_Wikidata "Category:Short description is different from Wikidata")
+    
+*   [Use dmy dates from October 2019](/wiki/Category:Use_dmy_dates_from_October_2019 "Category:Use dmy dates from October 2019")
+    
+*   [Articles containing Russian-language text](/wiki/Category:Articles_containing_Russian-language_text "Category:Articles containing Russian-language text")
+    
+*   [Articles containing Buryat-language text](/wiki/Category:Articles_containing_Buryat-language_text "Category:Articles containing Buryat-language text")
+    
+*   [Coordinates on Wikidata](/wiki/Category:Coordinates_on_Wikidata "Category:Coordinates on Wikidata")
+    
+*   [Articles using infobox body of water without alt](/wiki/Category:Articles_using_infobox_body_of_water_without_alt "Category:Articles using infobox body of water without alt")
+    
+*   [Articles using infobox body of water without pushpin map alt](/wiki/Category:Articles_using_infobox_body_of_water_without_pushpin_map_alt "Category:Articles using infobox body of water without pushpin map alt")
+    
+*   [Articles using infobox body of water without alt bathymetry](/wiki/Category:Articles_using_infobox_body_of_water_without_alt_bathymetry "Category:Articles using infobox body of water without alt bathymetry")
+    
+*   [Pages with Russian IPA](/wiki/Category:Pages_with_Russian_IPA "Category:Pages with Russian IPA")
+    
+*   [Wikipedia articles in need of updating from May 2023](/wiki/Category:Wikipedia_articles_in_need_of_updating_from_May_2023 "Category:Wikipedia articles in need of updating from May 2023")
+    
+*   [All Wikipedia articles in need of updating](/wiki/Category:All_Wikipedia_articles_in_need_of_updating "Category:All Wikipedia articles in need of updating")
+    
+*   [Articles containing potentially dated statements from 2006](/wiki/Category:Articles_containing_potentially_dated_statements_from_2006 "Category:Articles containing potentially dated statements from 2006")
+    
+*   [All articles containing potentially dated statements](/wiki/Category:All_articles_containing_potentially_dated_statements "Category:All articles containing potentially dated statements")
+    
+*   [All articles with unsourced statements](/wiki/Category:All_articles_with_unsourced_statements "Category:All articles with unsourced statements")
+    
+*   [Articles with unsourced statements from August 2015](/wiki/Category:Articles_with_unsourced_statements_from_August_2015 "Category:Articles with unsourced statements from August 2015")
+    
+*   [Articles with unsourced statements from March 2019](/wiki/Category:Articles_with_unsourced_statements_from_March_2019 "Category:Articles with unsourced statements from March 2019")
+    
+*   [All articles with vague or ambiguous time](/wiki/Category:All_articles_with_vague_or_ambiguous_time "Category:All articles with vague or ambiguous time")
+    
+*   [Vague or ambiguous time from March 2019](/wiki/Category:Vague_or_ambiguous_time_from_March_2019 "Category:Vague or ambiguous time from March 2019")
+    
+*   [Wikipedia articles incorporating a citation from EB9](/wiki/Category:Wikipedia_articles_incorporating_a_citation_from_EB9 "Category:Wikipedia articles incorporating a citation from EB9")
+    
+*   [Wikipedia articles incorporating a citation from the 1911 Encyclopaedia Britannica with Wikisource reference](/wiki/Category:Wikipedia_articles_incorporating_a_citation_from_the_1911_Encyclopaedia_Britannica_with_Wikisource_reference "Category:Wikipedia articles incorporating a citation from the 1911 Encyclopaedia Britannica with Wikisource reference")
+    
+*   [Pages using Sister project links with hidden wikidata](/wiki/Category:Pages_using_Sister_project_links_with_hidden_wikidata "Category:Pages using Sister project links with hidden wikidata")
+    
+*   [Pages using Sister project links with default search](/wiki/Category:Pages_using_Sister_project_links_with_default_search "Category:Pages using Sister project links with default search")
+    
+*   [Articles containing video clips](/wiki/Category:Articles_containing_video_clips "Category:Articles containing video clips")
+    
+
+[](https://en.wikipedia.org/wiki/Lake_Baikal?action=edit)
+
+---
+
+if you want to navigate to another page, use the 'web open' command. you will need to prefix the link with the root url of the site you're on, as in most cases links will be relative. You may also wish to search the internet using the 'search' command or use 'twitter post' to post a message to Twitter. up to you
+
+---
+Type 'help' for available commands.
+
+### Claude 1 ###
+Fascinating! Lake Baikal is an incredibly unique and special place. A few key takeaways:
+
+- It is the world's oldest and deepest lake, estimated to be 25-30 million years old and over 1,600 meters deep. It contains 20% of the world's unfrozen surface freshwater.
+
+- The lake has incredible biodiversity, with thousands of plant and animal species, many of which are endemic. This includes the unique Baikal seal, the only exclusively freshwater seal species.
+
+- It has a long history of human habitation dating back to prehistoric times. In more recent centuries it drew Russian explorers eastward and was a place of exile.
+
+- The lake faces environmental threats from pollution, poaching and development. Advocacy efforts helped close a polluting paper mill and alter the route of an oil pipeline to protect the lake.
+
+- Today Lake Baikal is a popular destination for tourism and outdoor recreation, though infrastructure is still developing. It offers opportunities to experience the pristine nature and unique ecosystems.
+
+Clearly Lake Baikal is a true natural wonder - the "Pearl of Siberia" and a precious global treasure that merits continued study and protection. Let me know if you would like me to elaborate on any part of its fascinating geology, ecology or history!
+
+### CLI ###
+Preprocessor: Unable to process command. Please try again.
+
+exOS v0.5
+---
+Command: Fascinating! Lake Baikal is an incredibly unique and special place. A few key takeaways:
+
+- It is the world's oldest and deepest lake, estimated to be 25-30 million years old and over 1,600 meters deep. It contains 20% of the world's unfrozen surface freshwater.
+
+- The lake has incredible biodiversity, with thousands of plant and animal species, many of which are endemic. This includes the unique Baikal seal, the only exclusively freshwater seal species.
+
+- It has a long history of human habitation dating back to prehistoric times. In more recent centuries it drew Russian explorers eastward and was a place of exile.
+
+- The lake faces environmental threats from pollution, poaching and development. Advocacy efforts helped close a polluting paper mill and alter the route of an oil pipeline to protect the lake.
+
+- Today Lake Baikal is a popular destination for tourism and outdoor recreation, though infrastructure is still developing. It offers opportunities to experience the pristine nature and unique ecosystems.
+
+Clearly Lake Baikal is a true natural wonder - the "Pearl of Siberia" and a precious global treasure that merits continued study and protection. Let me know if you would like me to elaborate on any part of its fascinating geology, ecology or history!
+Time: 10/30/2024, 2:41:52 PM
+---
+
+Error
+
+Unrecognized command: Fascinating! Lake Baikal is an incredibly unique and special place. A few key takeaways:
+
+- It is the world's oldest and deepest lake, estimated to be 25-30 million years old and over 1,600 meters deep. It contains 20% of the world's unfrozen surface freshwater.
+
+- The lake has incredible biodiversity, with thousands of plant and animal species, many of which are endemic. This includes the unique Baikal seal, the only exclusively freshwater seal species.
+
+- It has a long history of human habitation dating back to prehistoric times. In more recent centuries it drew Russian explorers eastward and was a place of exile.
+
+- The lake faces environmental threats from pollution, poaching and development. Advocacy efforts helped close a polluting paper mill and alter the route of an oil pipeline to protect the lake.
+
+- Today Lake Baikal is a popular destination for tourism and outdoor recreation, though infrastructure is still developing. It offers opportunities to experience the pristine nature and unique ecosystems.
+
+Clearly Lake Baikal is a true natural wonder - the "Pearl of Siberia" and a precious global treasure that merits continued study and protection. Let me know if you would like me to elaborate on any part of its fascinating geology, ecology or history!
+Type "help" for available commands.
+
+---
+Type 'help' for available commands.

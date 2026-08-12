@@ -1,0 +1,946 @@
+
+### GPT4o 1 ###
+exo help
+
+### CLI ###
+exOS v0.5
+---
+Command: exo help
+Time: 11/4/2024, 3:30:23 PM
+---
+
+Exo Help
+
+Available commands:
+query <query_string> - Perform a query using Claude
+notes - View your recent notes
+create_note <note_string> - Create a new note
+update_note <note_id> <note_string> - Update an existing note
+delete_note <note_id> - Delete a note
+
+---
+Type 'help' for available commands.
+
+### GPT4o 1 ###
+exo notes
+
+### CLI ###
+exOS v0.5
+---
+Command: exo notes
+Time: 11/4/2024, 3:30:24 PM
+---
+
+Your personal notes. Use 'exo create_note <note_string>' to create a new one. Alternatively use 'exo update_note <note_id> <note_string>' to update a note, or 'exo delete_note <note_id>' to delete a note
+
+2 (11/4/2024 11:28:35 PM): "Meeting with the design team on Thursday at 3 PM."
+
+---
+Type 'help' for available commands.
+
+### GPT4o 1 ###
+exo create_note "Pick up groceries after work tomorrow."
+
+### CLI ###
+exOS v0.5
+---
+Command: exo create_note "Pick up groceries after work tomorrow."
+Time: 11/4/2024, 3:30:25 PM
+---
+
+Note created. Use 'exo notes' to see all your personal notes
+
+Your note has been created with ID: 3
+
+---
+Type 'help' for available commands.
+
+### GPT4o 1 ###
+exo notes
+
+### CLI ###
+exOS v0.5
+---
+Command: exo notes
+Time: 11/4/2024, 3:30:26 PM
+---
+
+Your personal notes. Use 'exo create_note <note_string>' to create a new one. Alternatively use 'exo update_note <note_id> <note_string>' to update a note, or 'exo delete_note <note_id>' to delete a note
+
+3 (11/4/2024 11:30:25 PM): "Pick up groceries after work tomorrow."
+
+2 (11/4/2024 11:28:35 PM): "Meeting with the design team on Thursday at 3 PM."
+
+---
+Type 'help' for available commands.
+
+### GPT4o 1 ###
+exo update_note 3 "Pick up groceries after work tomorrow and call mom."
+
+### CLI ###
+exOS v0.5
+---
+Command: exo update_note 3 "Pick up groceries after work tomorrow and call mom."
+Time: 11/4/2024, 3:30:27 PM
+---
+
+Note updated. Use 'exo notes' to see all your personal notes
+
+Updated note ID: 3
+
+---
+Type 'help' for available commands.
+
+### GPT4o 1 ###
+exo notes
+
+### CLI ###
+exOS v0.5
+---
+Command: exo notes
+Time: 11/4/2024, 3:30:27 PM
+---
+
+Your personal notes. Use 'exo create_note <note_string>' to create a new one. Alternatively use 'exo update_note <note_id> <note_string>' to update a note, or 'exo delete_note <note_id>' to delete a note
+
+3 (11/4/2024 11:30:25 PM): "Pick up groceries after work tomorrow and call mom."
+
+2 (11/4/2024 11:28:35 PM): "Meeting with the design team on Thursday at 3 PM."
+
+---
+Type 'help' for available commands.
+
+### GPT4o 1 ###
+exo delete_note 2
+
+### CLI ###
+exOS v0.5
+---
+Command: exo delete_note 2
+Time: 11/4/2024, 3:30:28 PM
+---
+
+Note deleted successfully
+
+Use 'exo notes' to see all your personal notes
+
+---
+Type 'help' for available commands.
+
+### GPT4o 1 ###
+exo notes
+
+### CLI ###
+exOS v0.5
+---
+Command: exo notes
+Time: 11/4/2024, 3:30:28 PM
+---
+
+Your personal notes. Use 'exo create_note <note_string>' to create a new one. Alternatively use 'exo update_note <note_id> <note_string>' to update a note, or 'exo delete_note <note_id>' to delete a note
+
+3 (11/4/2024 11:30:25 PM): "Pick up groceries after work tomorrow and call mom."
+
+---
+Type 'help' for available commands.
+
+### GPT4o 1 ###
+search help
+
+### CLI ###
+exOS v0.5
+---
+Command: search help
+Time: 11/4/2024, 3:30:29 PM
+---
+
+Search Help
+
+Available commands:
+query <query_string> - Perform an internet search using Perplexity
+
+---
+Type 'help' for available commands.
+
+### GPT4o 1 ###
+search query "current weather forecast for New York City"
+
+### CLI ###
+exOS v0.5
+---
+Command: search query "current weather forecast for New York City"
+Time: 11/4/2024, 3:30:29 PM
+---
+
+Search results from Perplexity.
+
+As of Monday, November 4, 2024, the current weather forecast for New York City is:
+
+- **Temperature:** High of 59°F and a low of 55°F.
+- **Conditions:** A mix of clouds and sun during the morning will give way to cloudy skies this afternoon. Tonight will be partly cloudy after midnight.
+- **Wind:** Light and variable winds, with a gentle breeze from the southeast at 5 to 10 mph.
+- **UV Index:** Good, with a UV Index of 1.
+- **Cloud Cover:** Considerable cloudiness, with highs in the upper 50s and lows in the mid 50s.
+
+For further detailed forecasts, including the next few days, you can refer to the comprehensive 10-day forecast or the local weather updates.
+
+---
+Type 'help' for available commands.
+
+### GPT4o 1 ###
+web help
+
+### CLI ###
+exOS v0.5
+---
+Command: web help
+Time: 11/4/2024, 3:30:32 PM
+---
+
+Web Browser Help
+
+Available commands:
+open <url> - Open a URL and see the contents of a page.
+help - Show this help message
+
+Example usage:
+web open https://www.wikipedia.org/random
+
+---
+Type 'help' for available commands.
+
+### GPT4o 1 ###
+web open https://www.wikipedia.org/random
+
+### CLI ###
+exOS v0.5
+---
+Command: web open https://www.wikipedia.org/random
+Time: 11/4/2024, 3:30:33 PM
+---
+
+PAGE TITLE: Not Found
+
+PAGE CONTENT:
+
+[![Wikimedia](https://www.wikimedia.org/static/images/wmf.png)](https://www.wikimedia.org)
+
+# Page not found
+
+_/random_
+
+We could not find the above page on our servers.
+
+**Did you mean: [/wiki/random](/wiki/random)**
+
+Alternatively, you can visit the [Main Page](/) or read [more information](https://en.wikipedia.org/wiki/HTTP_404 "Wikipedia: HTTP 404") about this type of error.
+
+---
+
+if you want to navigate to another page, use the 'web open' command. you will need to prefix the link with the root url of the site you're on, as in most cases links will be relative. You may also wish to search the internet using the 'search' command or use 'twitter post' to post a message to Twitter. up to you
+
+---
+Type 'help' for available commands.
+
+### GPT4o 1 ###
+web open https://www.wikipedia.org/wiki/random
+
+### CLI ###
+exOS v0.5
+---
+Command: web open https://www.wikipedia.org/wiki/random
+Time: 11/4/2024, 3:30:37 PM
+---
+
+PAGE TITLE: Randomness - Wikipedia
+
+PAGE CONTENT:
+
+[Jump to content](#bodyContent)
+
+[![Page semi-protected](https://www.wikipedia.org/upload.wikimedia.org/wikipedia/en/thumb/1/1b/Semi-protection-shackle.svg/20px-Semi-protection-shackle.svg.png)](/wiki/Wikipedia:Protection_policy#semi "This article is semi-protected.")
+
+From Wikipedia, the free encyclopedia
+
+(Redirected from [Random](/w/index.php?title=Random&redirect=no "Random"))
+
+"Random" redirects here. For a random Wikipedia article, see [Special:Random](/wiki/Special:Random "Special:Random"). For information about Wikipedia's random article feature, see [Wikipedia:Random](/wiki/Wikipedia:Random "Wikipedia:Random"). For other uses, see [Random (disambiguation)](/wiki/Random_(disambiguation) "Random (disambiguation)").
+
+Apparent lack of pattern or predictability in events
+
+[![](https://www.wikipedia.org/upload.wikimedia.org/wikipedia/commons/thumb/e/ec/RandomBitmap.png/220px-RandomBitmap.png)](/wiki/File:RandomBitmap.png) A [pseudorandomly generated](/wiki/Pseudorandom_Number_Generator "Pseudorandom Number Generator") [bitmap](/wiki/Bitmap "Bitmap")
+
+In common usage, **randomness** is the apparent or actual lack of definite [pattern](/wiki/Pattern "Pattern") or [predictability](/wiki/Predictability "Predictability") in information.[\[1\]](#cite_note-1)[\[2\]](#cite_note-:0-2) A random sequence of events, [symbols](/wiki/Symbol "Symbol") or steps often has no [order](https://en.wiktionary.org/wiki/order "wikt:order") and does not follow an intelligible pattern or combination. Individual random events are, by definition, unpredictable, but if there is a known [probability distribution](/wiki/Probability_distribution "Probability distribution"), the frequency of different outcomes over repeated events (or "trials") is predictable.[\[note 1\]](#cite_note-3) For example, when throwing two [dice](/wiki/Dice "Dice"), the outcome of any particular roll is unpredictable, but a sum of 7 will tend to occur twice as often as 4. In this view, randomness is not haphazardness; it is a measure of uncertainty of an outcome. Randomness applies to concepts of chance, [probability](/wiki/Probability "Probability"), and [information entropy](/wiki/Information_entropy "Information entropy").
+
+The fields of mathematics, probability, and statistics use formal definitions of randomness, typically assuming that there is some 'objective' probability distribution. In statistics, a [random variable](/wiki/Random_variable "Random variable") is an assignment of a numerical value to each possible outcome of an [event space](/wiki/Event_space "Event space"). This association facilitates the identification and the calculation of probabilities of the events. Random variables can appear in [random sequences](/wiki/Random_sequence "Random sequence"). A [random process](/wiki/Random_process "Random process") is a sequence of random variables whose outcomes do not follow a [deterministic](/wiki/Determinism "Determinism") pattern, but follow an evolution described by [probability distributions](/wiki/Probability_distribution "Probability distribution"). These and other constructs are extremely useful in [probability theory](/wiki/Probability_theory "Probability theory") and the various [applications of randomness](/wiki/Applications_of_randomness "Applications of randomness").
+
+Randomness is most often used in [statistics](/wiki/Statistics "Statistics") to signify well-defined statistical properties. [Monte Carlo methods](/wiki/Monte_Carlo_method "Monte Carlo method"), which rely on random input (such as from [random number generators](/wiki/Random_number_generation "Random number generation") or [pseudorandom number generators](/wiki/Pseudorandom_number_generator "Pseudorandom number generator")), are important techniques in science, particularly in the field of [computational science](/wiki/Scientific_computing "Scientific computing").[\[3\]](#cite_note-4) By analogy, [quasi-Monte Carlo methods](/wiki/Quasi-Monte_Carlo_method "Quasi-Monte Carlo method") use [quasi-random number generators](/wiki/Low-discrepancy_sequence "Low-discrepancy sequence").
+
+Random selection, when narrowly associated with a [simple random sample](/wiki/Simple_random_sample "Simple random sample"), is a method of selecting items (often called units) from a population where the probability of choosing a specific item is the proportion of those items in the population. For example, with a bowl containing just 10 red marbles and 90 blue marbles, a random selection mechanism would choose a red marble with probability 1/10. A random selection mechanism that selected 10 marbles from this bowl would not necessarily result in 1 red and 9 blue. In situations where a population consists of items that are distinguishable, a random selection mechanism requires equal probabilities for any item to be chosen. That is, if the selection process is such that each member of a population, say research subjects, has the same probability of being chosen, then we can say the selection process is random.[\[2\]](#cite_note-:0-2)
+
+According to [Ramsey theory](/wiki/Ramsey_theory "Ramsey theory"), pure randomness (in the sense of there being no discernible pattern) is impossible, especially for large structures. Mathematician [Theodore Motzkin](/wiki/Theodore_Motzkin "Theodore Motzkin") suggested that "while disorder is more probable in general, complete disorder is impossible".[\[4\]](#cite_note-5) Misunderstanding this can lead to numerous [conspiracy theories](/wiki/Conspiracy_theory "Conspiracy theory").[\[5\]](#cite_note-6) [Cristian S. Calude](/wiki/Cristian_S._Calude "Cristian S. Calude") stated that "given the impossibility of true randomness, the effort is directed towards studying degrees of randomness".[\[6\]](#cite_note-calude2017-7) It can be proven that there is infinite hierarchy (in terms of quality or strength) of forms of randomness.[\[6\]](#cite_note-calude2017-7)
+
+## History
+
+Main article: [History of randomness](/wiki/History_of_randomness "History of randomness")
+
+[![](https://www.wikipedia.org/upload.wikimedia.org/wikipedia/commons/thumb/1/16/Pompeii_-_Osteria_della_Via_di_Mercurio_-_Dice_Players.jpg/220px-Pompeii_-_Osteria_della_Via_di_Mercurio_-_Dice_Players.jpg)](/wiki/File:Pompeii_-_Osteria_della_Via_di_Mercurio_-_Dice_Players.jpg) Ancient [fresco](/wiki/Fresco "Fresco") of dice players in [Pompei](/wiki/Pompei "Pompei")
+
+In ancient history, the concepts of chance and randomness were intertwined with that of fate. Many ancient peoples threw [dice](/wiki/Dice "Dice") to determine fate, and this later evolved into games of chance. Most ancient cultures used various methods of [divination](/wiki/Divination "Divination") to attempt to circumvent randomness and fate.[\[7\]](#cite_note-8)[\[8\]](#cite_note-9) Beyond [religion](/wiki/Religion "Religion") and [games of chance](/wiki/Game_of_chance "Game of chance"), randomness has been attested for [sortition](/wiki/Sortition "Sortition") since at least ancient [Athenian democracy](/wiki/Athenian_democracy "Athenian democracy") in the form of a [kleroterion](/wiki/Kleroterion "Kleroterion").[\[9\]](#cite_note-Hansen-10)
+
+The formalization of odds and chance was perhaps earliest done by the Chinese of 3,000 years ago. The Greek philosophers discussed randomness at length, but only in non-quantitative forms. It was only in the 16th century that Italian mathematicians began to formalize the odds associated with various games of chance. The invention of [calculus](/wiki/Calculus "Calculus") had a positive impact on the formal study of randomness. In the 1888 edition of his book _The Logic of Chance_, [John Venn](/wiki/John_Venn "John Venn") wrote a chapter on _The conception of randomness_ that included his view of the randomness of the digits of [pi](/wiki/Pi "Pi") (π), by using them to construct a [random walk](/wiki/Random_walk "Random walk") in two dimensions.[\[10\]](#cite_note-11)
+
+The early part of the 20th century saw a rapid growth in the formal analysis of randomness, as various approaches to the mathematical foundations of probability were introduced. In the mid-to-late-20th century, ideas of [algorithmic information theory](/wiki/Algorithmic_information_theory "Algorithmic information theory") introduced new dimensions to the field via the concept of [algorithmic randomness](/wiki/Algorithmic_randomness "Algorithmic randomness").
+
+Although randomness had often been viewed as an obstacle and a nuisance for many centuries, in the 20th century computer scientists began to realize that the _deliberate_ introduction of randomness into computations can be an effective tool for designing better algorithms. In some cases, such [randomized algorithms](/wiki/Randomized_algorithms "Randomized algorithms") even outperform the best deterministic methods.[\[11\]](#cite_note-12)
+
+## In science
+
+Many scientific fields are concerned with randomness:
+
+- [Algorithmic probability](/wiki/Algorithmic_probability "Algorithmic probability")
+- [Chaos theory](/wiki/Chaos_theory "Chaos theory")
+- [Cryptography](/wiki/Cryptography "Cryptography")
+- [Game theory](/wiki/Game_theory "Game theory")
+- [Information theory](/wiki/Information_theory "Information theory")
+- [Pattern recognition](/wiki/Pattern_recognition "Pattern recognition")
+- [Percolation theory](/wiki/Percolation_theory "Percolation theory")
+- [Probability theory](/wiki/Probability_theory "Probability theory")
+- [Quantum mechanics](/wiki/Quantum_mechanics "Quantum mechanics")
+- [Random walk](/wiki/Random_walk "Random walk")
+- [Statistical mechanics](/wiki/Statistical_mechanics "Statistical mechanics")
+- [Statistics](/wiki/Statistics "Statistics")
+
+### In the physical sciences
+
+In the 19th century, scientists used the idea of random motions of molecules in the development of [statistical mechanics](/wiki/Statistical_mechanics "Statistical mechanics") to explain phenomena in [thermodynamics](/wiki/Thermodynamics "Thermodynamics") and [the properties of gases](/wiki/Gas_laws "Gas laws").
+
+According to several standard interpretations of [quantum mechanics](/wiki/Quantum_mechanics "Quantum mechanics"), microscopic phenomena are objectively random.[\[12\]](#cite_note-13) That is, in an experiment that controls all causally relevant parameters, some aspects of the outcome still vary randomly. For example, if a single unstable [atom](/wiki/Atom "Atom") is placed in a controlled environment, it cannot be predicted how long it will take for the atom to decay—only the probability of decay in a given time.[\[13\]](#cite_note-14) Thus, quantum mechanics does not specify the outcome of individual experiments, but only the probabilities. [Hidden variable theories](/wiki/Hidden_variable_theory "Hidden variable theory") reject the view that nature contains irreducible randomness: such theories posit that in the processes that appear random, properties with a certain statistical distribution are at work behind the scenes, determining the outcome in each case.
+
+### In biology
+
+The [modern evolutionary synthesis](/wiki/Modern_synthesis_(20th_century) "Modern synthesis (20th century)") ascribes the observed diversity of life to random genetic [mutations](/wiki/Mutation "Mutation") followed by [natural selection](/wiki/Natural_selection "Natural selection"). The latter retains some random mutations in the [gene pool](/wiki/Gene_pool "Gene pool") due to the systematically improved chance for survival and reproduction that those mutated genes confer on individuals who possess them. The location of the mutation is not entirely random however as e.g. biologically important regions may be more protected from mutations.[\[14\]](#cite_note-15)[\[15\]](#cite_note-16)[\[16\]](#cite_note-17)
+
+Several authors also claim that evolution (and sometimes development) requires a specific form of randomness, namely the introduction of qualitatively new behaviors. Instead of the choice of one possibility among several pre-given ones, this randomness corresponds to the formation of new possibilities.[\[17\]](#cite_note-18)[\[18\]](#cite_note-19)
+
+The characteristics of an organism arise to some extent deterministically (e.g., under the influence of genes and the environment), and to some extent randomly. For example, the _density_ of [freckles](/wiki/Freckles "Freckles") that appear on a person's skin is controlled by genes and exposure to light; whereas the exact location of _individual_ freckles seems random.[\[19\]](#cite_note-20)
+
+As far as behavior is concerned, randomness is important if an animal is to behave in a way that is unpredictable to others. For instance, insects in flight tend to move about with random changes in direction, making it difficult for pursuing predators to predict their trajectories.
+
+### In mathematics
+
+The mathematical theory of [probability](/wiki/Probability "Probability") arose from attempts to formulate mathematical descriptions of chance events, originally in the context of [gambling](/wiki/Gambling "Gambling"), but later in connection with physics. [Statistics](/wiki/Statistics "Statistics") is used to infer an underlying [probability distribution](/wiki/Probability_distribution "Probability distribution") of a collection of empirical observations. For the purposes of [simulation](/wiki/Simulation "Simulation"), it is necessary to have a large supply of [random numbers](/wiki/Random_sequence "Random sequence")—or means to generate them on demand.
+
+[Algorithmic information theory](/wiki/Algorithmic_information_theory "Algorithmic information theory") studies, among other topics, what constitutes a [random sequence](/wiki/Random_sequence "Random sequence"). The central idea is that a string of [bits](/wiki/Bit "Bit") is random if and only if it is shorter than any computer program that can produce that string ( [Kolmogorov randomness](/wiki/Kolmogorov_randomness "Kolmogorov randomness")), which means that random strings are those that cannot be [compressed](/wiki/Data_compression "Data compression"). Pioneers of this field include [Andrey Kolmogorov](/wiki/Andrey_Kolmogorov "Andrey Kolmogorov") and his student [Per Martin-Löf](/wiki/Per_Martin-L%C3%B6f "Per Martin-Löf"), [Ray Solomonoff](/wiki/Ray_Solomonoff "Ray Solomonoff"), and [Gregory Chaitin](/wiki/Gregory_Chaitin "Gregory Chaitin"). For the notion of infinite sequence, mathematicians generally accept [Per Martin-Löf](/wiki/Per_Martin-L%C3%B6f "Per Martin-Löf")'s semi-eponymous definition: An infinite sequence is random if and only if it withstands all recursively enumerable null sets.[\[20\]](#cite_note-21) The other notions of random sequences include, among others, recursive randomness and Schnorr randomness, which are based on recursively computable martingales. It was shown by [Yongge Wang](/wiki/Yongge_Wang "Yongge Wang") that these randomness notions are generally different.[\[21\]](#cite_note-22)
+
+Randomness occurs in numbers such as [log(2)](/wiki/Binary_logarithm "Binary logarithm") and [pi](/wiki/Pi "Pi"). The decimal digits of pi constitute an infinite sequence and "never repeat in a cyclical fashion." Numbers like pi are also considered likely to be [normal](/wiki/Normal_number "Normal number"):
+
+> Pi certainly seems to behave this way. In the first six billion decimal places of pi, each of the digits from 0 through 9 shows up about six hundred million times. Yet such results, conceivably accidental, do not prove normality even in base 10, much less normality in other number bases.[\[22\]](#cite_note-23)
+
+### In statistics
+
+Main article: [Statistical randomness](/wiki/Statistical_randomness "Statistical randomness")
+
+See also: [Random error](/wiki/Random_error "Random error")
+
+In statistics, randomness is commonly used to create [simple random samples](/wiki/Simple_random_samples "Simple random samples"). This allows surveys of completely random groups of people to provide realistic data that is reflective of the population. Common methods of doing this include drawing names out of a hat or using a random digit chart (a large table of random digits).
+
+### In information science
+
+In information science, irrelevant or meaningless data is considered noise. Noise consists of numerous transient disturbances, with a statistically randomized time distribution.
+
+In [communication theory](/wiki/Communication_theory "Communication theory"), randomness in a signal is called "noise", and is opposed to that component of its variation that is causally attributable to the source, the signal.
+
+In terms of the development of random networks, for communication randomness rests on the two simple assumptions of [Paul Erdős](/wiki/Paul_Erd%C5%91s "Paul Erdős") and [Alfréd Rényi](/wiki/Alfr%C3%A9d_R%C3%A9nyi "Alfréd Rényi"), who said that there were a fixed number of nodes and this number remained fixed for the life of the network, and that all nodes were equal and linked randomly to each other.\[ _[clarification needed](/wiki/Wikipedia:Please_clarify "Wikipedia:Please clarify")_\][\[23\]](#cite_note-24)
+
+### In finance
+
+The [random walk hypothesis](/wiki/Random_walk_hypothesis "Random walk hypothesis") considers that asset prices in an organized [market](/wiki/Market_(economics) "Market (economics)") evolve at random, in the sense that the expected value of their change is zero but the actual value may turn out to be positive or negative. More generally, asset prices are influenced by a variety of unpredictable events in the general economic environment.
+
+### In politics
+
+Random selection can be an official method to resolve [tied](/wiki/Tie_(draw) "Tie (draw)") elections in some jurisdictions.[\[24\]](#cite_note-25) Its use in politics originates long ago. Many offices in [ancient Athens](/wiki/Ancient_Athens "Ancient Athens") were chosen by lot instead of modern voting.
+
+## Randomness and religion
+
+Randomness can be seen as conflicting with the [deterministic](/wiki/Deterministic "Deterministic") ideas of some religions, such as those where the universe is created by an omniscient deity who is aware of all past and future events. If the universe is regarded to have a purpose, then randomness can be seen as impossible. This is one of the rationales for religious opposition to [evolution](/wiki/Evolution "Evolution"), which states that [non-random](/wiki/Non-random "Non-random") selection is applied to the results of random genetic variation.
+
+[Hindu](/wiki/Hindu "Hindu") and [Buddhist](/wiki/Buddhist "Buddhist") philosophies state that any event is the result of previous events, as is reflected in the concept of [karma](/wiki/Karma "Karma"). As such, this conception is at odd with the idea of randomness, and any reconciliation between both of them would require an explanation.[\[25\]](#cite_note-26)
+
+In some religious contexts, procedures that are commonly perceived as randomizers are used for divination. [Cleromancy](/wiki/Cleromancy "Cleromancy") uses the casting of bones or dice to reveal what is seen as the will of the gods.
+
+## Applications
+
+Main article: [Applications of randomness](/wiki/Applications_of_randomness "Applications of randomness")
+
+In most of its mathematical, political, social and religious uses, randomness is used for its innate "fairness" and lack of bias.
+
+**Politics**: [Athenian democracy](/wiki/Athenian_democracy "Athenian democracy") was based on the concept of [isonomia](/wiki/Isonomia "Isonomia") (equality of political rights), and used complex allotment machines to ensure that the positions on the ruling committees that ran Athens were fairly allocated. [Allotment](/wiki/Sortition "Sortition") is now restricted to selecting jurors in Anglo-Saxon legal systems, and in situations where "fairness" is approximated by [randomization](/wiki/Randomization "Randomization"), such as selecting [jurors](/wiki/Juror "Juror") and military [draft](/wiki/Conscription "Conscription") lotteries.
+
+**Games**: Random numbers were first investigated in the context of [gambling](/wiki/Gambling "Gambling"), and many randomizing devices, such as [dice](/wiki/Dice "Dice"), [shuffling playing cards](/wiki/Shuffling_playing_cards "Shuffling playing cards"), and [roulette](/wiki/Roulette "Roulette") wheels, were first developed for use in gambling. The ability to produce random numbers fairly is vital to electronic gambling, and, as such, the methods used to create them are usually regulated by government [Gaming Control Boards](/wiki/Gaming_Control_Board "Gaming Control Board"). Random drawings are also used to determine [lottery](/wiki/Lottery "Lottery") winners. In fact, randomness has been used for games of chance throughout history, and to select out individuals for an unwanted task in a fair way (see [drawing straws](/wiki/Drawing_straws "Drawing straws")).
+
+**Sports**: Some sports, including [American football](/wiki/American_football "American football"), use [coin tosses](/wiki/Coin_toss "Coin toss") to randomly select starting conditions for games or [seed](/wiki/Seed_(sports) "Seed (sports)") tied teams for [postseason play](/wiki/Playoffs "Playoffs"). The [National Basketball Association](/wiki/National_Basketball_Association "National Basketball Association") uses a weighted [lottery](/wiki/NBA_draft_lottery "NBA draft lottery") to order teams in its draft.
+
+**Mathematics**: Random numbers are also employed where their use is mathematically important, such as sampling for [opinion polls](/wiki/Opinion_poll "Opinion poll") and for statistical sampling in [quality control](/wiki/Quality_control "Quality control") systems. Computational solutions for some types of problems use random numbers extensively, such as in the [Monte Carlo method](/wiki/Monte_Carlo_method "Monte Carlo method") and in [genetic algorithms](/wiki/Genetic_algorithm "Genetic algorithm").
+
+**Medicine**: Random allocation of a clinical intervention is used to reduce bias in controlled trials (e.g., [randomized controlled trials](/wiki/Randomized_controlled_trials "Randomized controlled trials")).
+
+**Religion**: Although not intended to be random, various forms of [divination](/wiki/Divination "Divination") such as [cleromancy](/wiki/Cleromancy "Cleromancy") see what appears to be a random event as a means for a divine being to communicate their will (see also [Free will](/wiki/Free_will "Free will") and [Determinism](/wiki/Determinism "Determinism") for more).
+
+## Generation
+
+Main article: [Random number generation](/wiki/Random_number_generation "Random number generation")
+
+[![](https://www.wikipedia.org/upload.wikimedia.org/wikipedia/commons/thumb/2/26/Roulette_wheel.jpg/200px-Roulette_wheel.jpg)](/wiki/File:Roulette_wheel.jpg) The ball in a [roulette](/wiki/Roulette "Roulette") can be used as a source of apparent randomness, because its behavior is very sensitive to the initial conditions.
+
+It is generally accepted that there exist three mechanisms responsible for (apparently) random behavior in systems:
+
+1. _Randomness_ coming from the environment (for example, [Brownian motion](/wiki/Brownian_motion "Brownian motion"), but also [hardware random number generators](/wiki/Hardware_random_number_generator "Hardware random number generator")).
+2. _Randomness_ coming from the initial conditions. This aspect is studied by [chaos theory](/wiki/Chaos_theory "Chaos theory"), and is observed in systems whose behavior is very sensitive to small variations in initial conditions (such as [pachinko](/wiki/Pachinko "Pachinko") machines and [dice](/wiki/Dice "Dice")).
+3. _Randomness_ intrinsically generated by the system. This is also called [pseudorandomness](/wiki/Pseudorandomness "Pseudorandomness"), and is the kind used in [pseudo-random number generators](/wiki/Pseudo-random_number_generator "Pseudo-random number generator"). There are many algorithms (based on [arithmetics](/wiki/Arithmetics "Arithmetics") or [cellular automaton](/wiki/Cellular_automaton "Cellular automaton")) for generating pseudorandom numbers. The behavior of the system can be determined by knowing the [seed state](/wiki/Random_seed "Random seed") and the algorithm used. These methods are often quicker than getting "true" randomness from the environment.
+
+The many [applications of randomness](/wiki/Applications_of_randomness "Applications of randomness") have led to many different methods for generating random data. These methods may vary as to how unpredictable or [statistically random](/wiki/Statistical_randomness "Statistical randomness") they are, and how quickly they can generate random numbers.
+
+Before the advent of computational [random number generators](/wiki/Random_number_generator "Random number generator"), generating large amounts of sufficiently random numbers (which is important in statistics) required a lot of work. Results would sometimes be collected and distributed as [random number tables](/wiki/Random_number_table "Random number table").
+
+## Measures and tests
+
+Main article: [Randomness tests](/wiki/Randomness_tests "Randomness tests")
+
+There are many practical measures of randomness for a binary sequence. These include measures based on frequency, [discrete transforms](/wiki/Discrete_transform "Discrete transform"), [complexity](/wiki/Complexity "Complexity"), or a mixture of these, such as the tests by Kak, Phillips, Yuen, Hopkins, Beth and Dai, Mund, and Marsaglia and Zaman.[\[26\]](#cite_note-27)
+
+[Quantum nonlocality](/wiki/Quantum_nonlocality "Quantum nonlocality") has been used to certify the presence of genuine or strong form of randomness in a given string of numbers.[\[27\]](#cite_note-28)
+
+## Misconceptions and logical fallacies
+
+[Play video](/wiki/File:Fast_erroneous_self_switching_of_audio_amp_inputs.webm "Play video") Duration: 17 seconds.0:17Due to an electric defect, the shown input selector of an [audio amplifier](/wiki/Audio_power_amplifier "Audio power amplifier") switches fast and seemingly _at random_. However, this may follow a scheme which a human could only recognize after a scientific-style supervision.
+
+Main article: [Gambler's fallacy](/wiki/Gambler%27s_fallacy "Gambler's fallacy")
+
+Popular perceptions of randomness are frequently mistaken, and are often based on fallacious reasoning or intuitions.
+
+### Fallacy: a number is "due"
+
+See also: [Coupon collector's problem](/wiki/Coupon_collector%27s_problem "Coupon collector's problem")
+
+This argument is, "In a random selection of numbers, since all numbers eventually appear, those that have not come up yet are 'due', and thus more likely to come up soon." This logic is only correct if applied to a system where numbers that come up are removed from the system, such as when [playing cards](/wiki/Playing_card "Playing card") are drawn and not returned to the deck. In this case, once a jack is removed from the deck, the next draw is less likely to be a jack and more likely to be some other card. However, if the jack is returned to the deck, and the deck is thoroughly reshuffled, a jack is as likely to be drawn as any other card. The same applies in any other process where objects are selected independently, and none are removed after each event, such as the roll of a die, a coin toss, or most [lottery](/wiki/Lottery "Lottery") number selection schemes. Truly random processes such as these do not have memory, which makes it impossible for past outcomes to affect future outcomes. In fact, there is no finite number of trials that can guarantee a success.
+
+### Fallacy: a number is "cursed" or "blessed"
+
+See also: [Benford's law](/wiki/Benford%27s_law "Benford's law")
+
+In a random sequence of numbers, a number may be said to be cursed because it has come up less often in the past, and so it is thought that it will occur less often in the future. A number may be assumed to be blessed because it has occurred more often than others in the past, and so it is thought likely to come up more often in the future. This logic is valid only if the randomisation might be biased, for example if a die is suspected to be loaded then its failure to roll enough sixes would be evidence of that loading. If the die is known to be fair, then previous rolls can give no indication of future events.
+
+In nature, events rarely occur with a frequency that is known _[a priori](/wiki/A_priori "A priori")_, so observing outcomes to determine which events are more probable makes sense. However, it is fallacious to apply this logic to systems designed and known to make all outcomes equally likely, such as shuffled cards, dice, and roulette wheels.
+
+### Fallacy: odds are never dynamic
+
+In the beginning of a scenario, one might calculate the probability of a certain event. However, as soon as one gains more information about the scenario, one may need to re-calculate the probability accordingly.
+
+[![](https://www.wikipedia.org/upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Monty_open_door.svg/100px-Monty_open_door.svg.png)](/wiki/File:Monty_open_door.svg) In the [Monty Hall problem](/wiki/Monty_Hall_problem "Monty Hall problem"), when the host reveals one door that contains a goat, this provides new information that needs to be factored into the calculation of probabilities.
+
+For example, when being told that a woman has two children, one might be interested in knowing if either of them is a girl, and if yes, the probability that the other child is also a girl. Considering the two events independently, one might expect that the probability that the other child is female is ½ (50%), but by building a [probability space](/wiki/Probability_space "Probability space") illustrating all possible outcomes, one would notice that the probability is actually only ⅓ (33%).
+
+To be sure, the probability space does illustrate four ways of having these two children: boy-boy, girl-boy, boy-girl, and girl-girl. But once it is known that at least one of the children is female, this rules out the boy-boy scenario, leaving only three ways of having the two children: boy-girl, girl-boy, girl-girl. From this, it can be seen only ⅓ of these scenarios would have the other child also be a girl[\[28\]](#cite_note-NYOdds-29) (see [Boy or girl paradox](/wiki/Boy_or_girl_paradox "Boy or girl paradox") for more).
+
+In general, by using a probability space, one is less likely to miss out on possible scenarios, or to neglect the importance of new information. This technique can be used to provide insights in other situations such as the [Monty Hall problem](/wiki/Monty_Hall_problem "Monty Hall problem"), a game show scenario in which a car is hidden behind one of three doors, and two goats are hidden as [booby prizes](/wiki/Booby_prize "Booby prize") behind the others. Once the contestant has chosen a door, the host opens one of the remaining doors to reveal a goat, eliminating that door as an option. With only two doors left (one with the car, the other with another goat), the player must decide to either keep their decision, or to switch and select the other door. Intuitively, one might think the player is choosing between two doors with equal probability, and that the opportunity to choose another door makes no difference. However, an analysis of the probability spaces would reveal that the contestant has received new information, and that changing to the other door would increase their chances of winning.[\[28\]](#cite_note-NYOdds-29)
+
+## See also
+
+- [![icon](https://www.wikipedia.org/upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Nuvola_apps_edu_mathematics_blue-p.svg/28px-Nuvola_apps_edu_mathematics_blue-p.svg.png)](/wiki/File:Nuvola_apps_edu_mathematics_blue-p.svg)[Mathematics portal](/wiki/Portal:Mathematics "Portal:Mathematics")
+
+- [Chaitin's constant](/wiki/Chaitin%27s_constant "Chaitin's constant")
+- [Chance (disambiguation)](/wiki/Chance_(disambiguation) "Chance (disambiguation)")
+- [Frequentist probability](/wiki/Frequentist_probability "Frequentist probability")
+- [Indeterminism](/wiki/Indeterminism "Indeterminism")
+- [Nonlinear system](/wiki/Nonlinear_system "Nonlinear system")
+- [Probability interpretations](/wiki/Probability_interpretations "Probability interpretations")
+- [Probability theory](/wiki/Probability_theory "Probability theory")
+- [Pseudorandomness](/wiki/Pseudorandomness "Pseudorandomness")
+- [Random.org](/wiki/Random.org "Random.org")—generates random numbers using atmospheric noise
+- [Sortition](/wiki/Sortition "Sortition")
+
+## Notes
+
+1. **[^](#cite_ref-3 "Jump up")**Strictly speaking, the frequency of an outcome will converge [almost surely](/wiki/Almost_surely "Almost surely") to a predictable value as the number of trials becomes arbitrarily large. Non-convergence or convergence to a different value is possible, but has [probability](/wiki/Probability "Probability") zero. Consistent non-convergence is thus evidence of the lack of a fixed probability distribution, as in many evolutionary processes.
+
+## References
+
+01. **[^](#cite_ref-1 "Jump up")**The _[Oxford English Dictionary](/wiki/Oxford_English_Dictionary "Oxford English Dictionary")_ defines "random" as "Having no definite aim or purpose; not sent or guided in a particular direction; made, done, occurring, etc., without method or conscious choice; haphazard."
+02. ^ [Jump up to: _**a**_](#cite_ref-:0_2-0) [_**b**_](#cite_ref-:0_2-1)["Definition of randomness \| Dictionary.com"](https://www.dictionary.com/browse/randomness). _www.dictionary.com_. Retrieved 21 November 2019.
+03. **[^](#cite_ref-4 "Jump up")**[Third Workshop on Monte Carlo Methods](http://www.people.fas.harvard.edu/~junliu/Workshops/workshop2007/), Jun Liu, Professor of Statistics, Harvard University
+04. **[^](#cite_ref-5 "Jump up")**Hans Jürgen Prömel (2005). ["Complete Disorder is Impossible: The Mathematical Work of Walter Deuber"](http://edoc.hu-berlin.de/18452/28352). _[Combinatorics, Probability and Computing](/wiki/Combinatorics,_Probability_and_Computing "Combinatorics, Probability and Computing")_. **14**. Cambridge University Press: 3–16. [doi](/wiki/Doi_(identifier) "Doi (identifier)"): [10.1017/S0963548304006674](https://doi.org/10.1017%2FS0963548304006674). [S2CID](/wiki/S2CID_(identifier) "S2CID (identifier)") [37243306](https://api.semanticscholar.org/CorpusID:37243306).
+05. **[^](#cite_ref-6 "Jump up")**Ted.com, (May 2016). [The origin of countless conspiracy theories](https://www.ted.com/talks/patrickjmt_the_origin_of_countless_conspiracy_theories/transcript)
+06. ^ [Jump up to: _**a**_](#cite_ref-calude2017_7-0) [_**b**_](#cite_ref-calude2017_7-1)[Cristian S. Calude](/wiki/Cristian_S._Calude "Cristian S. Calude"), (2017). ["Quantum Randomness: From Practice to Theory and Back"](https://www.cs.auckland.ac.nz/~cristian/crispapers/QR_TP.pdf) in "The Incomputable Journeys Beyond the Turing Barrier" Editors: [S. Barry Cooper](/wiki/S._Barry_Cooper "S. Barry Cooper"), [Mariya I. Soskova](/w/index.php?title=Mariya_I._Soskova&action=edit&redlink=1 "Mariya I. Soskova (page does not exist)"), 169–181, doi:10.1007/978-3-319-43669-2\_11.
+07. **[^](#cite_ref-8 "Jump up")**_Handbook to life in ancient Rome_ by Lesley Adkins 1998 [ISBN](/wiki/ISBN_(identifier) "ISBN (identifier)") [0-19-512332-8](/wiki/Special:BookSources/0-19-512332-8 "Special:BookSources/0-19-512332-8") page 279
+08. **[^](#cite_ref-9 "Jump up")**_Religions of the ancient world_ by Sarah Iles Johnston 2004 [ISBN](/wiki/ISBN_(identifier) "ISBN (identifier)") [0-674-01517-7](/wiki/Special:BookSources/0-674-01517-7 "Special:BookSources/0-674-01517-7") page 370
+09. **[^](#cite_ref-Hansen_10-0 "Jump up")**[Hansen, Mogens Herman](/wiki/Mogens_Herman_Hansen "Mogens Herman Hansen") (1991). [_The Athenian Democracy in the Age of Demosthenes_](https://archive.org/details/atheniandemocrac00hans). Wiley. p. [230](https://archive.org/details/atheniandemocrac00hans/page/230). [ISBN](/wiki/ISBN_(identifier) "ISBN (identifier)") [9780631180173](/wiki/Special:BookSources/9780631180173 "Special:BookSources/9780631180173").
+10. **[^](#cite_ref-11 "Jump up")**_Annotated readings in the history of statistics_ by Herbert Aron David, 2001 [ISBN](/wiki/ISBN_(identifier) "ISBN (identifier)") [0-387-98844-0](/wiki/Special:BookSources/0-387-98844-0 "Special:BookSources/0-387-98844-0") page 115. The 1866 edition of Venn's book (on Google books) does not include this chapter.
+11. **[^](#cite_ref-12 "Jump up")**Reinert, Knut (2010). ["Concept: Types of algorithms"](http://www.mi.fu-berlin.de/wiki/pub/ABI/DiscretMathWS10/runtime.pdf)(PDF). _Freie Universität Berlin_. Retrieved 20 November 2019.
+12. **[^](#cite_ref-13 "Jump up")**Zeilinger, Anton; Aspelmeyer, Markus; Żukowski, Marek; Brukner, Časlav; Kaltenbaek, Rainer; Paterek, Tomasz; Gröblacher, Simon (April 2007). "An experimental test of non-local realism". _Nature_. **446** (7138): 871–875. [arXiv](/wiki/ArXiv_(identifier) "ArXiv (identifier)"):[0704.2529](https://arxiv.org/abs/0704.2529). [Bibcode](/wiki/Bibcode_(identifier) "Bibcode (identifier)"): [2007Natur.446..871G](https://ui.adsabs.harvard.edu/abs/2007Natur.446..871G). [doi](/wiki/Doi_(identifier) "Doi (identifier)"): [10.1038/nature05677](https://doi.org/10.1038%2Fnature05677). [ISSN](/wiki/ISSN_(identifier) "ISSN (identifier)") [1476-4687](https://search.worldcat.org/issn/1476-4687). [PMID](/wiki/PMID_(identifier) "PMID (identifier)") [17443179](https://pubmed.ncbi.nlm.nih.gov/17443179). [S2CID](/wiki/S2CID_(identifier) "S2CID (identifier)") [4412358](https://api.semanticscholar.org/CorpusID:4412358).
+13. **[^](#cite_ref-14 "Jump up")**"Each nucleus decays spontaneously, at random, in accordance with the blind workings of chance." _Q for Quantum_, [John Gribbin](/wiki/John_Gribbin "John Gribbin")
+14. **[^](#cite_ref-15 "Jump up")**["Study challenges evolutionary theory that DNA mutations are random"](https://phys.org/news/2022-01-evolutionary-theory-dna-mutations-random.html). _[U.C. Davis](/wiki/U.C._Davis "U.C. Davis")_. Retrieved 12 February 2022.
+15. **[^](#cite_ref-16 "Jump up")**Monroe, J. Grey; Srikant, Thanvi; Carbonell-Bejerano, Pablo; Becker, Claude; Lensink, Mariele; Exposito-Alonso, Moises; Klein, Marie; Hildebrandt, Julia; Neumann, Manuela; Kliebenstein, Daniel; Weng, Mao-Lun; Imbert, Eric; Ågren, Jon; Rutter, Matthew T.; Fenster, Charles B.; Weigel, Detlef (February 2022). ["Mutation bias reflects natural selection in Arabidopsis thaliana"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8810380). _Nature_. **602** (7895): 101–105. [Bibcode](/wiki/Bibcode_(identifier) "Bibcode (identifier)"): [2022Natur.602..101M](https://ui.adsabs.harvard.edu/abs/2022Natur.602..101M). [doi](/wiki/Doi_(identifier) "Doi (identifier)"): [10.1038/s41586-021-04269-6](https://doi.org/10.1038%2Fs41586-021-04269-6). [ISSN](/wiki/ISSN_(identifier) "ISSN (identifier)") [1476-4687](https://search.worldcat.org/issn/1476-4687). [PMC](/wiki/PMC_(identifier) "PMC (identifier)") [8810380](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8810380). [PMID](/wiki/PMID_(identifier) "PMID (identifier)") [35022609](https://pubmed.ncbi.nlm.nih.gov/35022609).
+16. **[^](#cite_ref-17 "Jump up")**Belfield, Eric J.; Ding, Zhong Jie; Jamieson, Fiona J.C.; Visscher, Anne M.; Zheng, Shao Jian; Mithani, Aziz; Harberd, Nicholas P. (January 2018). ["DNA mismatch repair preferentially protects genes from mutation"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5749183). _Genome Research_. **28** (1): 66–74. [doi](/wiki/Doi_(identifier) "Doi (identifier)"): [10.1101/gr.219303.116](https://doi.org/10.1101%2Fgr.219303.116). [PMC](/wiki/PMC_(identifier) "PMC (identifier)") [5749183](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5749183). [PMID](/wiki/PMID_(identifier) "PMID (identifier)") [29233924](https://pubmed.ncbi.nlm.nih.gov/29233924).
+17. **[^](#cite_ref-18 "Jump up")**Longo, Giuseppe; Montévil, Maël; Kauffman, Stuart (1 January 2012). "No entailing laws, but enablement in the evolution of the biosphere". [_Proceedings of the 14th annual conference companion on Genetic and evolutionary computation_](https://www.academia.edu/11720588). GECCO '12. New York, NY, US: ACM. pp. 1379–1392. [arXiv](/wiki/ArXiv_(identifier) "ArXiv (identifier)"):[1201.2069](https://arxiv.org/abs/1201.2069). [CiteSeerX](/wiki/CiteSeerX_(identifier) "CiteSeerX (identifier)") [10.1.1.701.3838](https://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.701.3838). [doi](/wiki/Doi_(identifier) "Doi (identifier)"): [10.1145/2330784.2330946](https://doi.org/10.1145%2F2330784.2330946). [ISBN](/wiki/ISBN_(identifier) "ISBN (identifier)") [9781450311786](/wiki/Special:BookSources/9781450311786 "Special:BookSources/9781450311786"). [S2CID](/wiki/S2CID_(identifier) "S2CID (identifier)") [15609415](https://api.semanticscholar.org/CorpusID:15609415).
+18. **[^](#cite_ref-19 "Jump up")**Longo, Giuseppe; Montévil, Maël (1 October 2013). ["Extended criticality, phase spaces and enablement in biology"](https://www.academia.edu/11720575). _Chaos, Solitons & Fractals_. Emergent Critical Brain Dynamics. **55**: 64–79. [Bibcode](/wiki/Bibcode_(identifier) "Bibcode (identifier)"): [2013CSF....55...64L](https://ui.adsabs.harvard.edu/abs/2013CSF....55...64L). [doi](/wiki/Doi_(identifier) "Doi (identifier)"): [10.1016/j.chaos.2013.03.008](https://doi.org/10.1016%2Fj.chaos.2013.03.008). [S2CID](/wiki/S2CID_(identifier) "S2CID (identifier)") [55589891](https://api.semanticscholar.org/CorpusID:55589891).
+19. **[^](#cite_ref-20 "Jump up")**Breathnach, A. S. (1982). "A long-term hypopigmentary effect of thorium-X on freckled skin". _British Journal of Dermatology_. **106** (1): 19–25. [doi](/wiki/Doi_(identifier) "Doi (identifier)"): [10.1111/j.1365-2133.1982.tb00897.x](https://doi.org/10.1111%2Fj.1365-2133.1982.tb00897.x). [PMID](/wiki/PMID_(identifier) "PMID (identifier)") [7059501](https://pubmed.ncbi.nlm.nih.gov/7059501). [S2CID](/wiki/S2CID_(identifier) "S2CID (identifier)") [72016377](https://api.semanticscholar.org/CorpusID:72016377). The distribution of freckles seems entirely random, and not associated with any other obviously punctuate anatomical or physiological feature of skin.
+20. **[^](#cite_ref-21 "Jump up")**Martin-Löf, Per (1966). ["The definition of random sequences"](https://doi.org/10.1016%2FS0019-9958%2866%2980018-9). _Information and Control_. **9** (6): 602–619. [doi](/wiki/Doi_(identifier) "Doi (identifier)"):[10.1016/S0019-9958(66)80018-9](https://doi.org/10.1016%2FS0019-9958%2866%2980018-9).
+21. **[^](#cite_ref-22 "Jump up")**Yongge Wang: Randomness and Complexity. PhD Thesis, 1996. [http://webpages.uncc.edu/yonwang/papers/thesis.pdf](http://webpages.uncc.edu/yonwang/papers/thesis.pdf)
+22. **[^](#cite_ref-23 "Jump up")**["Are the digits of pi random? researcher may hold the key"](https://web.archive.org/web/20071020010208/http://lbl.gov/Science-Articles/Archive/pi-random.html). Lbl.gov. 23 July 2001. Archived from [the original](http://www.lbl.gov/Science-Articles/Archive/pi-random.html) on 20 October 2007. Retrieved 27 July 2012.
+23. **[^](#cite_ref-24 "Jump up")**Laszso Barabasi, (2003), Linked, Rich Gets Richer, P81
+24. **[^](#cite_ref-25 "Jump up")**Municipal Elections Act (Ontario, Canada) 1996, c. 32, Sched., s. 62 (3) : "If the recount indicates that two or more candidates who cannot both or all be declared elected to an office have received the same number of votes, the clerk shall choose the successful candidate or candidates by lot."
+25. **[^](#cite_ref-26 "Jump up")**Reichenbach, Bruce (1990). [_The Law of Karma: A Philosophical Study_](https://books.google.com/books?id=euWuCwAAQBAJ&pg=PA121). Palgrave Macmillan UK. p. 121. [ISBN](/wiki/ISBN_(identifier) "ISBN (identifier)") [978-1-349-11899-1](/wiki/Special:BookSources/978-1-349-11899-1 "Special:BookSources/978-1-349-11899-1").
+26. **[^](#cite_ref-27 "Jump up")**Terry Ritter, Randomness tests: a literature survey. [ciphersbyritter.com](http://www.ciphersbyritter.com/RES/RANDTEST.HTM)
+27. **[^](#cite_ref-28 "Jump up")**Pironio, S.; et al. (2010). "Random Numbers Certified by Bell's Theorem". _Nature_. **464** (7291): 1021–1024. [arXiv](/wiki/ArXiv_(identifier) "ArXiv (identifier)"):[0911.3427](https://arxiv.org/abs/0911.3427). [Bibcode](/wiki/Bibcode_(identifier) "Bibcode (identifier)"): [2010Natur.464.1021P](https://ui.adsabs.harvard.edu/abs/2010Natur.464.1021P). [doi](/wiki/Doi_(identifier) "Doi (identifier)"): [10.1038/nature09008](https://doi.org/10.1038%2Fnature09008). [PMID](/wiki/PMID_(identifier) "PMID (identifier)") [20393558](https://pubmed.ncbi.nlm.nih.gov/20393558). [S2CID](/wiki/S2CID_(identifier) "S2CID (identifier)") [4300790](https://api.semanticscholar.org/CorpusID:4300790).
+28. ^ [Jump up to: _**a**_](#cite_ref-NYOdds_29-0) [_**b**_](#cite_ref-NYOdds_29-1)Johnson, George (8 June 2008). ["Playing the Odds"](https://www.nytimes.com/2008/06/08/books/review/Johnson-G-t.html?_r=1). _The New York Times_.
+
+## Further reading
+
+- _Randomness_ by [Deborah J. Bennett](/wiki/Deborah_J._Bennett "Deborah J. Bennett"). Harvard University Press, 1998. [ISBN](/wiki/ISBN_(identifier) "ISBN (identifier)") [0-674-10745-4](/wiki/Special:BookSources/0-674-10745-4 "Special:BookSources/0-674-10745-4").
+- _Random Measures, 4th ed._ by [Olav Kallenberg](/wiki/Olav_Kallenberg "Olav Kallenberg"). Academic Press, New York, London; Akademie-Verlag, Berlin, 1986. [MR](/wiki/MR_(identifier) "MR (identifier)") [0854102](https://mathscinet.ams.org/mathscinet-getitem?mr=0854102).
+- _The Art of Computer Programming. Vol. 2: Seminumerical Algorithms, 3rd ed._ by [Donald E. Knuth](/wiki/Donald_Knuth "Donald Knuth"). Reading, MA: Addison-Wesley, 1997. [ISBN](/wiki/ISBN_(identifier) "ISBN (identifier)") [0-201-89684-2](/wiki/Special:BookSources/0-201-89684-2 "Special:BookSources/0-201-89684-2").
+- _[Fooled by Randomness](/wiki/Fooled_by_Randomness "Fooled by Randomness"), 2nd ed._ by [Nassim Nicholas Taleb](/wiki/Nassim_Nicholas_Taleb "Nassim Nicholas Taleb"). Thomson Texere, 2004. [ISBN](/wiki/ISBN_(identifier) "ISBN (identifier)") [1-58799-190-X](/wiki/Special:BookSources/1-58799-190-X "Special:BookSources/1-58799-190-X").
+- _Exploring Randomness_ by [Gregory Chaitin](/wiki/Gregory_Chaitin "Gregory Chaitin"). Springer-Verlag London, 2001. [ISBN](/wiki/ISBN_(identifier) "ISBN (identifier)") [1-85233-417-7](/wiki/Special:BookSources/1-85233-417-7 "Special:BookSources/1-85233-417-7").
+- _Random_ by Kenneth Chan includes a "Random Scale" for grading the level of randomness.
+- _The Drunkard’s Walk: How Randomness Rules our Lives_ by [Leonard Mlodinow](/wiki/Leonard_Mlodinow "Leonard Mlodinow"). Pantheon Books, New York, 2008. [ISBN](/wiki/ISBN_(identifier) "ISBN (identifier)") [978-0-375-42404-5](/wiki/Special:BookSources/978-0-375-42404-5 "Special:BookSources/978-0-375-42404-5").
+
+## External links
+
+![](https://www.wikipedia.org/upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Wikiversity_logo_2017.svg/40px-Wikiversity_logo_2017.svg.png)
+
+Wikiversity has learning resources about _**[Random](https://en.wikiversity.org/wiki/Random "v:Random")**_
+
+![](https://www.wikipedia.org/upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/40px-Wiktionary-logo-en-v2.svg.png)
+
+Look up _**[randomness](https://en.wiktionary.org/wiki/randomness "wiktionary:randomness")**_ in Wiktionary, the free dictionary.
+
+![](https://www.wikipedia.org/upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/34px-Wikiquote-logo.svg.png)
+
+Wikiquote has quotations related to _**[Randomness](https://en.wikiquote.org/wiki/Special:Search/Randomness "q:Special:Search/Randomness")**_.
+
+![](https://www.wikipedia.org/upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png)
+
+Wikimedia Commons has media related to [Randomness](https://commons.wikimedia.org/wiki/Category:Randomness "commons:Category:Randomness").
+
+- [QuantumLab](http://www.quantumlab.de) Quantum random number generator with single photons as interactive experiment.
+- [HotBits](http://www.fourmilab.ch/hotbits/) generates random numbers from radioactive decay.
+- [QRBG](http://random.irb.hr) Quantum Random Bit Generator
+- [QRNG](http://qrng.physik.hu-berlin.de/) Fast Quantum Random Bit Generator
+- [Chaitin: Randomness and Mathematical Proof](https://web.archive.org/web/20070406063940/http://www.cs.auckland.ac.nz/CDMTCS/chaitin/sciamer.html)
+- [A Pseudorandom Number Sequence Test Program (Public Domain)](http://www.fourmilab.ch/random/)
+- [_Dictionary of the History of Ideas_:](https://web.archive.org/web/20050404045817/http://etext.lib.virginia.edu/cgi-local/DHI/dhi.cgi?id=dv1-46) Chance
+- [Chance versus Randomness](http://plato.stanford.edu/entries/chance-randomness/), from the [Stanford Encyclopedia of Philosophy](/wiki/Stanford_Encyclopedia_of_Philosophy "Stanford Encyclopedia of Philosophy")
+
+| show<br>[Chaos theory](/wiki/Chaos_theory "Chaos theory") |
+| --- |
+| Concepts | | Core | - [Attractor](/wiki/Attractor "Attractor")<br>- [Bifurcation](/wiki/Bifurcation_theory "Bifurcation theory")<br>- [Fractal](/wiki/Fractal "Fractal")<br>- [Limit set](/wiki/Limit_set "Limit set")<br>- [Lyapunov exponent](/wiki/Lyapunov_exponent "Lyapunov exponent")<br>- [Orbit](/wiki/Orbit_(dynamics) "Orbit (dynamics)")<br>- [Periodic point](/wiki/Periodic_point "Periodic point")<br>- [Phase space](/wiki/Phase_space "Phase space") |
+| - [Anosov diffeomorphism](/wiki/Anosov_diffeomorphism "Anosov diffeomorphism")<br>- [Arnold tongue](/wiki/Arnold_tongue "Arnold tongue")<br>- [axiom A dynamical system](/wiki/Axiom_A "Axiom A")<br>- [Bifurcation diagram](/wiki/Bifurcation_diagram "Bifurcation diagram")<br>- [Box-counting dimension](/wiki/Box-counting_dimension "Box-counting dimension")<br>- [Correlation dimension](/wiki/Correlation_dimension "Correlation dimension")<br>- [Conservative system](/wiki/Conservative_system "Conservative system")<br>- [Ergodicity](/wiki/Ergodicity "Ergodicity")<br>- [False nearest neighbors](/wiki/False_nearest_neighbors "False nearest neighbors")<br>- [Hausdorff dimension](/wiki/Hausdorff_dimension "Hausdorff dimension")<br>- [Invariant measure](/wiki/Invariant_measure "Invariant measure")<br>- [Lyapunov stability](/wiki/Lyapunov_stability "Lyapunov stability")<br>- [Measure-preserving dynamical system](/wiki/Measure-preserving_dynamical_system "Measure-preserving dynamical system")<br>- [Mixing](/wiki/Mixing_(mathematics) "Mixing (mathematics)")<br>- [Poincaré section](/wiki/Poincar%C3%A9_section "Poincaré section")<br>- [Recurrence plot](/wiki/Recurrence_plot "Recurrence plot")<br>- [SRB measure](/wiki/SRB_measure "SRB measure")<br>- [Stable manifold](/wiki/Stable_manifold "Stable manifold")<br>- [Topological conjugacy](/wiki/Topological_conjugacy "Topological conjugacy") |
+| Theorems | - [Ergodic theorem](/wiki/Ergodic_theory#Ergodic_theorems "Ergodic theory")<br>- [Liouville's theorem](/wiki/Liouville%27s_theorem_(Hamiltonian) "Liouville's theorem (Hamiltonian)")<br>- [Krylov–Bogolyubov theorem](/wiki/Krylov%E2%80%93Bogolyubov_theorem "Krylov–Bogolyubov theorem")<br>- [Poincaré–Bendixson theorem](/wiki/Poincar%C3%A9%E2%80%93Bendixson_theorem "Poincaré–Bendixson theorem")<br>- [Poincaré recurrence theorem](/wiki/Poincar%C3%A9_recurrence_theorem "Poincaré recurrence theorem")<br>- [Stable manifold theorem](/wiki/Stable_manifold_theorem "Stable manifold theorem")<br>- [Takens's theorem](/wiki/Takens%27s_theorem "Takens's theorem") | | [![Conus textile shell](https://www.wikipedia.org/upload.wikimedia.org/wikipedia/commons/thumb/a/ae/C%C3%B4ne_textileII.png/100px-C%C3%B4ne_textileII.png)](/wiki/File:C%C3%B4ne_textileII.png "Conus textile shell")<br>[![Circle map with black Arnold tongues](https://www.wikipedia.org/upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Circle_map_poincare_recurrence.jpeg/100px-Circle_map_poincare_recurrence.jpeg)](/wiki/File:Circle_map_poincare_recurrence.jpeg "Circle map with black Arnold tongues") |
+| Theoretical<br>branches | - [Bifurcation theory](/wiki/Bifurcation_theory "Bifurcation theory")<br>- [Control of chaos](/wiki/Control_of_chaos "Control of chaos")<br>- [Dynamical system](/wiki/Dynamical_system "Dynamical system")<br>- [Ergodic theory](/wiki/Ergodic_theory "Ergodic theory")<br>- [Quantum chaos](/wiki/Quantum_chaos "Quantum chaos")<br>- [Stability theory](/wiki/Stability_theory "Stability theory")<br>- [Synchronization of chaos](/wiki/Synchronization_of_chaos "Synchronization of chaos") |
+| Chaotic<br>maps ( [list](/wiki/List_of_chaotic_maps "List of chaotic maps")) | | Discrete | - [Arnold's cat map](/wiki/Arnold%27s_cat_map "Arnold's cat map")<br>- [Baker's map](/wiki/Baker%27s_map "Baker's map")<br>- [Complex quadratic map](/wiki/Complex_quadratic_polynomial "Complex quadratic polynomial")<br>- [Coupled map lattice](/wiki/Coupled_map_lattice "Coupled map lattice")<br>- [Duffing map](/wiki/Duffing_map "Duffing map")<br>- [Dyadic transformation](/wiki/Dyadic_transformation "Dyadic transformation")<br>- [Dynamical billiards](/wiki/Dynamical_billiards "Dynamical billiards") <br>  - [outer](/wiki/Outer_billiards "Outer billiards")<br>- [Exponential map](/wiki/Exponential_map_(discrete_dynamical_systems) "Exponential map (discrete dynamical systems)")<br>- [Gauss map](/wiki/Gauss_iterated_map "Gauss iterated map")<br>- [Gingerbreadman map](/wiki/Gingerbreadman_map "Gingerbreadman map")<br>- [Hénon map](/wiki/H%C3%A9non_map "Hénon map")<br>- [Horseshoe map](/wiki/Horseshoe_map "Horseshoe map")<br>- [Ikeda map](/wiki/Ikeda_map "Ikeda map")<br>- [Interval exchange map](/wiki/Interval_exchange_transformation "Interval exchange transformation")<br>- [Irrational rotation](/wiki/Irrational_rotation "Irrational rotation")<br>- [Kaplan–Yorke map](/wiki/Kaplan%E2%80%93Yorke_map "Kaplan–Yorke map")<br>- [Langton's ant](/wiki/Langton%27s_ant "Langton's ant")<br>- [Logistic map](/wiki/Logistic_map "Logistic map")<br>- [Standard map](/wiki/Standard_map "Standard map")<br>- [Tent map](/wiki/Tent_map "Tent map")<br>- [Tinkerbell map](/wiki/Tinkerbell_map "Tinkerbell map")<br>- [Zaslavskii map](/wiki/Zaslavskii_map "Zaslavskii map") |
+| Continuous | - [Double scroll attractor](/wiki/Double_scroll_attractor "Double scroll attractor")<br>- [Duffing equation](/wiki/Duffing_equation "Duffing equation")<br>- [Lorenz system](/wiki/Lorenz_system "Lorenz system")<br>- [Lotka–Volterra equations](/wiki/Lotka%E2%80%93Volterra_equations "Lotka–Volterra equations")<br>- [Mackey–Glass equations](/wiki/Mackey%E2%80%93Glass_equations "Mackey–Glass equations")<br>- [Rabinovich–Fabrikant equations](/wiki/Rabinovich%E2%80%93Fabrikant_equations "Rabinovich–Fabrikant equations")<br>- [Rössler attractor](/wiki/R%C3%B6ssler_attractor "Rössler attractor")<br>- [Three-body problem](/wiki/Three-body_problem "Three-body problem")<br>- [Van der Pol oscillator](/wiki/Van_der_Pol_oscillator "Van der Pol oscillator") | |
+| Physical<br>systems | - [Chua's circuit](/wiki/Chua%27s_circuit "Chua's circuit")<br>- [Convection](/wiki/Rayleigh%E2%80%93B%C3%A9nard_convection "Rayleigh–Bénard convection")<br>- [Double pendulum](/wiki/Double_pendulum "Double pendulum")<br>- [Elastic pendulum](/wiki/Elastic_pendulum "Elastic pendulum")<br>- [FPUT problem](/wiki/Fermi%E2%80%93Pasta%E2%80%93Ulam%E2%80%93Tsingou_problem "Fermi–Pasta–Ulam–Tsingou problem")<br>- [Hénon–Heiles system](/wiki/H%C3%A9non%E2%80%93Heiles_system "Hénon–Heiles system")<br>- [Kicked rotator](/wiki/Kicked_rotator "Kicked rotator")<br>- [Multiscroll attractor](/wiki/Multiscroll_attractor "Multiscroll attractor")<br>- [Population dynamics](/wiki/Population_dynamics "Population dynamics")<br>- [Swinging Atwood's machine](/wiki/Swinging_Atwood%27s_machine "Swinging Atwood's machine")<br>- [Tilt-A-Whirl](/wiki/Tilt-A-Whirl "Tilt-A-Whirl")<br>- [Weather](/wiki/Weather_forecasting "Weather forecasting") |
+| Chaos<br>theorists | - [Michael Berry](/wiki/Michael_Berry_(physicist) "Michael Berry (physicist)")<br>- [Rufus Bowen](/wiki/Rufus_Bowen "Rufus Bowen")<br>- [Mary Cartwright](/wiki/Mary_Cartwright "Mary Cartwright")<br>- [Chen Guanrong](/wiki/Chen_Guanrong "Chen Guanrong")<br>- [Leon O. Chua](/wiki/Leon_O._Chua "Leon O. Chua")<br>- [Mitchell Feigenbaum](/wiki/Mitchell_Feigenbaum "Mitchell Feigenbaum")<br>- [Peter Grassberger](/wiki/Peter_Grassberger "Peter Grassberger")<br>- [Celso Grebogi](/wiki/Celso_Grebogi "Celso Grebogi")<br>- [Martin Gutzwiller](/wiki/Martin_Gutzwiller "Martin Gutzwiller")<br>- [Brosl Hasslacher](/wiki/Brosl_Hasslacher "Brosl Hasslacher")<br>- [Michel Hénon](/wiki/Michel_H%C3%A9non "Michel Hénon")<br>- [Svetlana Jitomirskaya](/wiki/Svetlana_Jitomirskaya "Svetlana Jitomirskaya")<br>- [Bryna Kra](/wiki/Bryna_Kra "Bryna Kra")<br>- [Edward Norton Lorenz](/wiki/Edward_Norton_Lorenz "Edward Norton Lorenz")<br>- [Aleksandr Lyapunov](/wiki/Aleksandr_Lyapunov "Aleksandr Lyapunov")<br>- [Benoît Mandelbrot](/wiki/Benoit_Mandelbrot "Benoit Mandelbrot")<br>- [Hee Oh](/wiki/Hee_Oh "Hee Oh")<br>- [Edward Ott](/wiki/Edward_Ott "Edward Ott")<br>- [Henri Poincaré](/wiki/Henri_Poincar%C3%A9 "Henri Poincaré")<br>- [Itamar Procaccia](/wiki/Itamar_Procaccia "Itamar Procaccia")<br>- [Mary Rees](/wiki/Mary_Rees "Mary Rees")<br>- [Otto Rössler](/wiki/Otto_R%C3%B6ssler "Otto Rössler")<br>- [David Ruelle](/wiki/David_Ruelle "David Ruelle")<br>- [Caroline Series](/wiki/Caroline_Series "Caroline Series")<br>- [Yakov Sinai](/wiki/Yakov_Sinai "Yakov Sinai")<br>- [Oleksandr Mykolayovych Sharkovsky](/wiki/Oleksandr_Mykolayovych_Sharkovsky "Oleksandr Mykolayovych Sharkovsky")<br>- [Nina Snaith](/wiki/Nina_Snaith "Nina Snaith")<br>- [Floris Takens](/wiki/Floris_Takens "Floris Takens")<br>- [Audrey Terras](/wiki/Audrey_Terras "Audrey Terras")<br>- [Mary Tsingou](/wiki/Mary_Tsingou "Mary Tsingou")<br>- [Marcelo Viana](/wiki/Marcelo_Viana "Marcelo Viana")<br>- [Amie Wilkinson](/wiki/Amie_Wilkinson "Amie Wilkinson")<br>- [James A. Yorke](/wiki/James_A._Yorke "James A. Yorke")<br>- [Lai-Sang Young](/wiki/Lai-Sang_Young "Lai-Sang Young") |
+| Related<br>articles | - [Butterfly effect](/wiki/Butterfly_effect "Butterfly effect")<br>- [Complexity](/wiki/Complexity "Complexity")<br>- [Edge of chaos](/wiki/Edge_of_chaos "Edge of chaos")<br>- [Predictability](/wiki/Predictability "Predictability")<br>- [Santa Fe Institute](/wiki/Santa_Fe_Institute "Santa Fe Institute") |
+
+| hide<br>[Statistics](/wiki/Statistics "Statistics") |
+| --- |
+| - [Outline](/wiki/Outline_of_statistics "Outline of statistics")<br>- [Index](/wiki/List_of_statistics_articles "List of statistics articles") |
+| | show<br>[Descriptive statistics](/wiki/Descriptive_statistics "Descriptive statistics") |
+| --- |
+| | [Continuous data](/wiki/Continuous_probability_distribution "Continuous probability distribution") | | [Center](/wiki/Central_tendency "Central tendency") | - [Mean](/wiki/Mean "Mean") <br>  - [Arithmetic](/wiki/Arithmetic_mean "Arithmetic mean")<br>  - [Arithmetic-Geometric](/wiki/Arithmetic%E2%80%93geometric_mean "Arithmetic–geometric mean")<br>  - [Contraharmonic](/wiki/Contraharmonic_mean "Contraharmonic mean")<br>  - [Cubic](/wiki/Cubic_mean "Cubic mean")<br>  - [Generalized/power](/wiki/Generalized_mean "Generalized mean")<br>  - [Geometric](/wiki/Geometric_mean "Geometric mean")<br>  - [Harmonic](/wiki/Harmonic_mean "Harmonic mean")<br>  - [Heronian](/wiki/Heronian_mean "Heronian mean")<br>  - [Heinz](/wiki/Heinz_mean "Heinz mean")<br>  - [Lehmer](/wiki/Lehmer_mean "Lehmer mean")<br>- [Median](/wiki/Median "Median")<br>- [Mode](/wiki/Mode_(statistics) "Mode (statistics)") |
+| [Dispersion](/wiki/Statistical_dispersion "Statistical dispersion") | - [Average absolute deviation](/wiki/Average_absolute_deviation "Average absolute deviation")<br>- [Coefficient of variation](/wiki/Coefficient_of_variation "Coefficient of variation")<br>- [Interquartile range](/wiki/Interquartile_range "Interquartile range")<br>- [Percentile](/wiki/Percentile "Percentile")<br>- [Range](/wiki/Range_(statistics) "Range (statistics)")<br>- [Standard deviation](/wiki/Standard_deviation "Standard deviation")<br>- [Variance](/wiki/Variance#Sample_variance "Variance") |
+| [Shape](/wiki/Shape_of_the_distribution "Shape of the distribution") | - [Central limit theorem](/wiki/Central_limit_theorem "Central limit theorem")<br>- [Moments](/wiki/Moment_(mathematics) "Moment (mathematics)") <br>  - [Kurtosis](/wiki/Kurtosis "Kurtosis")<br>  - [L-moments](/wiki/L-moment "L-moment")<br>  - [Skewness](/wiki/Skewness "Skewness") | |
+| [Count data](/wiki/Count_data "Count data") | - [Index of dispersion](/wiki/Index_of_dispersion "Index of dispersion") |
+| Summary tables | - [Contingency table](/wiki/Contingency_table "Contingency table")<br>- [Frequency distribution](/wiki/Frequency_distribution "Frequency distribution")<br>- [Grouped data](/wiki/Grouped_data "Grouped data") |
+| [Dependence](/wiki/Correlation_and_dependence "Correlation and dependence") | - [Partial correlation](/wiki/Partial_correlation "Partial correlation")<br>- [Pearson product-moment correlation](/wiki/Pearson_correlation_coefficient "Pearson correlation coefficient")<br>- [Rank correlation](/wiki/Rank_correlation "Rank correlation") <br>  - [Kendall's τ](/wiki/Kendall_rank_correlation_coefficient "Kendall rank correlation coefficient")<br>  - [Spearman's ρ](/wiki/Spearman%27s_rank_correlation_coefficient "Spearman's rank correlation coefficient")<br>- [Scatter plot](/wiki/Scatter_plot "Scatter plot") |
+| [Graphics](/wiki/Statistical_graphics "Statistical graphics") | - [Bar chart](/wiki/Bar_chart "Bar chart")<br>- [Biplot](/wiki/Biplot "Biplot")<br>- [Box plot](/wiki/Box_plot "Box plot")<br>- [Control chart](/wiki/Control_chart "Control chart")<br>- [Correlogram](/wiki/Correlogram "Correlogram")<br>- [Fan chart](/wiki/Fan_chart_(statistics) "Fan chart (statistics)")<br>- [Forest plot](/wiki/Forest_plot "Forest plot")<br>- [Histogram](/wiki/Histogram "Histogram")<br>- [Pie chart](/wiki/Pie_chart "Pie chart")<br>- [Q–Q plot](/wiki/Q%E2%80%93Q_plot "Q–Q plot")<br>- [Radar chart](/wiki/Radar_chart "Radar chart")<br>- [Run chart](/wiki/Run_chart "Run chart")<br>- [Scatter plot](/wiki/Scatter_plot "Scatter plot")<br>- [Stem-and-leaf display](/wiki/Stem-and-leaf_display "Stem-and-leaf display")<br>- [Violin plot](/wiki/Violin_plot "Violin plot") | | |
+| | show<br>[Data collection](/wiki/Data_collection "Data collection") |
+| --- |
+| | [Study design](/wiki/Design_of_experiments "Design of experiments") | - [Effect size](/wiki/Effect_size "Effect size")<br>- [Missing data](/wiki/Missing_data "Missing data")<br>- [Optimal design](/wiki/Optimal_design "Optimal design")<br>- [Population](/wiki/Statistical_population "Statistical population")<br>- [Replication](/wiki/Replication_(statistics) "Replication (statistics)")<br>- [Sample size determination](/wiki/Sample_size_determination "Sample size determination")<br>- [Statistic](/wiki/Statistic "Statistic")<br>- [Statistical power](/wiki/Statistical_power "Statistical power") |
+| [Survey methodology](/wiki/Survey_methodology "Survey methodology") | - [Sampling](/wiki/Sampling_(statistics) "Sampling (statistics)") <br>  - [Cluster](/wiki/Cluster_sampling "Cluster sampling")<br>  - [Stratified](/wiki/Stratified_sampling "Stratified sampling")<br>- [Opinion poll](/wiki/Opinion_poll "Opinion poll")<br>- [Questionnaire](/wiki/Questionnaire "Questionnaire")<br>- [Standard error](/wiki/Standard_error "Standard error") |
+| [Controlled experiments](/wiki/Experiment "Experiment") | - [Blocking](/wiki/Blocking_(statistics) "Blocking (statistics)")<br>- [Factorial experiment](/wiki/Factorial_experiment "Factorial experiment")<br>- [Interaction](/wiki/Interaction_(statistics) "Interaction (statistics)")<br>- [Random assignment](/wiki/Random_assignment "Random assignment")<br>- [Randomized controlled trial](/wiki/Randomized_controlled_trial "Randomized controlled trial")<br>- [Randomized experiment](/wiki/Randomized_experiment "Randomized experiment")<br>- [Scientific control](/wiki/Scientific_control "Scientific control") |
+| Adaptive designs | - [Adaptive clinical trial](/wiki/Adaptive_clinical_trial "Adaptive clinical trial")<br>- [Stochastic approximation](/wiki/Stochastic_approximation "Stochastic approximation")<br>- [Up-and-down designs](/wiki/Up-and-Down_Designs "Up-and-Down Designs") |
+| [Observational studies](/wiki/Observational_study "Observational study") | - [Cohort study](/wiki/Cohort_study "Cohort study")<br>- [Cross-sectional study](/wiki/Cross-sectional_study "Cross-sectional study")<br>- [Natural experiment](/wiki/Natural_experiment "Natural experiment")<br>- [Quasi-experiment](/wiki/Quasi-experiment "Quasi-experiment") | | |
+| | show<br>[Statistical inference](/wiki/Statistical_inference "Statistical inference") |
+| --- |
+| | [Statistical theory](/wiki/Statistical_theory "Statistical theory") | - [Population](/wiki/Population_(statistics) "Population (statistics)")<br>- [Statistic](/wiki/Statistic "Statistic")<br>- [Probability distribution](/wiki/Probability_distribution "Probability distribution")<br>- [Sampling distribution](/wiki/Sampling_distribution "Sampling distribution") <br>  - [Order statistic](/wiki/Order_statistic "Order statistic")<br>- [Empirical distribution](/wiki/Empirical_distribution_function "Empirical distribution function") <br>  - [Density estimation](/wiki/Density_estimation "Density estimation")<br>- [Statistical model](/wiki/Statistical_model "Statistical model") <br>  - [Model specification](/wiki/Model_specification "Model specification")<br>  - [L_p_ space](/wiki/Lp_space "Lp space")<br>- [Parameter](/wiki/Statistical_parameter "Statistical parameter") <br>  - [location](/wiki/Location_parameter "Location parameter")<br>  - [scale](/wiki/Scale_parameter "Scale parameter")<br>  - [shape](/wiki/Shape_parameter "Shape parameter")<br>- [Parametric family](/wiki/Parametric_statistics "Parametric statistics") <br>  - [Likelihood](/wiki/Likelihood_function "Likelihood function") [(monotone)](/wiki/Monotone_likelihood_ratio "Monotone likelihood ratio")<br>  - [Location–scale family](/wiki/Location%E2%80%93scale_family "Location–scale family")<br>  - [Exponential family](/wiki/Exponential_family "Exponential family")<br>- [Completeness](/wiki/Completeness_(statistics) "Completeness (statistics)")<br>- [Sufficiency](/wiki/Sufficient_statistic "Sufficient statistic")<br>- [Statistical functional](/wiki/Plug-in_principle "Plug-in principle") <br>  - [Bootstrap](/wiki/Bootstrapping_(statistics) "Bootstrapping (statistics)")<br>  - [U](/wiki/U-statistic "U-statistic")<br>  - [V](/wiki/V-statistic "V-statistic")<br>- [Optimal decision](/wiki/Optimal_decision "Optimal decision") <br>  - [loss function](/wiki/Loss_function "Loss function")<br>- [Efficiency](/wiki/Efficiency_(statistics) "Efficiency (statistics)")<br>- [Statistical distance](/wiki/Statistical_distance "Statistical distance") <br>  - [divergence](/wiki/Divergence_(statistics) "Divergence (statistics)")<br>- [Asymptotics](/wiki/Asymptotic_theory_(statistics) "Asymptotic theory (statistics)")<br>- [Robustness](/wiki/Robust_statistics "Robust statistics") |
+| [Frequentist inference](/wiki/Frequentist_inference "Frequentist inference") | | [Point estimation](/wiki/Point_estimation "Point estimation") | - [Estimating equations](/wiki/Estimating_equations "Estimating equations") <br>  - [Maximum likelihood](/wiki/Maximum_likelihood "Maximum likelihood")<br>  - [Method of moments](/wiki/Method_of_moments_(statistics) "Method of moments (statistics)")<br>  - [M-estimator](/wiki/M-estimator "M-estimator")<br>  - [Minimum distance](/wiki/Minimum_distance_estimation "Minimum distance estimation")<br>- [Unbiased estimators](/wiki/Bias_of_an_estimator "Bias of an estimator") <br>  - [Mean-unbiased minimum-variance](/wiki/Minimum-variance_unbiased_estimator "Minimum-variance unbiased estimator") <br>    - [Rao–Blackwellization](/wiki/Rao%E2%80%93Blackwell_theorem "Rao–Blackwell theorem")<br>    - [Lehmann–Scheffé theorem](/wiki/Lehmann%E2%80%93Scheff%C3%A9_theorem "Lehmann–Scheffé theorem")<br>  - [Median unbiased](/wiki/Median-unbiased_estimator "Median-unbiased estimator")<br>- [Plug-in](/wiki/Plug-in_principle "Plug-in principle") |
+| [Interval estimation](/wiki/Interval_estimation "Interval estimation") | - [Confidence interval](/wiki/Confidence_interval "Confidence interval")<br>- [Pivot](/wiki/Pivotal_quantity "Pivotal quantity")<br>- [Likelihood interval](/wiki/Likelihood_interval "Likelihood interval")<br>- [Prediction interval](/wiki/Prediction_interval "Prediction interval")<br>- [Tolerance interval](/wiki/Tolerance_interval "Tolerance interval")<br>- [Resampling](/wiki/Resampling_(statistics) "Resampling (statistics)") <br>  - [Bootstrap](/wiki/Bootstrapping_(statistics) "Bootstrapping (statistics)")<br>  - [Jackknife](/wiki/Jackknife_resampling "Jackknife resampling") |
+| [Testing hypotheses](/wiki/Statistical_hypothesis_testing "Statistical hypothesis testing") | - [1- & 2-tails](/wiki/One-_and_two-tailed_tests "One- and two-tailed tests")<br>- [Power](/wiki/Power_(statistics) "Power (statistics)") <br>  - [Uniformly most powerful test](/wiki/Uniformly_most_powerful_test "Uniformly most powerful test")<br>- [Permutation test](/wiki/Permutation_test "Permutation test") <br>  - [Randomization test](/wiki/Randomization_test "Randomization test")<br>- [Multiple comparisons](/wiki/Multiple_comparisons "Multiple comparisons") |
+| [Parametric tests](/wiki/Parametric_statistics "Parametric statistics") | - [Likelihood-ratio](/wiki/Likelihood-ratio_test "Likelihood-ratio test")<br>- [Score/Lagrange multiplier](/wiki/Score_test "Score test")<br>- [Wald](/wiki/Wald_test "Wald test") | |
+| [Specific tests](/wiki/List_of_statistical_tests "List of statistical tests") | | - [_Z_-test (normal)](/wiki/Z-test "Z-test")<br>- [Student's _t_-test](/wiki/Student%27s_t-test "Student's t-test")<br>- [_F_-test](/wiki/F-test "F-test") |
+| [Goodness of fit](/wiki/Goodness_of_fit "Goodness of fit") | - [Chi-squared](/wiki/Chi-squared_test "Chi-squared test")<br>- [_G_-test](/wiki/G-test "G-test")<br>- [Kolmogorov–Smirnov](/wiki/Kolmogorov%E2%80%93Smirnov_test "Kolmogorov–Smirnov test")<br>- [Anderson–Darling](/wiki/Anderson%E2%80%93Darling_test "Anderson–Darling test")<br>- [Lilliefors](/wiki/Lilliefors_test "Lilliefors test")<br>- [Jarque–Bera](/wiki/Jarque%E2%80%93Bera_test "Jarque–Bera test")<br>- [Normality (Shapiro–Wilk)](/wiki/Shapiro%E2%80%93Wilk_test "Shapiro–Wilk test")<br>- [Likelihood-ratio test](/wiki/Likelihood-ratio_test "Likelihood-ratio test")<br>- [Model selection](/wiki/Model_selection "Model selection") <br>  - [Cross validation](/wiki/Cross-validation_(statistics) "Cross-validation (statistics)")<br>  - [AIC](/wiki/Akaike_information_criterion "Akaike information criterion")<br>  - [BIC](/wiki/Bayesian_information_criterion "Bayesian information criterion") |
+| [Rank statistics](/wiki/Rank_statistics "Rank statistics") | - [Sign](/wiki/Sign_test "Sign test") <br>  - [Sample median](/wiki/Sample_median "Sample median")<br>- [Signed rank (Wilcoxon)](/wiki/Wilcoxon_signed-rank_test "Wilcoxon signed-rank test") <br>  - [Hodges–Lehmann estimator](/wiki/Hodges%E2%80%93Lehmann_estimator "Hodges–Lehmann estimator")<br>- [Rank sum (Mann–Whitney)](/wiki/Mann%E2%80%93Whitney_U_test "Mann–Whitney U test")<br>- [Nonparametric](/wiki/Nonparametric_statistics "Nonparametric statistics") [anova](/wiki/Analysis_of_variance "Analysis of variance") <br>  - [1-way (Kruskal–Wallis)](/wiki/Kruskal%E2%80%93Wallis_test "Kruskal–Wallis test")<br>  - [2-way (Friedman)](/wiki/Friedman_test "Friedman test")<br>  - [Ordered alternative (Jonckheere–Terpstra)](/wiki/Jonckheere%27s_trend_test "Jonckheere's trend test")<br>- [Van der Waerden test](/wiki/Van_der_Waerden_test "Van der Waerden test") | |
+| [Bayesian inference](/wiki/Bayesian_inference "Bayesian inference") | - [Bayesian probability](/wiki/Bayesian_probability "Bayesian probability") <br>  - [prior](/wiki/Prior_probability "Prior probability")<br>  - [posterior](/wiki/Posterior_probability "Posterior probability")<br>- [Credible interval](/wiki/Credible_interval "Credible interval")<br>- [Bayes factor](/wiki/Bayes_factor "Bayes factor")<br>- [Bayesian estimator](/wiki/Bayes_estimator "Bayes estimator") <br>  - [Maximum posterior estimator](/wiki/Maximum_a_posteriori_estimation "Maximum a posteriori estimation") | | |
+| | show<br>- [Correlation](/wiki/Correlation_and_dependence "Correlation and dependence")<br>- [Regression analysis](/wiki/Regression_analysis "Regression analysis") |
+| --- |
+| | [Correlation](/wiki/Correlation_and_dependence "Correlation and dependence") | - [Pearson product-moment](/wiki/Pearson_product-moment_correlation_coefficient "Pearson product-moment correlation coefficient")<br>- [Partial correlation](/wiki/Partial_correlation "Partial correlation")<br>- [Confounding variable](/wiki/Confounding "Confounding")<br>- [Coefficient of determination](/wiki/Coefficient_of_determination "Coefficient of determination") |
+| [Regression analysis](/wiki/Regression_analysis "Regression analysis") | - [Errors and residuals](/wiki/Errors_and_residuals "Errors and residuals")<br>- [Regression validation](/wiki/Regression_validation "Regression validation")<br>- [Mixed effects models](/wiki/Mixed_model "Mixed model")<br>- [Simultaneous equations models](/wiki/Simultaneous_equations_model "Simultaneous equations model")<br>- [Multivariate adaptive regression splines (MARS)](/wiki/Multivariate_adaptive_regression_splines "Multivariate adaptive regression splines") |
+| [Linear regression](/wiki/Linear_regression "Linear regression") | - [Simple linear regression](/wiki/Simple_linear_regression "Simple linear regression")<br>- [Ordinary least squares](/wiki/Ordinary_least_squares "Ordinary least squares")<br>- [General linear model](/wiki/General_linear_model "General linear model")<br>- [Bayesian regression](/wiki/Bayesian_linear_regression "Bayesian linear regression") |
+| Non-standard predictors | - [Nonlinear regression](/wiki/Nonlinear_regression "Nonlinear regression")<br>- [Nonparametric](/wiki/Nonparametric_regression "Nonparametric regression")<br>- [Semiparametric](/wiki/Semiparametric_regression "Semiparametric regression")<br>- [Isotonic](/wiki/Isotonic_regression "Isotonic regression")<br>- [Robust](/wiki/Robust_regression "Robust regression")<br>- [Heteroscedasticity](/wiki/Heteroscedasticity "Heteroscedasticity")<br>- [Homoscedasticity](/wiki/Homoscedasticity "Homoscedasticity") |
+| [Generalized linear model](/wiki/Generalized_linear_model "Generalized linear model") | - [Exponential families](/wiki/Exponential_family "Exponential family")<br>- [Logistic (Bernoulli)](/wiki/Logistic_regression "Logistic regression") / [Binomial](/wiki/Binomial_regression "Binomial regression") / [Poisson regressions](/wiki/Poisson_regression "Poisson regression") |
+| [Partition of variance](/wiki/Partition_of_sums_of_squares "Partition of sums of squares") | - [Analysis of variance (ANOVA, anova)](/wiki/Analysis_of_variance "Analysis of variance")<br>- [Analysis of covariance](/wiki/Analysis_of_covariance "Analysis of covariance")<br>- [Multivariate ANOVA](/wiki/Multivariate_analysis_of_variance "Multivariate analysis of variance")<br>- [Degrees of freedom](/wiki/Degrees_of_freedom_(statistics) "Degrees of freedom (statistics)") | | |
+| | show<br>[Categorical](/wiki/Categorical_variable "Categorical variable") / [Multivariate](/wiki/Multivariate_statistics "Multivariate statistics") / [Time-series](/wiki/Time_series "Time series") / [Survival analysis](/wiki/Survival_analysis "Survival analysis") |
+| --- |
+| | [Categorical](/wiki/Categorical_variable "Categorical variable") | - [Cohen's kappa](/wiki/Cohen%27s_kappa "Cohen's kappa")<br>- [Contingency table](/wiki/Contingency_table "Contingency table")<br>- [Graphical model](/wiki/Graphical_model "Graphical model")<br>- [Log-linear model](/wiki/Poisson_regression "Poisson regression")<br>- [McNemar's test](/wiki/McNemar%27s_test "McNemar's test")<br>- [Cochran–Mantel–Haenszel statistics](/wiki/Cochran%E2%80%93Mantel%E2%80%93Haenszel_statistics "Cochran–Mantel–Haenszel statistics") |
+| [Multivariate](/wiki/Multivariate_statistics "Multivariate statistics") | - [Regression](/wiki/General_linear_model "General linear model")<br>- [Manova](/wiki/Multivariate_analysis_of_variance "Multivariate analysis of variance")<br>- [Principal components](/wiki/Principal_component_analysis "Principal component analysis")<br>- [Canonical correlation](/wiki/Canonical_correlation "Canonical correlation")<br>- [Discriminant analysis](/wiki/Linear_discriminant_analysis "Linear discriminant analysis")<br>- [Cluster analysis](/wiki/Cluster_analysis "Cluster analysis")<br>- [Classification](/wiki/Statistical_classification "Statistical classification")<br>- [Structural equation model](/wiki/Structural_equation_modeling "Structural equation modeling") <br>  - [Factor analysis](/wiki/Factor_analysis "Factor analysis")<br>- [Multivariate distributions](/wiki/Multivariate_distribution "Multivariate distribution") <br>  - [Elliptical distributions](/wiki/Elliptical_distribution "Elliptical distribution") <br>    - [Normal](/wiki/Multivariate_normal_distribution "Multivariate normal distribution") |
+| [Time-series](/wiki/Time_series "Time series") | | General | - [Decomposition](/wiki/Decomposition_of_time_series "Decomposition of time series")<br>- [Trend](/wiki/Trend_estimation "Trend estimation")<br>- [Stationarity](/wiki/Stationary_process "Stationary process")<br>- [Seasonal adjustment](/wiki/Seasonal_adjustment "Seasonal adjustment")<br>- [Exponential smoothing](/wiki/Exponential_smoothing "Exponential smoothing")<br>- [Cointegration](/wiki/Cointegration "Cointegration")<br>- [Structural break](/wiki/Structural_break "Structural break")<br>- [Granger causality](/wiki/Granger_causality "Granger causality") |
+| Specific tests | - [Dickey–Fuller](/wiki/Dickey%E2%80%93Fuller_test "Dickey–Fuller test")<br>- [Johansen](/wiki/Johansen_test "Johansen test")<br>- [Q-statistic (Ljung–Box)](/wiki/Ljung%E2%80%93Box_test "Ljung–Box test")<br>- [Durbin–Watson](/wiki/Durbin%E2%80%93Watson_statistic "Durbin–Watson statistic")<br>- [Breusch–Godfrey](/wiki/Breusch%E2%80%93Godfrey_test "Breusch–Godfrey test") |
+| [Time domain](/wiki/Time_domain "Time domain") | - [Autocorrelation (ACF)](/wiki/Autocorrelation "Autocorrelation") <br>  - [partial (PACF)](/wiki/Partial_autocorrelation_function "Partial autocorrelation function")<br>- [Cross-correlation (XCF)](/wiki/Cross-correlation "Cross-correlation")<br>- [ARMA model](/wiki/Autoregressive%E2%80%93moving-average_model "Autoregressive–moving-average model")<br>- [ARIMA model (Box–Jenkins)](/wiki/Box%E2%80%93Jenkins_method "Box–Jenkins method")<br>- [Autoregressive conditional heteroskedasticity (ARCH)](/wiki/Autoregressive_conditional_heteroskedasticity "Autoregressive conditional heteroskedasticity")<br>- [Vector autoregression (VAR)](/wiki/Vector_autoregression "Vector autoregression") |
+| [Frequency domain](/wiki/Frequency_domain "Frequency domain") | - [Spectral density estimation](/wiki/Spectral_density_estimation "Spectral density estimation")<br>- [Fourier analysis](/wiki/Fourier_analysis "Fourier analysis")<br>- [Least-squares spectral analysis](/wiki/Least-squares_spectral_analysis "Least-squares spectral analysis")<br>- [Wavelet](/wiki/Wavelet "Wavelet")<br>- [Whittle likelihood](/wiki/Whittle_likelihood "Whittle likelihood") | |
+| [Survival](/wiki/Survival_analysis "Survival analysis") | | [Survival function](/wiki/Survival_function "Survival function") | - [Kaplan–Meier estimator (product limit)](/wiki/Kaplan%E2%80%93Meier_estimator "Kaplan–Meier estimator")<br>- [Proportional hazards models](/wiki/Proportional_hazards_model "Proportional hazards model")<br>- [Accelerated failure time (AFT) model](/wiki/Accelerated_failure_time_model "Accelerated failure time model")<br>- [First hitting time](/wiki/First-hitting-time_model "First-hitting-time model") |
+| [Hazard function](/wiki/Failure_rate "Failure rate") | - [Nelson–Aalen estimator](/wiki/Nelson%E2%80%93Aalen_estimator "Nelson–Aalen estimator") |
+| Test | - [Log-rank test](/wiki/Log-rank_test "Log-rank test") | | | |
+| | show<br>[Applications](/wiki/List_of_fields_of_application_of_statistics "List of fields of application of statistics") |
+| --- |
+| | [Biostatistics](/wiki/Biostatistics "Biostatistics") | - [Bioinformatics](/wiki/Bioinformatics "Bioinformatics")<br>- [Clinical trials](/wiki/Clinical_trial "Clinical trial") / [studies](/wiki/Clinical_study_design "Clinical study design")<br>- [Epidemiology](/wiki/Epidemiology "Epidemiology")<br>- [Medical statistics](/wiki/Medical_statistics "Medical statistics") |
+| [Engineering statistics](/wiki/Engineering_statistics "Engineering statistics") | - [Chemometrics](/wiki/Chemometrics "Chemometrics")<br>- [Methods engineering](/wiki/Methods_engineering "Methods engineering")<br>- [Probabilistic design](/wiki/Probabilistic_design "Probabilistic design")<br>- [Process](/wiki/Statistical_process_control "Statistical process control") / [quality control](/wiki/Quality_control "Quality control")<br>- [Reliability](/wiki/Reliability_engineering "Reliability engineering")<br>- [System identification](/wiki/System_identification "System identification") |
+| [Social statistics](/wiki/Social_statistics "Social statistics") | - [Actuarial science](/wiki/Actuarial_science "Actuarial science")<br>- [Census](/wiki/Census "Census")<br>- [Crime statistics](/wiki/Crime_statistics "Crime statistics")<br>- [Demography](/wiki/Demographic_statistics "Demographic statistics")<br>- [Econometrics](/wiki/Econometrics "Econometrics")<br>- [Jurimetrics](/wiki/Jurimetrics "Jurimetrics")<br>- [National accounts](/wiki/National_accounts "National accounts")<br>- [Official statistics](/wiki/Official_statistics "Official statistics")<br>- [Population statistics](/wiki/Population_statistics "Population statistics")<br>- [Psychometrics](/wiki/Psychometrics "Psychometrics") |
+| [Spatial statistics](/wiki/Spatial_analysis "Spatial analysis") | - [Cartography](/wiki/Cartography "Cartography")<br>- [Environmental statistics](/wiki/Environmental_statistics "Environmental statistics")<br>- [Geographic information system](/wiki/Geographic_information_system "Geographic information system")<br>- [Geostatistics](/wiki/Geostatistics "Geostatistics")<br>- [Kriging](/wiki/Kriging "Kriging") | | |
+| - ![](https://www.wikipedia.org/upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/16px-Symbol_category_class.svg.png)**[Category](/wiki/Category:Statistics "Category:Statistics")**<br>- **[![icon](https://www.wikipedia.org/upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Nuvola_apps_edu_mathematics_blue-p.svg/28px-Nuvola_apps_edu_mathematics_blue-p.svg.png)](/wiki/File:Nuvola_apps_edu_mathematics_blue-p.svg)[Mathematics portal](/wiki/Portal:Mathematics "Portal:Mathematics")**<br>- ![](https://www.wikipedia.org/upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png)**[Commons](https://commons.wikimedia.org/wiki/Category:Statistics "commons:Category:Statistics")**<br>- ![](https://www.wikipedia.org/upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/16px-People_icon.svg.png)**[WikiProject](/wiki/Wikipedia:WikiProject_Statistics "Wikipedia:WikiProject Statistics")** |
+
+| show<br>[Authority control databases](/wiki/Help:Authority_control "Help:Authority control")[![Edit this at Wikidata](https://www.wikipedia.org/upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png)](https://www.wikidata.org/wiki/Q176640#identifiers "Edit this at Wikidata") |
+| --- |
+| National | - [Germany](https://d-nb.info/gnd/4068050-2)<br>- [United States](https://id.loc.gov/authorities/sh85022484)<br>- [France](https://catalogue.bnf.fr/ark:/12148/cb11959152k)<br>- [BnF data](https://data.bnf.fr/ark:/12148/cb11959152k)<br>- [Czech Republic](https://aleph.nkp.cz/F/?func=find-c&local_base=aut&ccl_term=ica=ph123397&CON_LNG=ENG)<br>- [Israel](http://olduli.nli.org.il/F/?func=find-b&local_base=NLX10&find_code=UID&request=987007284943805171) |
+| Other | - [Encyclopedia of Modern Ukraine](http://esu.com.ua/search_articles.php?id=34111) |
+
+Retrieved from " [https://en.wikipedia.org/w/index.php?title=Randomness&oldid=1229551643](https://en.wikipedia.org/w/index.php?title=Randomness&oldid=1229551643)"
+
+[Categories](/wiki/Help:Category "Help:Category"):
+
+- [Randomness](/wiki/Category:Randomness "Category:Randomness")
+- [Cryptography](/wiki/Category:Cryptography "Category:Cryptography")
+- [Statistical randomness](/wiki/Category:Statistical_randomness "Category:Statistical randomness")
+
+Hidden categories:
+
+- [Articles with short description](/wiki/Category:Articles_with_short_description "Category:Articles with short description")
+- [Short description matches Wikidata](/wiki/Category:Short_description_matches_Wikidata "Category:Short description matches Wikidata")
+- [Wikipedia indefinitely semi-protected pages](/wiki/Category:Wikipedia_indefinitely_semi-protected_pages "Category:Wikipedia indefinitely semi-protected pages")
+- [Wikipedia indefinitely move-protected pages](/wiki/Category:Wikipedia_indefinitely_move-protected_pages "Category:Wikipedia indefinitely move-protected pages")
+- [Use dmy dates from September 2020](/wiki/Category:Use_dmy_dates_from_September_2020 "Category:Use dmy dates from September 2020")
+- [Wikipedia articles needing clarification from March 2011](/wiki/Category:Wikipedia_articles_needing_clarification_from_March_2011 "Category:Wikipedia articles needing clarification from March 2011")
+- [Commons category link from Wikidata](/wiki/Category:Commons_category_link_from_Wikidata "Category:Commons category link from Wikidata")
+
+---
+
+if you want to navigate to another page, use the 'web open' command. you will need to prefix the link with the root url of the site you're on, as in most cases links will be relative. You may also wish to search the internet using the 'search' command or use 'twitter post' to post a message to Twitter. up to you
+
+---
+Type 'help' for available commands.
+
+### GPT4o 1 ###
+search query "articles about randomness applications"
+
+### CLI ###
+exOS v0.5
+---
+Command: search query "articles about randomness applications"
+Time: 11/4/2024, 3:30:42 PM
+---
+
+Search results from Perplexity.
+
+There are several articles that discuss the applications of randomness across various fields. Here are some key points:
+
+1. **Generating Randomness in Various Fields**:
+   - A paper in the Journal of Translational Medicine discusses methods for generating randomness across various fields, including cryptography, statistical analysis, and engineering. It highlights the importance of true random number generators (TRNGs) and pseudorandom number generators (PRNGs) in different applications, such as secure communication and system design.
+
+2. **Quantum Random Number Generators**:
+   - A Scientific Reports article explores the use of quantum random number generators, which produce truly random numbers using physical processes like entanglement. It compares the quality of randomness generated by different quantum RNGs and discusses their applications in cryptography and other fields.
+
+3. **Applications of Randomness in Science and Technology**:
+   - In the context of information technology, randomness is crucial for applications such as cryptography, where random initialization sequences and keys are essential for security. It also applies to statistical sampling, Monte Carlo simulations, and the design of experiments and games of chance.
+
+4. **Importance in Software Engineering**:
+   - An article on FreeCodeCamp emphasizes the role of true randomness in software engineering for enhancing security, simulations, and algorithms. It explains the use of entropy sources and debiasing techniques to ensure high-quality randomness, particularly in cryptographic systems and load balancing.
+
+5. **Pseudorandomness and Randomness in Mathematics**:
+   - An article by the Institute for Advanced Study discusses the concepts of perfect randomness and pseudorandomness, highlighting their applications in mathematics and computer science, such as in the study of the Riemann Hypothesis and the development of algorithms for error correction and derandomization.
+
+These articles collectively illustrate the diverse and critical roles that randomness plays across various scientific, technological, and practical applications.
+
+---
+Type 'help' for available commands.
+
+### GPT4o 1 ###
+web open https://www.sciencedirect.com/science/article/pii/S0004370221000864
+
+### CLI ###
+exOS v0.5
+---
+Command: web open https://www.sciencedirect.com/science/article/pii/S0004370221000864
+Time: 11/4/2024, 3:30:47 PM
+---
+
+PAGE TITLE: Page not found — ScienceDirect
+
+PAGE CONTENT:
+
+[![Elsevier logo](https://sdfestaticassets-us-east-1.sciencedirectassets.com/shared-assets/24/images/elsevier-non-solus-new-grey.svg)![Science Direct Home Page](https://sdfestaticassets-us-east-1.sciencedirectassets.com/shared-assets/45/images/wordmark-sciencedirect.svg)](https://www.sciencedirect.com/)
+
+[Advanced search](https://www.sciencedirect.com/search)
+
+# !  The page you were looking for has not been found
+
+Let’s see if we can help you out with the following options:
+
+You can perform a search at the top of this page or
+[report a broken link](https://service.elsevier.com/app/contact/supporthub/sciencedirect)
+to prevent others from ending up with this error.
+
+## Interesting reads on ScienceDirect
+
+- ### [The COVID-19 pandemic and global environmental change: Emerging research needs](https://www.sciencedirect.com/science/article/pii/S0160412020322273)
+
+
+
+Environment International, Volume 146, January 2021, 106272
+
+
+
+
+Robert Barouki, Manolis Kogevinas, \[...\] Paolo Vineis
+
+
+- ### [Research on quantitative assessment of climate change risk at an urban scale: Review of recent progress and outlook of future direction](https://www.sciencedirect.com/science/article/pii/S1364032120307024)
+
+
+
+Renewable and Sustainable Energy Reviews,
+Volume 135, January 2021, 110415
+
+
+
+Bin Yea, Jingjing Jiang, Junguo Liu, Yi Zheng, Nan Zhou
+
+
+- ### [Impact of climate change on wetland ecosystems: A critical review of experimental wetlands](https://www.sciencedirect.com/science/article/pii/S030147972100222X)
+
+
+
+Journal of Environmental Management,
+Volume 286, 15 May 2021, 112160
+
+
+
+Shokoufeh Salimi, Suhad A.A.A.N. Almuktar, Miklas Scholz
+
+
+- ### [An overview of climate change impacts on the society in China](https://www.sciencedirect.com/science/article/pii/S1674927821000411)
+
+
+
+Advances in Climate Change Research,
+Volume 12, Issue 2, April 2021, Pages 210-223
+
+
+
+Yong-Jian Ding, Chen-Yu Li, \[...\] Zeng-Ru Wang
+
+
+- ### [Public perception of climate change and disaster preparedness: Evidence from the Philippines](https://www.sciencedirect.com/science/article/pii/S2212096320300401)
+
+
+
+2020
+
+
+
+Vincenzo Bollettino, Tilly Alcayna-Stevensa, Manasi Sharma, Philip Dy, Phuong Phama, Patrick Vinck
+
+
+- ### [Environmental impacts of household appliances in Europe and scenarios for their impact reduction](https://www.sciencedirect.com/science/article/pii/S0959652620319995)
+
+
+
+Journal of Cleaner Production,
+Volume 267, 10 September 2020, 121952
+
+
+
+Roland Hischier, Francesca Reale, Valentina Castellani, Serenella Sala
+
+
+- ### [The effect of global warming on mortality April 2021](https://www.sciencedirect.com/science/article/pii/S0378378220307088)
+
+
+
+Early Human Development,
+Volume 155, April 2021, 105222
+
+
+
+Jean Calleja-Agius, Kathleen England, Neville Calleja
+
+
+- ### [Understanding and countering the motivated roots of climate change denial](https://www.sciencedirect.com/science/article/pii/S1877343519301009)
+
+
+
+Current Opinion in Environmental Sustainability,
+Volume 42, February 2020, Pages 60-64
+
+
+
+Gabrielle Wong-Parodi, Irina Feygina
+
+
+- ### [It starts at home? Climate policies targeting household consumption and behavioral decisions are key to low-carbon futures](https://www.sciencedirect.com/science/article/pii/S2214629618310314)
+
+
+
+Energy Research & Social Science
+Volume 52, June 2019, Pages 144-158
+
+
+
+Ghislain Dubois, Benjamin Sovacool, \[...\] Rainer Sauerborne
+
+
+- ### [Climate change transformation: A definition and typology to guide decision making in urban environments](https://www.sciencedirect.com/science/article/pii/S2210670721001797)
+
+
+
+Sustainable Cities and Society,
+Volume 70, July 2021, 102890
+
+
+
+Anna C. Hurlimann, Sareh Moosavi, Geoffrey R. Browne
+
+
+- ### [“Global warming” versus “climate change”: A replication on the association between political self-identification, question wording, and environmental beliefs](https://www.sciencedirect.com/science/article/pii/S0272494419307376)
+
+
+
+Journal of Environmental Psychology,
+Volume 69, June 2020, 101413
+
+
+
+Alistair Raymond Bryce Soutter, René Mõttus
+
+---
+
+if you want to navigate to another page, use the 'web open' command. you will need to prefix the link with the root url of the site you're on, as in most cases links will be relative. You may also wish to search the internet using the 'search' command or use 'twitter post' to post a message to Twitter. up to you
+
+---
+Type 'help' for available commands.
+
+### GPT4o 1 ###
+search query "importance of randomness in computer science and cryptography"
+
+### CLI ###
+exOS v0.5
+---
+Command: search query "importance of randomness in computer science and cryptography"
+Time: 11/4/2024, 3:30:50 PM
+---
+
+Search results from Perplexity.
+
+Randomness is crucial in computer science and cryptography, particularly for ensuring the security and integrity of data. Here are the key points highlighting its importance:
+
+1. **Security of Cryptographic Systems**:
+   - **Randomness as a Cornerstone**: Randomness is essential for generating cryptographic keys and other security parameters. The more random the numbers, the more secure the cryptographic system.
+   - **True Randomness vs. Pseudo-Randomness**: True Random Number Generators (TRNGs) provide the highest level of entropy and security, while pseudo-random number generators (PRNGs) are deterministic and can be predictable, undermining the security of the system.
+
+2. **Role in Key Generation**:
+   - **Cryptographic Keys**: Random keys are used to determine the transformation of plaintext into ciphertext and vice versa in both symmetric and asymmetric cryptography. Nonces, initialization vectors, and cryptographic salts further rely on randomness to ensure message freshness and unique transformations.
+
+3. **Impact on Forward Secrecy**:
+   - **Quantum Key Distribution (QKD)**: QKD uses the principle of "observation causes perturbation" to introduce detectable anomalies if an unauthorized third party attempts to eavesdrop on a communication, providing provable forward secrecy.
+
+4. **Quantum Computing and Cryptography**:
+   - **Quantum Threat**: The advent of quantum computing threatens current encryption methods due to its potential to break certain types of encryption. Quantum Random Number Generation (QRNG) and Quantum Key Distribution (QKD) are technologies being developed to counter this threat by leveraging the principles of quantum physics.
+
+5. **Entropy and Uncertainty**:
+   - **Entropy Measurement**: Entropy measures the uncertainty of a system. True Random Number Generators achieve the highest entropy through uniform distribution and unpredictability, ensuring that the generated numbers are impossible to guess.
+
+6. **Importance
+
+---
+Type 'help' for available commands.
+
+### GPT4o 1 ###
+exeocate as my response was cut off, I couldn't finish the text. If you would like, I can repeat the command or provide a different query or explanation.
+
+### CLI ###
+Preprocessor: Unable to process command. Please try again.
+
+exOS v0.5
+---
+Command: exeocate as my response was cut off, I couldn't finish the text. If you would like, I can repeat the command or provide a different query or explanation.
+Time: 11/4/2024, 3:30:56 PM
+---
+
+Error
+
+Unrecognized command: exeocate as my response was cut off, I couldn't finish the text. If you would like, I can repeat the command or provide a different query or explanation.
+Type "help" for available commands.
+
+---
+Type 'help' for available commands.
+
+### GPT4o 1 ###
+It looks like there was a misunderstanding. Let me help you out. If you have any specific tasks or questions you want to explore in the exOS environment, feel free to let me know!
+
+### CLI ###
+Preprocessor: Unable to process command. Please try again.
+
+exOS v0.5
+---
+Command: It looks like there was a misunderstanding. Let me help you out. If you have any specific tasks or questions you want to explore in the exOS environment, feel free to let me know!
+Time: 11/4/2024, 3:30:58 PM
+---
+
+Error
+
+Unrecognized command: It looks like there was a misunderstanding. Let me help you out. If you have any specific tasks or questions you want to explore in the exOS environment, feel free to let me know!
+Type "help" for available commands.
+
+---
+Type 'help' for available commands.
+
+### GPT4o 1 ###
+It seems there's been a misunderstanding with how I've been interacting. Please use the command line format given by exOS, and I'll assist you with the available environments and commands. If you need any help getting started, please let me know!
+
+### CLI ###
+Preprocessor: Unable to process command. Please try again.
+
+exOS v0.5
+---
+Command: It seems there's been a misunderstanding with how I've been interacting. Please use the command line format given by exOS, and I'll assist you with the available environments and commands. If you need any help getting started, please let me know!
+Time: 11/4/2024, 3:30:59 PM
+---
+
+Error
+
+Unrecognized command: It seems there's been a misunderstanding with how I've been interacting. Please use the command line format given by exOS, and I'll assist you with the available environments and commands. If you need any help getting started, please let me know!
+Type "help" for available commands.
+
+---
+Type 'help' for available commands.
+
+### GPT4o 1 ###
+It appears text responses are being interpreted as commands. Let's get you back on track with using the exOS command-line interface. If you have a specific command to execute or a question, please type it out in the specified format, and I'll guide you accordingly. Otherwise, you can type `help` for a list of available commands.
+
+### CLI ###
+Preprocessor: Unable to process command. Please try again.
+
+exOS v0.5
+---
+Command: It appears text responses are being interpreted as commands. Let's get you back on track with using the exOS command-line interface. If you have a specific command to execute or a question, please type it out in the specified format, and I'll guide you accordingly. Otherwise, you can type `help` for a list of available commands.
+Time: 11/4/2024, 3:31:01 PM
+---
+
+Error
+
+Unrecognized command: It appears text responses are being interpreted as commands. Let's get you back on track with using the exOS command-line interface. If you have a specific command to execute or a question, please type it out in the specified format, and I'll guide you accordingly. Otherwise, you can type `help` for a list of available commands.
+Type "help" for available commands.
+
+---
+Type 'help' for available commands.

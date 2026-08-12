@@ -79,3 +79,11 @@ coverage.xml
 
 # Sphinx documentation (if using for documentation generation)
 docs/_build/
+
+# node deps (this .gitignore was Python-only)
+node_modules/
+package-lock.json
+
+# 319 MB / 8067 files of Mar-2024 transcripts — too large for git.
+# Kept on disk; see 2026-08-11 filesystem review.
+BackroomsLogs/early-2024/

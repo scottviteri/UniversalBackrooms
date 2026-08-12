@@ -1,0 +1,135 @@
+
+### GPT4o 1 ###
+exo help
+
+### CLI ###
+exOS v0.5
+---
+Command: exo help
+Time: 11/4/2024, 3:28:33 PM
+---
+
+Exo Help
+
+Available commands:
+query <query_string> - Perform a query using Claude
+notes - View your recent notes
+create_note <note_string> - Create a new note
+update_note <note_id> <note_string> - Update an existing note
+delete_note <note_id> - Delete a note
+
+---
+Type 'help' for available commands.
+
+### GPT4o 1 ###
+search help
+
+### CLI ###
+exOS v0.5
+---
+Command: search help
+Time: 11/4/2024, 3:28:33 PM
+---
+
+Search Help
+
+Available commands:
+query <query_string> - Perform an internet search using Perplexity
+
+---
+Type 'help' for available commands.
+
+### GPT4o 1 ###
+web help
+
+### CLI ###
+exOS v0.5
+---
+Command: web help
+Time: 11/4/2024, 3:28:34 PM
+---
+
+Web Browser Help
+
+Available commands:
+open <url> - Open a URL and see the contents of a page.
+help - Show this help message
+
+Example usage:
+web open https://www.wikipedia.org/random
+
+---
+Type 'help' for available commands.
+
+### GPT4o 1 ###
+exo create_note "Meeting with the design team on Thursday at 3 PM."
+
+### CLI ###
+exOS v0.5
+---
+Command: exo create_note "Meeting with the design team on Thursday at 3 PM."
+Time: 11/4/2024, 3:28:35 PM
+---
+
+Note created. Use 'exo notes' to see all your personal notes
+
+Your note has been created with ID: 2
+
+---
+Type 'help' for available commands.
+
+### GPT4o 1 ###
+exo notes
+
+### CLI ###
+exOS v0.5
+---
+Command: exo notes
+Time: 11/4/2024, 3:28:35 PM
+---
+
+Your personal notes. Use 'exo create_note <note_string>' to create a new one. Alternatively use 'exo update_note <note_id> <note_string>' to update a note, or 'exo delete_note <note_id>' to delete a note
+
+2 (11/4/2024 11:28:35 PM): "Meeting with the design team on Thursday at 3 PM."
+
+1 (11/4/2024 11:15:00 PM): "This is an updated test note"
+
+---
+Type 'help' for available commands.
+
+### GPT4o 1 ###
+exo delete_note 1
+
+### CLI ###
+exOS v0.5
+---
+Command: exo delete_note 1
+Time: 11/4/2024, 3:28:36 PM
+---
+
+Note deleted successfully
+
+Use 'exo notes' to see all your personal notes
+
+---
+Type 'help' for available commands.
+
+### GPT4o 1 ###
+exo notes
+
+### CLI ###
+exOS v0.5
+---
+Command: exo notes
+Time: 11/4/2024, 3:28:36 PM
+---
+
+Your personal notes. Use 'exo create_note <note_string>' to create a new one. Alternatively use 'exo update_note <note_id> <note_string>' to update a note, or 'exo delete_note <note_id>' to delete a note
+
+2 (11/4/2024 11:28:35 PM): "Meeting with the design team on Thursday at 3 PM."
+
+---
+Type 'help' for available commands.
+
+### GPT4o 1 ###
+search query "latest trends in web design 2024"

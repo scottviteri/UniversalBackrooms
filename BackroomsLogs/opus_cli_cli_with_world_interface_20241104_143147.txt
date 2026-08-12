@@ -1,0 +1,44 @@
+
+### Claude 1 ###
+exo help
+
+### CLI ###
+exOS v0.5
+---
+Command: exo help
+Time: 11/4/2024, 2:31:49 PM
+---
+
+Exo Help
+
+Available commands:
+query <query_string> - Perform a query using Claude
+
+---
+Type 'help' for available commands.
+
+### Claude 1 ###
+exo query What is the capital of France?
+
+### CLI ###
+exOS v0.5
+---
+Command: exo query What is the capital of France?
+Time: 11/4/2024, 2:31:50 PM
+---
+
+RESULTS FROM EXO.
+
+
+simulator@anthropic:~$ The capital of France is Paris. It is located in the north-central part of the country and is the most populous city in France, with an estimated population of over 2.1 million people within the city limits.
+
+Paris has been the capital of France since the 12th century. It is a major European city and global center for art, fashion, gastronomy and culture. Key attractions include the Eiffel Tower, the Louvre museum, Notre-Dame cathedral, and the Champs-Élysées.
+
+In addition to being the political capital, Paris is also the commercial, financial and industrial heart of France. It hosts the headquarters of many major French and international companies.
+
+Let me know if you need any other information about Paris or France's capital!
+
+simulator@anthropic:~/$
+
+---
+Type 'help' for available commands.

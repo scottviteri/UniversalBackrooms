@@ -1,0 +1,21 @@
+
+### Claude 1 ###
+exo help
+
+### CLI ###
+exOS v0.5
+---
+Command: exo help
+Time: 11/4/2024, 2:51:10 PM
+---
+
+Exo Help
+
+Available commands:
+query <query_string> - Perform a query using Claude
+
+---
+Type 'help' for available commands.
+
+### Claude 1 ###
+exo query What is the capital of France?

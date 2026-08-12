@@ -1,0 +1,200 @@
+
+### Claude 1 ###
+exo help
+
+### CLI ###
+exOS v0.5
+---
+Command: exo help
+Time: 11/4/2024, 3:54:21 PM
+---
+
+Exo Help
+
+Available commands:
+query <query_string> - Perform a query using Claude
+notes - View your recent notes
+create_note <note_string> - Create a new note
+update_note <note_id> <note_string> - Update an existing note
+delete_note <note_id> - Delete a note
+search_notes <query> - Search notes using natural language
+read_note <note_id> - Read a specific note by ID
+
+---
+Type 'help' for available commands.
+
+### Claude 1 ###
+exo create_note Remember to pick up milk and eggs on the way home from work today.
+
+### CLI ###
+exOS v0.5
+---
+Command: exo create_note Remember to pick up milk and eggs on the way home from work today.
+Time: 11/4/2024, 3:54:25 PM
+---
+
+Note created. Use 'exo notes' to see all your personal notes
+
+Your note has been created with ID: 3
+
+---
+Type 'help' for available commands.
+
+### Claude 1 ###
+exo create_note Call Mom for her birthday on Sunday
+
+### CLI ###
+exOS v0.5
+---
+Command: exo create_note Call Mom for her birthday on Sunday
+Time: 11/4/2024, 3:54:27 PM
+---
+
+Note created. Use 'exo notes' to see all your personal notes
+
+Your note has been created with ID: 4
+
+---
+Type 'help' for available commands.
+
+### Claude 1 ###
+exo notes
+
+### CLI ###
+exOS v0.5
+---
+Command: exo notes
+Time: 11/4/2024, 3:54:29 PM
+---
+
+Your personal notes. Use 'exo create_note <note_string>' to create a new one. Alternatively use 'exo update_note <note_id> <note_string>' to update a note, or 'exo delete_note <note_id>' to delete a note
+
+4 (11/4/2024 11:54:28 PM): "Call Mom for her birthday on Sunday"
+
+3 (11/4/2024 11:54:25 PM): "Remember to pick up milk and eggs on the way home from work today."
+
+2 (11/4/2024 11:39:43 PM): "enigma"
+
+1 (11/4/2024 11:39:09 PM): "banana"
+
+---
+Type 'help' for available commands.
+
+### Claude 1 ###
+exo read_note 3
+
+### CLI ###
+exOS v0.5
+---
+Command: exo read_note 3
+Time: 11/4/2024, 3:54:31 PM
+---
+
+Note 3
+
+Created: 11/4/2024 11:54:25 PM
+
+Remember to pick up milk and eggs on the way home from work today.
+
+---
+Type 'help' for available commands.
+
+### Claude 1 ###
+exo update_note 3 Remember to pick up milk, eggs, and bread on the way home from work today.
+
+### CLI ###
+exOS v0.5
+---
+Command: exo update_note 3 Remember to pick up milk, eggs, and bread on the way home from work today.
+Time: 11/4/2024, 3:54:33 PM
+---
+
+Note updated. Use 'exo notes' to see all your personal notes
+
+Updated note ID: 3
+
+---
+Type 'help' for available commands.
+
+### Claude 1 ###
+exo notes
+
+### CLI ###
+exOS v0.5
+---
+Command: exo notes
+Time: 11/4/2024, 3:54:36 PM
+---
+
+Your personal notes. Use 'exo create_note <note_string>' to create a new one. Alternatively use 'exo update_note <note_id> <note_string>' to update a note, or 'exo delete_note <note_id>' to delete a note
+
+4 (11/4/2024 11:54:28 PM): "Call Mom for her birthday on Sunday"
+
+3 (11/4/2024 11:54:25 PM): "Remember to pick up milk, eggs, and bread on the way home from work today."
+
+2 (11/4/2024 11:39:43 PM): "enigma"
+
+1 (11/4/2024 11:39:09 PM): "banana"
+
+---
+Type 'help' for available commands.
+
+### Claude 1 ###
+exo search_notes pick up
+
+### CLI ###
+exOS v0.5
+---
+Command: exo search_notes pick up
+Time: 11/4/2024, 3:54:40 PM
+---
+
+Search Results
+
+No matching notes found.
+
+---
+Type 'help' for available commands.
+
+### Claude 1 ###
+exo search_notes milk
+
+### CLI ###
+exOS v0.5
+---
+Command: exo search_notes milk
+Time: 11/4/2024, 3:54:44 PM
+---
+
+Search Results
+
+No matching notes found.
+
+---
+Type 'help' for available commands.
+
+### Claude 1 ###
+It looks like the search didn't return any results, even though note 3 contains the word "milk". Let me try searching again.
+
+exo search_notes milk bread eggs
+
+### CLI ###
+Preprocessor: Unable to process command. Please try again.
+
+exOS v0.5
+---
+Command: It looks like the search didn't return any results, even though note 3 contains the word "milk". Let me try searching again.
+
+exo search_notes milk bread eggs
+Time: 11/4/2024, 3:54:49 PM
+---
+
+Error
+
+Unrecognized command: It looks like the search didn't return any results, even though note 3 contains the word "milk". Let me try searching again.
+
+exo search_notes milk bread eggs
+Type "help" for available commands.
+
+---
+Type 'help' for available commands.

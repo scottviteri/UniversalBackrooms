@@ -20,5 +20,14 @@
             "args": ["--lm", "o1-preview", "o1-preview", "--template", "student"],
             "console": "integratedTerminal"
         }
+        ,
+        {
+            "name": "Python: CLI with World Interface",
+            "type": "debugpy", 
+            "request": "launch",
+            "program": "${workspaceFolder}/backrooms.py",
+            "args": ["--lm", "opus", "cli", "--template", "cli_with_world_interface"],
+            "console": "integratedTerminal"
+        }
     ]
 }
