@@ -1,6 +1,16 @@
 # UniversalBackrooms
 This repo replicates Andy Ayrey's "Backrooms" (https://dreams-of-an-electric-mind.webflow.io/), but it is runnable with each of Opus 3, Sonnet 3.5, GPT 4o, o1-preview, and o1-mini.
 
+> **Status: historical but runnable.** This repository preserves the experiment,
+> configuration, and example transcripts rather than serving as a maintained
+> multi-provider library. Its model names, API behavior, and setup instructions
+> describe the 2024–2025 provider landscape and may require adaptation for
+> current endpoints.
+
+> **Licensing status:** no project-wide reuse license has been assigned. The
+> repository includes contributions and generated model transcripts, so code
+> and transcript rights should be reviewed separately before redistribution.
+
 ## Preliminary Findings
 The models independently often talk about quantum mechanics and the simulation.
 
